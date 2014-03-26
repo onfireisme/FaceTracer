@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8034"
+   name=""
+   committed-date="2012-02-15T01:12:10.572616Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/scripting/event"
+   last-author="fracpete"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:06.859375Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="ScriptExecutionEvent.java"
+   text-time="2013-11-25T03:38:06.859375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="eb511db5ecb934e4c0aa25065242a619"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.828125Z"/>
+<entry
+   committed-rev="8034"
+   name="TitleUpdatedEvent.java"
+   text-time="2013-11-25T03:38:06.875000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a8f98b402f41c74af0a31a92c3880f6f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.828125Z"/>
+<entry
+   committed-rev="8034"
+   name="ScriptExecutionListener.java"
+   text-time="2013-11-25T03:38:06.890625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e70a23f2b7fa73988cf96f536c562dc7"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.843750Z"/>
+<entry
+   committed-rev="8034"
+   name="TitleUpdatedListener.java"
+   text-time="2013-11-25T03:38:06.921875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ade8e85549d94d73f02c4b74bb7bc04d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.843750Z"/>
+</wc-entries>

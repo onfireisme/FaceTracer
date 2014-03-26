@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10153"
+   name=""
+   committed-date="2013-11-13T04:54:56.461744Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/rules/part"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:46.531250Z"
+   revision="10228"/>
+<entry
+   committed-rev="10153"
+   name="C45PruneableDecList.java"
+   text-time="2013-11-25T03:38:46.546875Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="a9809c372705a93adc629f37e5f17043"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.453125Z"/>
+<entry
+   committed-rev="10153"
+   name="MakeDecList.java"
+   text-time="2013-11-25T03:38:46.562500Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="ba5ab94aa00d6a9757f2edc646f5d5b7"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.484375Z"/>
+<entry
+   committed-rev="10153"
+   name="PruneableDecList.java"
+   text-time="2013-11-25T03:38:46.578125Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="9101dcec2af3242ae6f02aa8bcbdf485"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.500000Z"/>
+<entry
+   committed-rev="10153"
+   name="ClassifierDecList.java"
+   text-time="2013-11-25T03:38:46.593750Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="7a5fdadd7614bee4406d4f0e7386db42"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.515625Z"/>
+</wc-entries>

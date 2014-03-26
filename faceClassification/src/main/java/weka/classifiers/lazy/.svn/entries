@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10153"
+   name=""
+   committed-date="2013-11-13T04:54:56.461744Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/lazy"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:38.640625Z"
+   revision="10228"/>
+<entry
+   name="kstar"
+   kind="dir"/>
+<entry
+   committed-rev="10141"
+   name="KStar.java"
+   text-time="2013-11-25T03:38:38.656250Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="37d583a648983914617ae063afb70f61"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.421875Z"/>
+<entry
+   committed-rev="10141"
+   name="IBk.java"
+   text-time="2013-11-25T03:38:38.671875Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="d5cadeafed7711ad88d35a908d17d2ef"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.625000Z"/>
+<entry
+   committed-rev="10141"
+   name="LWL.java"
+   text-time="2013-11-25T03:38:38.687500Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="1879ae5b0505f64b59c7b547e8c3d53f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.640625Z"/>
+</wc-entries>

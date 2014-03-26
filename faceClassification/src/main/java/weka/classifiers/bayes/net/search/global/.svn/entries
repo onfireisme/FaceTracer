@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10154"
+   name=""
+   committed-date="2013-11-13T08:50:06.318039Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/global"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:42.953125Z"
+   revision="10228"/>
+<entry
+   committed-rev="10154"
+   name="RepeatedHillClimber.java"
+   text-time="2013-11-25T03:38:42.953125Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="e675b60445183bfee934112d396042b4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.796875Z"/>
+<entry
+   committed-rev="10154"
+   name="TabuSearch.java"
+   text-time="2013-11-25T03:38:42.968750Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="f7761fa83b3131c3f685ef2532597aaa"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.828125Z"/>
+<entry
+   committed-rev="10154"
+   name="TAN.java"
+   text-time="2013-11-25T03:38:42.984375Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="b8c02b750f9d61d50e90898c29da6cf8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.843750Z"/>
+<entry
+   committed-rev="10154"
+   name="GeneticSearch.java"
+   text-time="2013-11-25T03:38:43.000000Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="6ff6b5ab98ec9272473d129b2b6af37c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.875000Z"/>
+<entry
+   committed-rev="10154"
+   name="SimulatedAnnealing.java"
+   text-time="2013-11-25T03:38:43.015625Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="d51263f312d9d683e7a0670ffe541aed"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.890625Z"/>
+<entry
+   committed-rev="10154"
+   name="HillClimber.java"
+   text-time="2013-11-25T03:38:43.031250Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="50859f676fff90fec54d2dad18ed2ce3"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.906250Z"/>
+<entry
+   committed-rev="10154"
+   name="GlobalScoreSearchAlgorithm.java"
+   text-time="2013-11-25T03:38:43.046875Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="ffa38cec0f90bdae9340eee8f780dbf8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.921875Z"/>
+<entry
+   committed-rev="10154"
+   name="K2.java"
+   text-time="2013-11-25T03:38:43.062500Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="feefeae938a5c96fc915a545a882a141"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.937500Z"/>
+</wc-entries>

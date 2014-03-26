@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10154"
+   name=""
+   committed-date="2013-11-13T08:50:06.318039Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/bayes/net/search"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:43.687500Z"
+   revision="10228"/>
+<entry
+   name="fixed"
+   kind="dir"/>
+<entry
+   name="global"
+   kind="dir"/>
+<entry
+   name="local"
+   kind="dir"/>
+<entry
+   name="ci"
+   kind="dir"/>
+<entry
+   committed-rev="10153"
+   name="SearchAlgorithm.java"
+   text-time="2013-11-25T03:38:43.734375Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="e0d056f061ee7b07c871562fc193d6e1"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:43.671875Z"/>
+</wc-entries>

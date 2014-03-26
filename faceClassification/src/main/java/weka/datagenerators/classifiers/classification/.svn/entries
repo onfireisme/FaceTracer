@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/datagenerators/classifiers/classification"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:04.359375Z"
+   revision="10228"/>
+<entry
+   committed-rev="10203"
+   name="BayesNet.java"
+   text-time="2013-11-25T03:38:04.375000Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="77651d1c2c90733818ce72c20338d156"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.312500Z"/>
+<entry
+   committed-rev="10203"
+   name="LED24.java"
+   text-time="2013-11-25T03:38:04.390625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="0a3848a3913bbff8490baaa9649d3de4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.312500Z"/>
+<entry
+   committed-rev="10203"
+   name="RandomRBF.java"
+   text-time="2013-11-25T03:38:04.406250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="2782235b8f523cd59d73a663dd481b4e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.328125Z"/>
+<entry
+   committed-rev="10203"
+   name="RDG1.java"
+   text-time="2013-11-25T03:38:04.421875Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="b0824c83029eab410c751fe8d94e15c8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.343750Z"/>
+<entry
+   committed-rev="10203"
+   name="Agrawal.java"
+   text-time="2013-11-25T03:38:04.437500Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="9d1851566df55a7fe215844ff9ca515c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.359375Z"/>
+</wc-entries>

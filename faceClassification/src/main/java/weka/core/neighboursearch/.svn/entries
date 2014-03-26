@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/core/neighboursearch"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:54.890625Z"
+   revision="10228"/>
+<entry
+   committed-rev="10141"
+   name="PerformanceStats.java"
+   text-time="2013-11-25T03:38:54.906250Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="c83e5bc8630f52590f11fe49ab6c1307"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.156250Z"/>
+<entry
+   committed-rev="10141"
+   name="TreePerformanceStats.java"
+   text-time="2013-11-25T03:38:54.921875Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="212153409504511566accd4c7f49210a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.171875Z"/>
+<entry
+   name="covertrees"
+   kind="dir"/>
+<entry
+   name="kdtrees"
+   kind="dir"/>
+<entry
+   committed-rev="10141"
+   name="BallTree.java"
+   text-time="2013-11-25T03:38:54.937500Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="5036a26b79a0bdb006dfe1dafe510258"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.500000Z"/>
+<entry
+   committed-rev="10203"
+   name="NearestNeighbourSearch.java"
+   text-time="2013-11-25T03:38:54.937500Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="aa1fb6f201cb8546b39cd85300246dde"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.515625Z"/>
+<entry
+   committed-rev="10141"
+   name="LinearNNSearch.java"
+   text-time="2013-11-25T03:38:54.953125Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="c93903cf3c3d98a4543c15344f8b8a5f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.515625Z"/>
+<entry
+   name="balltrees"
+   kind="dir"/>
+<entry
+   committed-rev="10203"
+   name="CoverTree.java"
+   text-time="2013-11-25T03:38:54.968750Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="37ec3e55586017855fa84a8add37be43"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.875000Z"/>
+<entry
+   committed-rev="10141"
+   name="KDTree.java"
+   text-time="2013-11-25T03:38:54.984375Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="a1e7cfc9b4f3cf75c60cafca4516682c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.890625Z"/>
+</wc-entries>

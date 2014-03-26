@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7483"
+   name=""
+   committed-date="2011-08-18T21:29:49.878354Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/images"
+   last-author="fracpete"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:12.109375Z"
+   revision="10228"/>
+<entry
+   committed-rev="5142"
+   name="paste.gif"
+   text-time="2013-11-25T03:38:12.125000Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="92ab050cf1f6a2f320663cbbf1343de6"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.750000Z"/>
+<entry
+   committed-rev="4559"
+   name="information_small.gif"
+   text-time="2013-11-25T03:38:12.140625Z"
+   committed-date="2008-10-14T22:40:25.000953Z"
+   checksum="31faec863f7276d50e8680eaf8209bea"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.750000Z"/>
+<entry
+   committed-rev="4559"
+   name="error_small.gif"
+   text-time="2013-11-25T03:38:12.156250Z"
+   committed-date="2008-10-14T22:40:25.000953Z"
+   checksum="780eec3398018a57394a2d94cc31466e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.765625Z"/>
+<entry
+   committed-rev="5142"
+   name="stop.gif"
+   text-time="2013-11-25T03:38:12.171875Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="91419931d84c896bdb2d6253fb235922"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.796875Z"/>
+<entry
+   committed-rev="2257"
+   name="information.gif"
+   text-time="2013-11-25T03:38:12.187500Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="31cfeaf2c7ee187aa2171aae340e3745"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.812500Z"/>
+<entry
+   committed-rev="4559"
+   name="weka_background.gif"
+   text-time="2013-11-25T03:38:12.203125Z"
+   committed-date="2008-10-14T22:40:25.000953Z"
+   checksum="c64776efc2a446606ef0aae7b16c2578"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.812500Z"/>
+<entry
+   committed-rev="4559"
+   name="empty_small.gif"
+   text-time="2013-11-25T03:38:12.218750Z"
+   committed-date="2008-10-14T22:40:25.000953Z"
+   checksum="eed20d9486f75f4314799371f89e3b0d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.828125Z"/>
+<entry
+   committed-rev="4559"
+   name="home.gif"
+   text-time="2013-11-25T03:38:12.234375Z"
+   committed-date="2008-10-14T22:40:25.000953Z"
+   checksum="6e1ab60e1f63ffa5258ffa6da8512650"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.828125Z"/>
+<entry
+   committed-rev="2257"
+   name="objects.gif"
+   text-time="2013-11-25T03:38:12.250000Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="ff824929a47d18df37efa4594a4fd049"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.843750Z"/>
+<entry
+   committed-rev="2257"
+   name="error.gif"
+   text-time="2013-11-25T03:38:12.250000Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="4047bcd07051d995f46e859d93b233e6"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.859375Z"/>
+<entry
+   committed-rev="2257"
+   name="save.gif"
+   text-time="2013-11-25T03:38:12.265625Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="13323e8abfa977241bef88c3444e50e0"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.875000Z"/>
+<entry
+   committed-rev="2257"
+   name="empty.gif"
+   text-time="2013-11-25T03:38:12.281250Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="eed20d9486f75f4314799371f89e3b0d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.890625Z"/>
+<entry
+   committed-rev="4559"
+   name="question_small.gif"
+   text-time="2013-11-25T03:38:12.296875Z"
+   committed-date="2008-10-14T22:40:25.000953Z"
+   checksum="e0cc515958cc503044fdb64bba5b6694"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.906250Z"/>
+<entry
+   committed-rev="4559"
+   name="weka_splash.gif"
+   text-time="2013-11-25T03:38:12.312500Z"
+   committed-date="2008-10-14T22:40:25.000953Z"
+   checksum="677e91ddedc145f82f1a7e225c14d130"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.921875Z"/>
+<entry
+   committed-rev="2257"
+   name="undo.gif"
+   text-time="2013-11-25T03:38:12.328125Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="7ca428a371528cd7bf9082922387020e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.937500Z"/>
+<entry
+   committed-rev="2257"
+   name="question.gif"
+   text-time="2013-11-25T03:38:12.343750Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="9debf2601eef83d8144c0843d623e8ac"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.937500Z"/>
+<entry
+   committed-rev="7479"
+   name="connect.png"
+   text-time="2013-11-25T03:38:12.359375Z"
+   committed-date="2011-08-18T21:26:46.485577Z"
+   checksum="26eff05ebf3084fad2348a056d6f1423"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.953125Z"/>
+<entry
+   committed-rev="2257"
+   name="copy.gif"
+   text-time="2013-11-25T03:38:12.375000Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="745e951f22f5e8de083a62dad4fed94e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.968750Z"/>
+<entry
+   committed-rev="2257"
+   name="find.gif"
+   text-time="2013-11-25T03:38:12.406250Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="40f759b58f81b95f5af1c4a4e5bfb733"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.000000Z"/>
+<entry
+   committed-rev="7481"
+   name="history.png"
+   text-time="2013-11-25T03:38:12.406250Z"
+   committed-date="2011-08-18T21:28:48.850575Z"
+   checksum="232c011255016420fdb0a052149372f5"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.984375Z"/>
+<entry
+   committed-rev="2257"
+   name="sort.gif"
+   text-time="2013-11-25T03:38:12.421875Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="619580392b0e7f350ab7222762a55ea5"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.000000Z"/>
+<entry
+   committed-rev="5142"
+   name="redo.gif"
+   text-time="2013-11-25T03:38:12.453125Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="e86ab0bc8366844b6ad41c10e5a1713b"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.015625Z"/>
+<entry
+   committed-rev="5142"
+   name="new.gif"
+   text-time="2013-11-25T03:38:12.437500Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="d6841520028e21e725f73ced49bb605e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.015625Z"/>
+<entry
+   committed-rev="5142"
+   name="cut.gif"
+   text-time="2013-11-25T03:38:12.484375Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="68b33680c66f6eb208b2d9f2a95112c8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.031250Z"/>
+<entry
+   committed-rev="2257"
+   name="properties.gif"
+   text-time="2013-11-25T03:38:12.515625Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="009bf28abdecf970aed498a42f55d1cc"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.046875Z"/>
+<entry
+   committed-rev="5142"
+   name="print.gif"
+   text-time="2013-11-25T03:38:12.500000Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="1535962ceebbb36e02954373804d8745"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.031250Z"/>
+<entry
+   committed-rev="7483"
+   name="user.png"
+   text-time="2013-11-25T03:38:12.531250Z"
+   committed-date="2011-08-18T21:29:49.878354Z"
+   checksum="a23bbb2b07a9dda867a0d1d23ba03e85"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.062500Z"/>
+<entry
+   committed-rev="4559"
+   name="back.gif"
+   text-time="2013-11-25T03:38:12.531250Z"
+   committed-date="2008-10-14T22:40:25.000953Z"
+   checksum="989a912244face9da5fb4c8738b56892"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.062500Z"/>
+<entry
+   committed-rev="4559"
+   name="resize.gif"
+   text-time="2013-11-25T03:38:12.562500Z"
+   committed-date="2008-10-14T22:40:25.000953Z"
+   checksum="1d0d200bfd03113890c45b3584dd5cf6"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.078125Z"/>
+<entry
+   committed-rev="2257"
+   name="open.gif"
+   text-time="2013-11-25T03:38:12.546875Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="ce2c3ea5810942d371c0623747bb82a4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.078125Z"/>
+<entry
+   committed-rev="5142"
+   name="delete.gif"
+   text-time="2013-11-25T03:38:12.578125Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="6c0a09b672a821f44d297f92017e9c39"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.093750Z"/>
+<entry
+   committed-rev="5142"
+   name="run.gif"
+   text-time="2013-11-25T03:38:12.593750Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="0f6813d548d7482b660a581573c1e926"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.093750Z"/>
+<entry
+   committed-rev="2257"
+   name="forward.gif"
+   text-time="2013-11-25T03:38:12.609375Z"
+   committed-date="2005-01-27T02:02:34.000000Z"
+   checksum="478dbe0ca65c8f5f69e98751ce00af03"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.109375Z"/>
+</wc-entries>

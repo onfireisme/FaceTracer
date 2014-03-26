@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10222"
+   name=""
+   committed-date="2013-11-22T03:46:55.173449Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/streams"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:36.984375Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="InstanceSavePanel.java"
+   text-time="2013-11-25T03:38:37.000000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7f59fb6b539c1b448538a6d36c302435"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.906250Z"/>
+<entry
+   committed-rev="10222"
+   name="InstanceCounter.java"
+   text-time="2013-11-25T03:38:37.015625Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="f794d6fd876b190c6472ca7cff9532fa"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.906250Z"/>
+<entry
+   committed-rev="8034"
+   name="InstanceEvent.java"
+   text-time="2013-11-25T03:38:37.031250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c522c85e493df173967852e68618836b"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.921875Z"/>
+<entry
+   committed-rev="8034"
+   name="InstanceViewer.java"
+   text-time="2013-11-25T03:38:37.046875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="3b18406bc282e8a29efeeedfd5700465"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.937500Z"/>
+<entry
+   committed-rev="8034"
+   name="InstanceProducer.java"
+   text-time="2013-11-25T03:38:37.062500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="6f721b664065fd1ff7029edc30c87019"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.937500Z"/>
+<entry
+   committed-rev="8034"
+   name="InstanceListener.java"
+   text-time="2013-11-25T03:38:37.078125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="1edaea282b3e6c7fd28bc5fd98b1b2b6"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.953125Z"/>
+<entry
+   committed-rev="8034"
+   name="SerialInstanceListener.java"
+   text-time="2013-11-25T03:38:37.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="1560029969a2705dd2d717ce8d8d9f24"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.953125Z"/>
+<entry
+   committed-rev="10222"
+   name="InstanceJoiner.java"
+   text-time="2013-11-25T03:38:37.093750Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="023b8e5fcbbd03c10dcdcc351a03f3a2"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.968750Z"/>
+<entry
+   committed-rev="10222"
+   name="InstanceLoader.java"
+   text-time="2013-11-25T03:38:37.109375Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="bb69f5d68e1e40337a0c9b751facdeb8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.968750Z"/>
+<entry
+   committed-rev="10222"
+   name="InstanceTable.java"
+   text-time="2013-11-25T03:38:37.125000Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="97d415ddc24c6bc5f5774f6a0a27bb01"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.984375Z"/>
+</wc-entries>

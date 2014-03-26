@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10222"
+   name=""
+   committed-date="2013-11-22T03:46:55.173449Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/sql"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:10.250000Z"
+   revision="10228"/>
+<entry
+   committed-rev="10222"
+   name="ConnectionPanel.java"
+   text-time="2013-11-25T03:38:10.265625Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="2d8d8c764f144e0766f99ea8f48e0c4e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.859375Z"/>
+<entry
+   name="event"
+   kind="dir"/>
+<entry
+   committed-rev="10222"
+   name="SqlViewer.java"
+   text-time="2013-11-25T03:38:10.281250Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="3afa0e58bf3e8ca90585ec462f5a482a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.859375Z"/>
+<entry
+   committed-rev="8034"
+   name="SqlViewerDialog.java"
+   text-time="2013-11-25T03:38:10.296875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ae2a5aec9df521402f6c854756bcf8eb"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.875000Z"/>
+<entry
+   committed-rev="8034"
+   name="InfoPanelCellRenderer.java"
+   text-time="2013-11-25T03:38:10.328125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="46a07de6517609a909f07e7cac59ccd8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.171875Z"/>
+<entry
+   committed-rev="8034"
+   name="ResultSetTable.java"
+   text-time="2013-11-25T03:38:10.343750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="eb0084475328c2086ba0540ae4643120"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.187500Z"/>
+<entry
+   committed-rev="10222"
+   name="ResultSetTableModel.java"
+   text-time="2013-11-25T03:38:10.359375Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="74ed161cf477bfc990fbccdbe7cbe599"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.187500Z"/>
+<entry
+   committed-rev="10222"
+   name="QueryPanel.java"
+   text-time="2013-11-25T03:38:10.375000Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="2174c951c92435a7e41d2a663c137a28"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.203125Z"/>
+<entry
+   committed-rev="8034"
+   name="DbUtils.java"
+   text-time="2013-11-25T03:38:10.390625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b118207c4c10c35980aa67ab04d5e24d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.203125Z"/>
+<entry
+   committed-rev="10222"
+   name="ResultSetTableCellRenderer.java"
+   text-time="2013-11-25T03:38:10.406250Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="ddcfad8ef6422d20f346a6b129834c83"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.218750Z"/>
+<entry
+   committed-rev="10222"
+   name="ResultSetHelper.java"
+   text-time="2013-11-25T03:38:10.421875Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="f602b76f532d55a57daad5721a2d20e2"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.218750Z"/>
+<entry
+   committed-rev="8034"
+   name="InfoPanel.java"
+   text-time="2013-11-25T03:38:10.437500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="fb1e4ab1a1bd039480fdd2b56714e83f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.234375Z"/>
+<entry
+   committed-rev="10222"
+   name="ResultPanel.java"
+   text-time="2013-11-25T03:38:10.453125Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="ad15339966c64af2ea1ca57e116a2014"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.250000Z"/>
+</wc-entries>

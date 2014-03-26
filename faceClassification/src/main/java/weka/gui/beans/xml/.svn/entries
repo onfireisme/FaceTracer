@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10221"
+   name=""
+   committed-date="2013-11-21T23:10:09.251553Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/beans/xml"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:33.609375Z"
+   revision="10228"/>
+<entry
+   committed-rev="10221"
+   name="XMLBeans.java"
+   text-time="2013-11-25T03:38:33.609375Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="9ff37a0965ceccac5b72b6bbd7b071b8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.593750Z"/>
+</wc-entries>

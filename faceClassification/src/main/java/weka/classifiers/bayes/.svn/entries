@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/bayes"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:45.218750Z"
+   revision="10228"/>
+<entry
+   committed-rev="10141"
+   name="NaiveBayesMultinomial.java"
+   text-time="2013-11-25T03:38:45.218750Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="02c47187cf36963c157590c10f94bac9"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.156250Z"/>
+<entry
+   name="net"
+   kind="dir"/>
+<entry
+   committed-rev="10203"
+   name="NaiveBayes.java"
+   text-time="2013-11-25T03:38:45.234375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="a7a066c276ac983b25b43d3188ed9e27"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.171875Z"/>
+<entry
+   committed-rev="10141"
+   name="NaiveBayesMultinomialText.java"
+   text-time="2013-11-25T03:38:45.250000Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="e4d4cc3d0e7931970be0f3904c20c93a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.171875Z"/>
+<entry
+   committed-rev="9412"
+   name="NaiveBayesMultinomialUpdateable.java"
+   text-time="2013-11-25T03:38:45.265625Z"
+   committed-date="2012-12-30T07:38:05.974025Z"
+   checksum="73c6e32ce5b8893d8fceeb42e1881344"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.187500Z"/>
+<entry
+   committed-rev="10141"
+   name="BayesNet.java"
+   text-time="2013-11-25T03:38:45.281250Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="9bad0cacc71abd281aa6d94553e19968"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.203125Z"/>
+<entry
+   committed-rev="8034"
+   name="NaiveBayesUpdateable.java"
+   text-time="2013-11-25T03:38:45.312500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="cd9b4bb5f4fa3f3d48c75be61e7d6ecb"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.203125Z"/>
+</wc-entries>

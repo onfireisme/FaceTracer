@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5349"
+   name=""
+   committed-date="2009-05-17T04:20:17.316077Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/bayes/net/icons"
+   last-author="fracpete"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:44.437500Z"
+   revision="10228"/>
+<entry
+   committed-rev="4901"
+   name="rect.png"
+   text-time="2013-11-25T03:38:44.453125Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="dd522d2b665f0ec2c90b74c7a5457cac"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.093750Z"/>
+<entry
+   committed-rev="4901"
+   name="rect-s.png"
+   text-time="2013-11-25T03:38:44.468750Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="cd9d968b4c11f237ac95bd0355b16376"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.093750Z"/>
+<entry
+   committed-rev="4901"
+   name="save.png"
+   text-time="2013-11-25T03:38:44.484375Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="1fe32a8b9421c03094ea3b7434ce0771"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.109375Z"/>
+<entry
+   committed-rev="4901"
+   name="undo.png"
+   text-time="2013-11-25T03:38:44.531250Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="60e63f5d50dc173fbac8ee59b731d72a"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.109375Z"/>
+<entry
+   committed-rev="4901"
+   name="spacehorizontal.png"
+   text-time="2013-11-25T03:38:44.546875Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="549267273a3f6ffeaf8680ecdc7b5703"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.125000Z"/>
+<entry
+   committed-rev="4901"
+   name="alignleft.png"
+   text-time="2013-11-25T03:38:44.562500Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="85df62d4ee9e15364a25693a30abefe0"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.125000Z"/>
+<entry
+   committed-rev="4901"
+   name="centervertical.png"
+   text-time="2013-11-25T03:38:44.578125Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="0c4733721daf2fb4519d8cc10f2b53e8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.140625Z"/>
+<entry
+   committed-rev="4901"
+   name="copy.png"
+   text-time="2013-11-25T03:38:44.609375Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="2601fbc5b920685ab9b8858af53afbac"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.140625Z"/>
+<entry
+   committed-rev="4901"
+   name="lines-s.png"
+   text-time="2013-11-25T03:38:44.625000Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="92406c3b4d5f484da3fb49a4f4733a9f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.156250Z"/>
+<entry
+   committed-rev="4901"
+   name="lines.png"
+   text-time="2013-11-25T03:38:44.640625Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="5ef69d2af0fe1d81025edb4ee70f2f15"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.156250Z"/>
+<entry
+   committed-rev="4901"
+   name="zoomin.png"
+   text-time="2013-11-25T03:38:44.640625Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="ed7543e12543b25f7e13e24f028083ec"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.171875Z"/>
+<entry
+   committed-rev="4901"
+   name="layout.png"
+   text-time="2013-11-25T03:38:44.656250Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="ab105c501a34cb2a77da97fc222e75d3"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.187500Z"/>
+<entry
+   committed-rev="4901"
+   name="alignbottom.png"
+   text-time="2013-11-25T03:38:44.671875Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="9aca9008f0cf46cf9f87fab2ffe55350"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.187500Z"/>
+<entry
+   committed-rev="4901"
+   name="line-s.png"
+   text-time="2013-11-25T03:38:44.687500Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="8344d4e0114f9382e9fafc71d2daa66d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.203125Z"/>
+<entry
+   committed-rev="4901"
+   name="line.png"
+   text-time="2013-11-25T03:38:44.703125Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="6d4750dba09c1fa8399898432b4f32d3"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.203125Z"/>
+<entry
+   committed-rev="4901"
+   name="help.png"
+   text-time="2013-11-25T03:38:44.718750Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="7d7805b9624308c64d930e42dbe0b8f2"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.218750Z"/>
+<entry
+   committed-rev="4901"
+   name="redo.png"
+   text-time="2013-11-25T03:38:44.750000Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="405d30f8fbb73477aba05141884e6c72"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.234375Z"/>
+<entry
+   committed-rev="4901"
+   name="new.png"
+   text-time="2013-11-25T03:38:44.734375Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="9f0442a17684dab7315643ea41104bfd"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.234375Z"/>
+<entry
+   committed-rev="4901"
+   name="centerhorizontal.png"
+   text-time="2013-11-25T03:38:44.765625Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="8338a7041bf76296520ffa4c74fd9581"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.250000Z"/>
+<entry
+   committed-rev="4901"
+   name="cut.png"
+   text-time="2013-11-25T03:38:44.781250Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="8c36d29f278a00e70b0f771702f16ec9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.250000Z"/>
+<entry
+   committed-rev="4901"
+   name="print.png"
+   text-time="2013-11-25T03:38:44.796875Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="9c8426811b78440aaa31433f479d0452"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.312500Z"/>
+<entry
+   committed-rev="4901"
+   name="oval.png"
+   text-time="2013-11-25T03:38:44.828125Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="b7ee4fd96e15bead015590d90d667c3a"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.343750Z"/>
+<entry
+   committed-rev="4901"
+   name="oval-s.png"
+   text-time="2013-11-25T03:38:44.812500Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="e46b98766d965fc85e18fe1c8388e85c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.343750Z"/>
+<entry
+   committed-rev="4901"
+   name="open.png"
+   text-time="2013-11-25T03:38:44.796875Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="326ace1371378e73bad3b6c61e3e4ab3"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.328125Z"/>
+<entry
+   committed-rev="4901"
+   name="paste.png"
+   text-time="2013-11-25T03:38:44.859375Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="de66ae8bbe22cf84128e0cf490b15ad4"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.359375Z"/>
+<entry
+   committed-rev="4901"
+   name="zoomout.png"
+   text-time="2013-11-25T03:38:44.843750Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="d0913581dbe73a12d41b9259dc437875"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.359375Z"/>
+<entry
+   committed-rev="4901"
+   name="aligntop.png"
+   text-time="2013-11-25T03:38:44.875000Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="f94526b3866dbe939ea9a699edea5574"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.375000Z"/>
+<entry
+   committed-rev="4901"
+   name="select.png"
+   text-time="2013-11-25T03:38:44.921875Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="29c8d0b0fd6dc14749fe082bcaf44945"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.406250Z"/>
+<entry
+   committed-rev="4901"
+   name="select-s.png"
+   text-time="2013-11-25T03:38:44.906250Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="ef7801ff7e743b021bdff3cb51f38669"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.390625Z"/>
+<entry
+   committed-rev="4901"
+   name="rrect.png"
+   text-time="2013-11-25T03:38:44.890625Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="5f6cbc2ac0ace87e9fa193a8fd11676d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.390625Z"/>
+<entry
+   committed-rev="4901"
+   name="spacevertical.png"
+   text-time="2013-11-25T03:38:44.937500Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="ee2b142fd3475c5558aa658937e9dc8f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.406250Z"/>
+<entry
+   committed-rev="4901"
+   name="alignright.png"
+   text-time="2013-11-25T03:38:44.953125Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="99702422792153013b325be4c349c209"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.421875Z"/>
+<entry
+   committed-rev="4901"
+   name="arrow-s.png"
+   text-time="2013-11-25T03:38:44.953125Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="17b8b13bbef88dd333f318e615a40b73"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.421875Z"/>
+<entry
+   committed-rev="4901"
+   name="arrow.png"
+   text-time="2013-11-25T03:38:44.968750Z"
+   committed-date="2008-12-29T05:14:52.619040Z"
+   checksum="429f11581efd5ea44f4041abac9ff05d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:44.437500Z"/>
+</wc-entries>

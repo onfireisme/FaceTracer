@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10222"
+   name=""
+   committed-date="2013-11-22T03:46:55.173449Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/core/xml"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:57.000000Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="XMLDocument.java"
+   text-time="2013-11-25T03:38:57.000000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="889635601d81db3751f765a4942f8061"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.687500Z"/>
+<entry
+   committed-rev="10222"
+   name="XMLBasicSerialization.java"
+   text-time="2013-11-25T03:38:57.015625Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="3de21900b070135bf3db59e1910852a8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.703125Z"/>
+<entry
+   committed-rev="10203"
+   name="KOML.java"
+   text-time="2013-11-25T03:38:57.031250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="4182229ed10e5a74a0506198b07daa3b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.718750Z"/>
+<entry
+   committed-rev="10203"
+   name="PropertyHandler.java"
+   text-time="2013-11-25T03:38:57.046875Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="8ff0924a945bb771d2c8b4f950768fe1"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.718750Z"/>
+<entry
+   committed-rev="10203"
+   name="XStream.java"
+   text-time="2013-11-25T03:38:57.062500Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="4ecd17bc85d9071b560646dfff0a341c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.734375Z"/>
+<entry
+   committed-rev="10203"
+   name="XMLInstances.java"
+   text-time="2013-11-25T03:38:57.078125Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="97ccdd9ffdf86240543e48885d6633a1"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.750000Z"/>
+<entry
+   committed-rev="8034"
+   name="SerialUIDChanger.java"
+   text-time="2013-11-25T03:38:57.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="cb20f3aa3e3f732a44d825b62e3bd9a4"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.750000Z"/>
+<entry
+   committed-rev="10203"
+   name="XMLOptions.java"
+   text-time="2013-11-25T03:38:57.109375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="3ca28069ee53c124ffef89de02747dc0"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.765625Z"/>
+<entry
+   committed-rev="10203"
+   name="XMLSerializationMethodHandler.java"
+   text-time="2013-11-25T03:38:57.125000Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="bf8f308ffab01fdea8d1446daa62b053"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.781250Z"/>
+<entry
+   committed-rev="10203"
+   name="MethodHandler.java"
+   text-time="2013-11-25T03:38:57.140625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="0d5fdab2de905477937d06ac58c9cec3"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.781250Z"/>
+<entry
+   committed-rev="10203"
+   name="XMLSerialization.java"
+   text-time="2013-11-25T03:38:57.156250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="9716cd282ec2548d6495ebcb3618140e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.984375Z"/>
+</wc-entries>

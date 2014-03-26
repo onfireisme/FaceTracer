@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10153"
+   name=""
+   committed-date="2013-11-13T04:54:56.461744Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/pmml/consumer"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:45.484375Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="NeuralNetwork.java"
+   text-time="2013-11-25T03:38:45.500000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="75b452778ca11703c32946cc0319ef37"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.390625Z"/>
+<entry
+   committed-rev="8034"
+   name="Regression.java"
+   text-time="2013-11-25T03:38:45.515625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f374c20d853c65357beca83e3cc9fb3f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.406250Z"/>
+<entry
+   committed-rev="10153"
+   name="TreeModel.java"
+   text-time="2013-11-25T03:38:45.531250Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="ee205f9aace9966073ecf608df50141f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.421875Z"/>
+<entry
+   committed-rev="8034"
+   name="RuleSetModel.java"
+   text-time="2013-11-25T03:38:45.562500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b696471b7716724d4f98d24730ffe68b"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.437500Z"/>
+<entry
+   committed-rev="8034"
+   name="SupportVectorMachineModel.java"
+   text-time="2013-11-25T03:38:45.578125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5ed5404ca746e1d100ac390514537c73"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.453125Z"/>
+<entry
+   committed-rev="8034"
+   name="PMMLClassifier.java"
+   text-time="2013-11-25T03:38:45.609375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7c629d29ed7d0493e558b89c6a006df9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.453125Z"/>
+<entry
+   committed-rev="8034"
+   name="GeneralRegression.java"
+   text-time="2013-11-25T03:38:45.625000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4ebcf53c25df1f0370839255281802f5"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.484375Z"/>
+</wc-entries>

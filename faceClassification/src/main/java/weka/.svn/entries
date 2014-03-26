@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10228"
+   name=""
+   committed-date="2013-11-25T00:44:04.205964Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:39:06.375000Z"
+   revision="10228"/>
+<entry
+   name="associations"
+   kind="dir"/>
+<entry
+   name="experiment"
+   kind="dir"/>
+<entry
+   name="datagenerators"
+   kind="dir"/>
+<entry
+   name="gui"
+   kind="dir"/>
+<entry
+   committed-rev="8980"
+   name="Run.java"
+   text-time="2013-11-25T03:39:06.390625Z"
+   committed-date="2012-07-04T01:49:12.141983Z"
+   checksum="cf3cad5de78cb269325a51f232c2660f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.796875Z"/>
+<entry
+   name="classifiers"
+   kind="dir"/>
+<entry
+   name="core"
+   kind="dir"/>
+<entry
+   name="filters"
+   kind="dir"/>
+<entry
+   name="attributeSelection"
+   kind="dir"/>
+<entry
+   name="estimators"
+   kind="dir"/>
+<entry
+   name="clusterers"
+   kind="dir"/>
+</wc-entries>

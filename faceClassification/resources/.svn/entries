@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9684"
+   name=""
+   committed-date="2013-04-12T04:37:54.678082Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/resources"
+   last-author="mhall"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   revision="10228"/>
+<entry
+   committed-rev="9684"
+   name="packageManager-source.jar"
+   text-time="2013-11-25T03:39:06.546875Z"
+   committed-date="2013-04-12T04:37:54.678082Z"
+   checksum="04fe139e4f83e3742469ddbd650fe904"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:39:06.515625Z"/>
+<entry
+   committed-rev="8033"
+   name="MacArffOpenFilesHandler.java"
+   text-time="2013-11-25T03:39:06.546875Z"
+   committed-date="2012-02-15T00:54:41.439523Z"
+   checksum="2dc6f23d1ea9e56ddb1814fad4ddb9c9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:06.515625Z"/>
+<entry
+   committed-rev="7199"
+   name="MacArffOpenFilesHandler.class"
+   text-time="2013-11-25T03:39:06.562500Z"
+   committed-date="2011-06-13T10:35:55.176940Z"
+   checksum="b4f7eddd10d7707d7d24e0c74605fbb7"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:39:06.531250Z"/>
+</wc-entries>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10169"
+   name=""
+   committed-date="2013-11-14T22:05:52.302840Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/trees/ht"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   revision="10228"/>
+<entry
+   committed-rev="9720"
+   name="SplitMetric.java"
+   text-time="2013-11-25T03:38:40.140625Z"
+   committed-date="2013-05-20T04:14:05.732961Z"
+   checksum="066c17cbf9aa252dd88eccff82eea066"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.968750Z"/>
+<entry
+   committed-rev="10169"
+   name="SplitNode.java"
+   text-time="2013-11-25T03:38:40.156250Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="875960d1055b99ee4cc8a8ddf5aeb838"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.984375Z"/>
+<entry
+   committed-rev="9705"
+   name="ConditionalSufficientStats.java"
+   text-time="2013-11-25T03:38:40.171875Z"
+   committed-date="2013-05-09T02:27:09.157017Z"
+   checksum="1bed03667f5e10ff22b32b9615ec2ee0"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.984375Z"/>
+<entry
+   committed-rev="9705"
+   name="NBNode.java"
+   text-time="2013-11-25T03:38:40.203125Z"
+   committed-date="2013-05-09T02:27:09.157017Z"
+   checksum="86d1d1e8a6cc0c40ccc7248d7e43b437"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.000000Z"/>
+<entry
+   committed-rev="9705"
+   name="LearningNode.java"
+   text-time="2013-11-25T03:38:40.187500Z"
+   committed-date="2013-05-09T02:27:09.157017Z"
+   checksum="645232a9381d88f10173f4526ff1d124"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.000000Z"/>
+<entry
+   committed-rev="9720"
+   name="GiniSplitMetric.java"
+   text-time="2013-11-25T03:38:40.218750Z"
+   committed-date="2013-05-20T04:14:05.732961Z"
+   checksum="5dd3fd126cf31ff0294674a9936070af"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.015625Z"/>
+<entry
+   committed-rev="9720"
+   name="InfoGainSplitMetric.java"
+   text-time="2013-11-25T03:38:40.234375Z"
+   committed-date="2013-05-20T04:14:05.732961Z"
+   checksum="f75fa80102122a4c75ee7172bea6f59a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.015625Z"/>
+<entry
+   committed-rev="9705"
+   name="UnivariateNumericBinarySplit.java"
+   text-time="2013-11-25T03:38:40.265625Z"
+   committed-date="2013-05-09T02:27:09.157017Z"
+   checksum="6fc7842785d2894db9f230cf610bb087"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.031250Z"/>
+<entry
+   committed-rev="9707"
+   name="WeightMass.java"
+   text-time="2013-11-25T03:38:40.250000Z"
+   committed-date="2013-05-12T09:37:01.866310Z"
+   checksum="f374be27dd4f3ba9c68f6ae17d6b5023"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.031250Z"/>
+<entry
+   committed-rev="9705"
+   name="LeafNode.java"
+   text-time="2013-11-25T03:38:40.281250Z"
+   committed-date="2013-05-09T02:27:09.157017Z"
+   checksum="4a74f5e5132543fb0c115d9be6d33ba5"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.046875Z"/>
+<entry
+   committed-rev="10169"
+   name="NominalConditionalSufficientStats.java"
+   text-time="2013-11-25T03:38:40.312500Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="32940522515847116df3f49ebc151c94"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.062500Z"/>
+<entry
+   committed-rev="9705"
+   name="InactiveHNode.java"
+   text-time="2013-11-25T03:38:40.296875Z"
+   committed-date="2013-05-09T02:27:09.157017Z"
+   checksum="b6babb39fa759ec52e596ec1453a3ebf"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.062500Z"/>
+<entry
+   committed-rev="9705"
+   name="NBNodeAdaptive.java"
+   text-time="2013-11-25T03:38:40.328125Z"
+   committed-date="2013-05-09T02:27:09.157017Z"
+   checksum="297954ecff863c71149cb4df3d8045ae"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.078125Z"/>
+<entry
+   committed-rev="9705"
+   name="SplitCandidate.java"
+   text-time="2013-11-25T03:38:40.343750Z"
+   committed-date="2013-05-09T02:27:09.157017Z"
+   checksum="95222052fe8986250dd7f4133d95a4b2"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.078125Z"/>
+<entry
+   committed-rev="9705"
+   name="ActiveHNode.java"
+   text-time="2013-11-25T03:38:40.359375Z"
+   committed-date="2013-05-09T02:27:09.157017Z"
+   checksum="f6a61e2eacade957f869919d56a274c3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.093750Z"/>
+<entry
+   committed-rev="9705"
+   name="Split.java"
+   text-time="2013-11-25T03:38:40.375000Z"
+   committed-date="2013-05-09T02:27:09.157017Z"
+   checksum="9ad8f2ac815645428a31994d764749d4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.109375Z"/>
+<entry
+   committed-rev="9707"
+   name="HNode.java"
+   text-time="2013-11-25T03:38:40.390625Z"
+   committed-date="2013-05-12T09:37:01.866310Z"
+   checksum="2203da5515bbc056104954d283e83f8b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.109375Z"/>
+<entry
+   committed-rev="9705"
+   name="GaussianConditionalSufficientStats.java"
+   text-time="2013-11-25T03:38:40.406250Z"
+   committed-date="2013-05-09T02:27:09.157017Z"
+   checksum="0132b25d3073995bd325be7f515c7a6c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.125000Z"/>
+<entry
+   committed-rev="9705"
+   name="UnivariateNominalMultiwaySplit.java"
+   text-time="2013-11-25T03:38:40.421875Z"
+   committed-date="2013-05-09T02:27:09.157017Z"
+   checksum="d643401a5c9f4c1bc4fec6b67e718382"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.125000Z"/>
+</wc-entries>

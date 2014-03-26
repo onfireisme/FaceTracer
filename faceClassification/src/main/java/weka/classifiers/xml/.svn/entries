@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8034"
+   name=""
+   committed-date="2012-02-15T01:12:10.572616Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/xml"
+   last-author="fracpete"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:46.968750Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="XMLClassifier.java"
+   text-time="2013-11-25T03:38:46.984375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="790d671496eb1183c06dbaf18376c117"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.968750Z"/>
+</wc-entries>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10204"
+   name=""
+   committed-date="2013-11-18T08:36:28.617992Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/experiment/xml"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:02.718750Z"
+   revision="10228"/>
+<entry
+   committed-rev="10204"
+   name="XMLExperiment.java"
+   text-time="2013-11-25T03:38:02.734375Z"
+   committed-date="2013-11-18T08:36:28.617992Z"
+   checksum="823c518a4468ae5debbc890321bca2dc"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.718750Z"/>
+</wc-entries>

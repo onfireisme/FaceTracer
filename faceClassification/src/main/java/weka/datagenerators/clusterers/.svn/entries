@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/datagenerators/clusterers"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:04.609375Z"
+   revision="10228"/>
+<entry
+   committed-rev="10203"
+   name="SubspaceClusterDefinition.java"
+   text-time="2013-11-25T03:38:04.609375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="e64abd20aa775c2f9b18c93ef4e561b9"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.562500Z"/>
+<entry
+   committed-rev="10203"
+   name="SubspaceCluster.java"
+   text-time="2013-11-25T03:38:04.625000Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="627fec77625fac4805dfaccca855e23a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.578125Z"/>
+<entry
+   committed-rev="10203"
+   name="BIRCHCluster.java"
+   text-time="2013-11-25T03:38:04.640625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="6c02028fe03840b283dc11061eb2c849"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.593750Z"/>
+</wc-entries>

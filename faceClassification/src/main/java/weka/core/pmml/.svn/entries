@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/core/pmml"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:52.796875Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="Expression.java"
+   text-time="2013-11-25T03:38:52.796875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="38eaad627d38db1b8e3527ab8e24ea5d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.515625Z"/>
+<entry
+   committed-rev="8034"
+   name="DefineFunction.java"
+   text-time="2013-11-25T03:38:52.812500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c7fcbfbf5939902029256124b4c1ca78"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.515625Z"/>
+<entry
+   committed-rev="8034"
+   name="MiningSchema.java"
+   text-time="2013-11-25T03:38:52.843750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="3f41c802fb02e39eb5d80c5c9f6cda04"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.546875Z"/>
+<entry
+   committed-rev="8034"
+   name="NormContinuous.java"
+   text-time="2013-11-25T03:38:52.828125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c66b5b60772db3077680591acc2b5086"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.531250Z"/>
+<entry
+   committed-rev="10203"
+   name="Discretize.java"
+   text-time="2013-11-25T03:38:52.859375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="bd03c417db2ecf18ef49a0acb75b2cb2"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.546875Z"/>
+<entry
+   committed-rev="10203"
+   name="FieldMetaInfo.java"
+   text-time="2013-11-25T03:38:52.875000Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="fdcf99acf42576aa93f3416aca999f0c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.562500Z"/>
+<entry
+   committed-rev="10203"
+   name="MappingInfo.java"
+   text-time="2013-11-25T03:38:52.890625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="c1f60eae0b6b9780ab30c3e5350f4fcd"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.562500Z"/>
+<entry
+   committed-rev="8034"
+   name="MiningFieldMetaInfo.java"
+   text-time="2013-11-25T03:38:52.906250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a38f46640bc9aaf074cb34b25a0ee929"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.578125Z"/>
+<entry
+   committed-rev="10203"
+   name="DerivedFieldMetaInfo.java"
+   text-time="2013-11-25T03:38:52.937500Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="7e4c74d13c02d11ad877908d3e0178a6"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.609375Z"/>
+<entry
+   committed-rev="8034"
+   name="TargetMetaInfo.java"
+   text-time="2013-11-25T03:38:52.921875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="214b6a255e9d20678dfd0ad17ee6aad3"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.593750Z"/>
+<entry
+   committed-rev="10203"
+   name="Array.java"
+   text-time="2013-11-25T03:38:52.953125Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="ac13b271d53a0ff51d942cc65ca5022e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.640625Z"/>
+<entry
+   committed-rev="8034"
+   name="FieldRef.java"
+   text-time="2013-11-25T03:38:53.000000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5337f67cc21d55442d199adc7c12aa8c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.671875Z"/>
+<entry
+   committed-rev="8034"
+   name="BuiltInMath.java"
+   text-time="2013-11-25T03:38:52.984375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="92c6b79e8caffe7b7d67f0f5f9b18758"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.656250Z"/>
+<entry
+   committed-rev="8034"
+   name="BuiltInArithmetic.java"
+   text-time="2013-11-25T03:38:52.968750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="57fc36008fbf6251400071bc99b650a7"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.640625Z"/>
+<entry
+   committed-rev="8034"
+   name="Apply.java"
+   text-time="2013-11-25T03:38:53.015625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5c9bb752181639bcfcd179f760017b2f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.671875Z"/>
+<entry
+   committed-rev="8034"
+   name="Function.java"
+   text-time="2013-11-25T03:38:53.031250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9912d1b77f738d6cb0ff405dc6173a94"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.687500Z"/>
+<entry
+   committed-rev="8034"
+   name="PMMLModel.java"
+   text-time="2013-11-25T03:38:53.046875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="363710094439ab8c2a3ef881b844100e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.687500Z"/>
+<entry
+   committed-rev="8034"
+   name="PMMLUtils.java"
+   text-time="2013-11-25T03:38:53.078125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="52fcad0cdf7a84c28102183e34b22223"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.703125Z"/>
+<entry
+   committed-rev="8034"
+   name="VectorInstance.java"
+   text-time="2013-11-25T03:38:53.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f4d37419ad4b9802fc19582f0c8e9db3"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.718750Z"/>
+<entry
+   committed-rev="8034"
+   name="VectorDictionary.java"
+   text-time="2013-11-25T03:38:53.109375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7e3a0a167c5140fa28c25c103296ab1b"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.718750Z"/>
+<entry
+   committed-rev="8034"
+   name="Constant.java"
+   text-time="2013-11-25T03:38:53.125000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ca20a6307c4d617403f067d478a171c9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.734375Z"/>
+<entry
+   committed-rev="8034"
+   name="SparseArray.java"
+   text-time="2013-11-25T03:38:53.140625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="de0eac9ad03fe09fc20297a716539778"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.750000Z"/>
+<entry
+   committed-rev="10203"
+   name="TransformationDictionary.java"
+   text-time="2013-11-25T03:38:53.156250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="bfc3e61204409063b77b8bb75b28c355"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.750000Z"/>
+<entry
+   committed-rev="5953"
+   name="BuiltInString.java"
+   text-time="2013-11-25T03:38:53.171875Z"
+   committed-date="2009-09-09T21:18:45.470152Z"
+   checksum="f79500220e8c1a05e98d1fbd43d26229"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.765625Z"/>
+<entry
+   committed-rev="10203"
+   name="PMMLFactory.java"
+   text-time="2013-11-25T03:38:53.171875Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="626c85ea96ac83c982d0f47a1fb83432"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.781250Z"/>
+<entry
+   committed-rev="8034"
+   name="NormDiscrete.java"
+   text-time="2013-11-25T03:38:53.203125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4486aa94a335bdea66b91ca7e0bb302f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.781250Z"/>
+</wc-entries>

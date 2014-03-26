@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10222"
+   name=""
+   committed-date="2013-11-22T03:46:55.173449Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/scripting"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:07.250000Z"
+   revision="10228"/>
+<entry
+   committed-rev="10222"
+   name="JythonScript.java"
+   text-time="2013-11-25T03:38:07.265625Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="2b94cbfb281a14dca8d7ef02ddbda834"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.796875Z"/>
+<entry
+   name="event"
+   kind="dir"/>
+<entry
+   committed-rev="8034"
+   name="FileScriptingPanel.java"
+   text-time="2013-11-25T03:38:07.281250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b868fb47cdb1377400f9879ab9968b1e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.968750Z"/>
+<entry
+   committed-rev="8034"
+   name="ScriptingPanel.java"
+   text-time="2013-11-25T03:38:07.296875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="3dead191c4c464c39aab8c4c9b301797"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.968750Z"/>
+<entry
+   committed-rev="10222"
+   name="Script.java"
+   text-time="2013-11-25T03:38:07.312500Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="584f2babc5b08f81804dff4840c50c18"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="8034"
+   name="GroovyPanel.java"
+   text-time="2013-11-25T03:38:07.328125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c17eaa6207a8e4a919e01791cf0f978f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.015625Z"/>
+<entry
+   committed-rev="8034"
+   name="ScriptUtils.java"
+   text-time="2013-11-25T03:38:07.343750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="2dcba6e02e2f7778954ac607431ad370"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.015625Z"/>
+<entry
+   committed-rev="10222"
+   name="SyntaxDocument.java"
+   text-time="2013-11-25T03:38:07.359375Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="63df68b1733d43ca3f62f4723d82bb2b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.031250Z"/>
+<entry
+   committed-rev="5293"
+   name="Groovy.props"
+   text-time="2013-11-25T03:38:07.375000Z"
+   committed-date="2009-04-23T03:40:07.939009Z"
+   checksum="0d208056fc43371d322608dccc9efc1b"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.218750Z"/>
+<entry
+   committed-rev="8034"
+   name="GroovyScript.java"
+   text-time="2013-11-25T03:38:07.406250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4058efd061fc653b0506af485f23abde"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.234375Z"/>
+<entry
+   committed-rev="8034"
+   name="JythonPanel.java"
+   text-time="2013-11-25T03:38:07.421875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="66fc5743fce734bdef36b8a75d26ff58"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.234375Z"/>
+<entry
+   committed-rev="5293"
+   name="Jython.props"
+   text-time="2013-11-25T03:38:07.437500Z"
+   committed-date="2009-04-23T03:40:07.939009Z"
+   checksum="df337c6401a54b6c8bc2edc3d2bee80d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.250000Z"/>
+</wc-entries>

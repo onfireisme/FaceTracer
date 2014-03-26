@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10153"
+   name=""
+   committed-date="2013-11-13T04:54:56.461744Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/lazy/kstar"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:38.515625Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="KStarConstants.java"
+   text-time="2013-11-25T03:38:38.515625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e92f8ce50d5a07a77d712b87ef28b40e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.453125Z"/>
+<entry
+   committed-rev="8034"
+   name="KStarWrapper.java"
+   text-time="2013-11-25T03:38:38.531250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="cc897ad1e41b67918cc13c4a9bb8ccd3"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.453125Z"/>
+<entry
+   committed-rev="10153"
+   name="KStarNominalAttribute.java"
+   text-time="2013-11-25T03:38:38.546875Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="0f794caeb4761e6e7de83c19e9adbf1a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.468750Z"/>
+<entry
+   committed-rev="10153"
+   name="KStarCache.java"
+   text-time="2013-11-25T03:38:38.562500Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="62a7827a5cbdc5b9cfe17a7b5a4f781c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.500000Z"/>
+<entry
+   committed-rev="10153"
+   name="KStarNumericAttribute.java"
+   text-time="2013-11-25T03:38:38.578125Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="279be03215ff440ecb7c9350b118da80"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.500000Z"/>
+</wc-entries>

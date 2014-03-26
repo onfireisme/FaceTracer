@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10222"
+   name=""
+   committed-date="2013-11-22T03:46:55.173449Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/visualize"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:08.281250Z"
+   revision="10228"/>
+<entry
+   committed-rev="10222"
+   name="PrintablePanel.java"
+   text-time="2013-11-25T03:38:08.296875Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="051958cee59512a3214332b0d45a1460"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.593750Z"/>
+<entry
+   committed-rev="8034"
+   name="VisualizePanelListener.java"
+   text-time="2013-11-25T03:38:08.296875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="d623b569c524f572fe54b80f84786099"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.796875Z"/>
+<entry
+   name="plugins"
+   kind="dir"/>
+<entry
+   committed-rev="10222"
+   name="PrintableComponent.java"
+   text-time="2013-11-25T03:38:08.343750Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="6c4ec3777c1a3de3871769a53c3e05e1"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.796875Z"/>
+<entry
+   committed-rev="10222"
+   name="Plot2D.java"
+   text-time="2013-11-25T03:38:08.375000Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="11a2ed6d92bac5ea5f4d624bc897cd8f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.828125Z"/>
+<entry
+   committed-rev="8034"
+   name="PostscriptWriter.java"
+   text-time="2013-11-25T03:38:08.390625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e4af5a1698edddb08bf9832396f34251"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.843750Z"/>
+<entry
+   committed-rev="8034"
+   name="Plot2DCompanion.java"
+   text-time="2013-11-25T03:38:08.421875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9da2c46f2b6da73c4605b80e93f0a21b"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.859375Z"/>
+<entry
+   committed-rev="10222"
+   name="ThresholdVisualizePanel.java"
+   text-time="2013-11-25T03:38:08.406250Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="fdf776466770bd480e14d87364fff47e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.843750Z"/>
+<entry
+   committed-rev="8034"
+   name="JComponentWriter.java"
+   text-time="2013-11-25T03:38:08.437500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e611b7ae8b0113997fa48a8f6ec2543c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.875000Z"/>
+<entry
+   committed-rev="8034"
+   name="BMPWriter.java"
+   text-time="2013-11-25T03:38:08.453125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="563321348b5ac89e38200c919bda84eb"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.875000Z"/>
+<entry
+   committed-rev="10222"
+   name="LegendPanel.java"
+   text-time="2013-11-25T03:38:08.484375Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="c62938d083eb7a81c405617bce51b8b3"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.890625Z"/>
+<entry
+   committed-rev="10222"
+   name="PrintableHandler.java"
+   text-time="2013-11-25T03:38:08.468750Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="6350743aeee4d78bc47ac24e2d2bf9ef"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.890625Z"/>
+<entry
+   committed-rev="8034"
+   name="InstanceInfo.java"
+   text-time="2013-11-25T03:38:08.500000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="35a64899564d48446b147f961c47f5a8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.906250Z"/>
+<entry
+   committed-rev="8034"
+   name="PNGWriter.java"
+   text-time="2013-11-25T03:38:08.515625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="78e1c5e670e5dbb1d0243620ee4a9ea5"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.906250Z"/>
+<entry
+   committed-rev="10222"
+   name="JPEGWriter.java"
+   text-time="2013-11-25T03:38:08.531250Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="164b93a97d4de6ce5a99e6f12489d242"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.921875Z"/>
+<entry
+   committed-rev="10222"
+   name="AttributePanel.java"
+   text-time="2013-11-25T03:38:08.546875Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="1efef76a0a75d395b18424572f71c7ce"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.937500Z"/>
+<entry
+   committed-rev="10222"
+   name="MatrixPanel.java"
+   text-time="2013-11-25T03:38:08.562500Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="8e1c5893eee99b8975f4fb9330845c87"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.984375Z"/>
+<entry
+   committed-rev="10222"
+   name="ClassPanel.java"
+   text-time="2013-11-25T03:38:08.562500Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="1c55f0c86ebea22ada0240ef9315a1e4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.000000Z"/>
+<entry
+   committed-rev="8034"
+   name="AttributePanelEvent.java"
+   text-time="2013-11-25T03:38:08.578125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="086155186effaba862ed329271f14d87"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.015625Z"/>
+<entry
+   committed-rev="8034"
+   name="AttributePanelListener.java"
+   text-time="2013-11-25T03:38:08.593750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="d146bb93ca5072bda549174e323022e2"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.015625Z"/>
+<entry
+   committed-rev="10222"
+   name="PostscriptGraphics.java"
+   text-time="2013-11-25T03:38:08.609375Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="bb3b2e9af55c134c7c94e32f321c494f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.031250Z"/>
+<entry
+   committed-rev="8034"
+   name="InstanceInfoFrame.java"
+   text-time="2013-11-25T03:38:08.625000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="57481773bd188c6a9325b41ec96d5800"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.046875Z"/>
+<entry
+   committed-rev="10222"
+   name="VisualizePanel.java"
+   text-time="2013-11-25T03:38:08.640625Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="68e8c53210836c72337e284c0a66b7df"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.078125Z"/>
+<entry
+   committed-rev="8034"
+   name="VisualizeUtils.java"
+   text-time="2013-11-25T03:38:08.656250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7063df90c458d9314fe1c7ced77b7727"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.078125Z"/>
+<entry
+   committed-rev="5015"
+   name="Visualize.props"
+   text-time="2013-11-25T03:38:08.671875Z"
+   committed-date="2009-01-31T03:04:57.198775Z"
+   checksum="a750c2680b7229c62208df5d6879e621"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.093750Z"/>
+<entry
+   committed-rev="10222"
+   name="VisualizePanelEvent.java"
+   text-time="2013-11-25T03:38:08.671875Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="6b496d1fc9d91f4c3fcf7c81ff5fbdc8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.093750Z"/>
+<entry
+   committed-rev="10220"
+   name="PlotData2D.java"
+   text-time="2013-11-25T03:38:08.687500Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="748ae707d734473647fa4db61d23c54e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.265625Z"/>
+</wc-entries>

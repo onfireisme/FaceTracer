@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10222"
+   name=""
+   committed-date="2013-11-22T03:46:55.173449Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/boundaryvisualizer"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:06.625000Z"
+   revision="10228"/>
+<entry
+   committed-rev="10222"
+   name="KDDataGenerator.java"
+   text-time="2013-11-25T03:38:06.640625Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="a97d1bd110de98631a15ddf4e0ce9488"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.546875Z"/>
+<entry
+   committed-rev="8034"
+   name="DataGenerator.java"
+   text-time="2013-11-25T03:38:06.656250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e719758b93bacac5b4cd7a7793b0cf02"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.562500Z"/>
+<entry
+   committed-rev="10222"
+   name="BoundaryVisualizer.java"
+   text-time="2013-11-25T03:38:06.671875Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="e710e0ba16f63139fbd126d8c94d74ba"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.578125Z"/>
+<entry
+   committed-rev="10222"
+   name="BoundaryPanel.java"
+   text-time="2013-11-25T03:38:06.687500Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="b12f7e8e7b0d666f2890ee8ace098ff7"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.593750Z"/>
+<entry
+   committed-rev="10222"
+   name="BoundaryPanelDistributed.java"
+   text-time="2013-11-25T03:38:06.703125Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="f3158338cbfc68e6092af573ed276428"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.593750Z"/>
+<entry
+   committed-rev="10222"
+   name="RemoteBoundaryVisualizerSubTask.java"
+   text-time="2013-11-25T03:38:06.718750Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="018dca2053e8eecb1b3190e56a10290f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.609375Z"/>
+<entry
+   committed-rev="10222"
+   name="RemoteResult.java"
+   text-time="2013-11-25T03:38:06.734375Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="c8477e04f570830b0a91980d242b054c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.625000Z"/>
+</wc-entries>

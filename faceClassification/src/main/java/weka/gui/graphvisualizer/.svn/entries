@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10222"
+   name=""
+   committed-date="2013-11-22T03:46:55.173449Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/graphvisualizer"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:09.453125Z"
+   revision="10228"/>
+<entry
+   committed-rev="10222"
+   name="GraphVisualizer.java"
+   text-time="2013-11-25T03:38:09.484375Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="c113aabce59dc4c7199b1066b5f17e17"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.843750Z"/>
+<entry
+   committed-rev="10222"
+   name="DotParser.java"
+   text-time="2013-11-25T03:38:09.515625Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="04ae94a7f588013ff634e104c7c9fa97"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.843750Z"/>
+<entry
+   committed-rev="10153"
+   name="LayoutEngine.java"
+   text-time="2013-11-25T03:38:09.531250Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="bda5e2b871eb628389913ad0d564c3b0"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.875000Z"/>
+<entry
+   committed-rev="8034"
+   name="GraphEdge.java"
+   text-time="2013-11-25T03:38:09.562500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f1dcae3d235daf27455a25e4aa4583ac"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.875000Z"/>
+<entry
+   committed-rev="8034"
+   name="GraphNode.java"
+   text-time="2013-11-25T03:38:09.578125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="97eccf4db8089342bfb3f91025e2d170"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.890625Z"/>
+<entry
+   committed-rev="8034"
+   name="BIFFormatException.java"
+   text-time="2013-11-25T03:38:09.609375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a470843e994c488a2b4b258bd2edcb1c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.890625Z"/>
+<entry
+   committed-rev="8034"
+   name="LayoutCompleteEvent.java"
+   text-time="2013-11-25T03:38:09.625000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="46b8c92bed17f1b355c02d6efb105c98"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.906250Z"/>
+<entry
+   committed-rev="10153"
+   name="HierarchicalBCEngine.java"
+   text-time="2013-11-25T03:38:09.640625Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="ad7c492c9c951714023752afb662191d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.093750Z"/>
+<entry
+   name="icons"
+   kind="dir"/>
+<entry
+   committed-rev="10153"
+   name="BIFParser.java"
+   text-time="2013-11-25T03:38:09.656250Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="acd47b099d0dcf8130e2ac2f1a08b439"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.421875Z"/>
+<entry
+   committed-rev="8034"
+   name="GraphConstants.java"
+   text-time="2013-11-25T03:38:09.671875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="39ac78da6dae873830405128e556bad9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.437500Z"/>
+<entry
+   committed-rev="8034"
+   name="LayoutCompleteEventListener.java"
+   text-time="2013-11-25T03:38:09.687500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a5d32cb080ae8ed2eb0daa5bad6e7199"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.453125Z"/>
+</wc-entries>

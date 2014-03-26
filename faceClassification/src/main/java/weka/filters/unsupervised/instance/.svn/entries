@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10215"
+   name=""
+   committed-date="2013-11-19T23:44:00.667732Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/filters/unsupervised/instance"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:39:03.140625Z"
+   revision="10228"/>
+<entry
+   name="subsetbyexpression"
+   kind="dir"/>
+<entry
+   committed-rev="10215"
+   name="SubsetByExpression.java"
+   text-time="2013-11-25T03:39:03.156250Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="856bf1a8e4ae3bbab18f92058269ddcd"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:02.750000Z"/>
+<entry
+   committed-rev="10215"
+   name="ReservoirSample.java"
+   text-time="2013-11-25T03:39:03.171875Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="55ef335ce0cf862d57e69ff85e3e89ed"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:02.968750Z"/>
+<entry
+   committed-rev="10215"
+   name="RemoveFolds.java"
+   text-time="2013-11-25T03:39:03.187500Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="14bca184c7664f09d35f007f5a014486"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:02.984375Z"/>
+<entry
+   committed-rev="10215"
+   name="RemoveFrequentValues.java"
+   text-time="2013-11-25T03:39:03.203125Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="e979dd63c871cfaf15ec864d6b08e549"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.000000Z"/>
+<entry
+   committed-rev="10215"
+   name="Randomize.java"
+   text-time="2013-11-25T03:39:03.218750Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="34a2e94c57bcff4cd149dbf78d71d0cf"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.015625Z"/>
+<entry
+   committed-rev="10215"
+   name="Resample.java"
+   text-time="2013-11-25T03:39:03.234375Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="086b906674cd849d540a6467f0de50ec"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.031250Z"/>
+<entry
+   committed-rev="10215"
+   name="NonSparseToSparse.java"
+   text-time="2013-11-25T03:39:03.250000Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="d33213355b5b18cfaba876f20b13232c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.046875Z"/>
+<entry
+   committed-rev="10215"
+   name="RemoveWithValues.java"
+   text-time="2013-11-25T03:39:03.265625Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="1eb07f81076019fdb402425a61ed8793"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.078125Z"/>
+<entry
+   committed-rev="8034"
+   name="SparseToNonSparse.java"
+   text-time="2013-11-25T03:39:03.281250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="69a2200b29993b1743f6c49b89c67794"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.093750Z"/>
+<entry
+   committed-rev="10215"
+   name="RemoveRange.java"
+   text-time="2013-11-25T03:39:03.296875Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="99e3ed973aa071c8cd3648e8e717c542"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.109375Z"/>
+<entry
+   committed-rev="10134"
+   name="RemoveDuplicates.java"
+   text-time="2013-11-25T03:39:03.312500Z"
+   committed-date="2013-11-11T02:49:35.618736Z"
+   checksum="5cdc060260669c700229ca79a430ad50"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.109375Z"/>
+<entry
+   committed-rev="10215"
+   name="RemovePercentage.java"
+   text-time="2013-11-25T03:39:03.328125Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="85d10c52dd0544b40d0e8a0770fe0e0d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.125000Z"/>
+<entry
+   committed-rev="10215"
+   name="RemoveMisclassified.java"
+   text-time="2013-11-25T03:39:03.343750Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="5276acea6c0e620c8d3112fd077a40ee"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.140625Z"/>
+</wc-entries>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10153"
+   name=""
+   committed-date="2013-11-13T04:54:56.461744Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/estimators"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:39:05.125000Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="UnivariateDensityEstimator.java"
+   text-time="2013-11-25T03:39:05.140625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="0337c4c6a3e83e5fe0811aca2d31d608"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.734375Z"/>
+<entry
+   committed-rev="10153"
+   name="UnivariateKernelEstimator.java"
+   text-time="2013-11-25T03:39:05.156250Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="99f133c66f465bc5ae70d814b2b1d647"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.734375Z"/>
+<entry
+   committed-rev="8034"
+   name="UnivariateQuantileEstimator.java"
+   text-time="2013-11-25T03:39:05.171875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ce7b6e6bd08e3ee02f183778a7566dd6"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.750000Z"/>
+<entry
+   committed-rev="8034"
+   name="DDConditionalEstimator.java"
+   text-time="2013-11-25T03:39:05.203125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="121b3ec5b7be5e69cc8c30cc70190ab5"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.750000Z"/>
+<entry
+   committed-rev="8034"
+   name="UnivariateIntervalEstimator.java"
+   text-time="2013-11-25T03:39:05.203125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="63e58309e2e86f87a627ece29b12255b"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.781250Z"/>
+<entry
+   committed-rev="10153"
+   name="CheckEstimator.java"
+   text-time="2013-11-25T03:39:05.218750Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="5dcfa35c871c8fcbff15f164ad21445b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.796875Z"/>
+<entry
+   committed-rev="8034"
+   name="MahalanobisEstimator.java"
+   text-time="2013-11-25T03:39:05.234375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="76936c312af7d074d5db065210a55d8a"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.812500Z"/>
+<entry
+   committed-rev="10153"
+   name="Estimator.java"
+   text-time="2013-11-25T03:39:05.250000Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="d276cd40b0189885e855aa220a33e9c5"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.812500Z"/>
+<entry
+   committed-rev="9785"
+   name="KernelEstimator.java"
+   text-time="2013-11-25T03:39:05.281250Z"
+   committed-date="2013-06-21T01:49:35.194706Z"
+   checksum="c014d43f9b8d8484e3bf66dcbc0cacfa"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.843750Z"/>
+<entry
+   committed-rev="8034"
+   name="UnivariateNormalEstimator.java"
+   text-time="2013-11-25T03:39:05.265625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="8fbe8188e1da988abd02de7f6e188806"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.828125Z"/>
+<entry
+   committed-rev="8034"
+   name="KDConditionalEstimator.java"
+   text-time="2013-11-25T03:39:05.312500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c5a546de6a62d1982db3895de2262292"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.859375Z"/>
+<entry
+   committed-rev="8034"
+   name="DKConditionalEstimator.java"
+   text-time="2013-11-25T03:39:05.296875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7cf884dc4b2c898f9880a78de5ff6fd1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.843750Z"/>
+<entry
+   committed-rev="8034"
+   name="NDConditionalEstimator.java"
+   text-time="2013-11-25T03:39:05.343750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e5c5be817b5429c0e0bc3f6aa84527ac"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.875000Z"/>
+<entry
+   committed-rev="8034"
+   name="DNConditionalEstimator.java"
+   text-time="2013-11-25T03:39:05.328125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="8e394fc5ecad64bbd7c370f1457f0e85"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.859375Z"/>
+<entry
+   committed-rev="9785"
+   name="NormalEstimator.java"
+   text-time="2013-11-25T03:39:05.343750Z"
+   committed-date="2013-06-21T01:49:35.194706Z"
+   checksum="a21215612af9f4d3930cfa34b9a1cf67"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.875000Z"/>
+<entry
+   committed-rev="8034"
+   name="KKConditionalEstimator.java"
+   text-time="2013-11-25T03:39:05.359375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="690e5083cb3e7caebfe22ef6d8bf44cc"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.890625Z"/>
+<entry
+   committed-rev="8034"
+   name="PoissonEstimator.java"
+   text-time="2013-11-25T03:39:05.375000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="8d8c6c8cb205af82ad514dd813e44da0"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.906250Z"/>
+<entry
+   committed-rev="10153"
+   name="NNConditionalEstimator.java"
+   text-time="2013-11-25T03:39:05.390625Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="1afa7baefe635c274523dd464ccdda5f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.906250Z"/>
+<entry
+   committed-rev="10153"
+   name="UnivariateEqualFrequencyHistogramEstimator.java"
+   text-time="2013-11-25T03:39:05.406250Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="61aea4ab4a704089310d7da384fd92ee"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.062500Z"/>
+<entry
+   committed-rev="10153"
+   name="EstimatorUtils.java"
+   text-time="2013-11-25T03:39:05.421875Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="02dd8731aedfac56259fb1e404bb6bcb"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.078125Z"/>
+<entry
+   committed-rev="10153"
+   name="MultivariateGaussianEstimator.java"
+   text-time="2013-11-25T03:39:05.437500Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="f7690d2bc6a81369286e7f4de235ed7f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.093750Z"/>
+<entry
+   committed-rev="8034"
+   name="IncrementalEstimator.java"
+   text-time="2013-11-25T03:39:05.453125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9dbfa486eac6503f1ddc212877e873c3"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.093750Z"/>
+<entry
+   committed-rev="9785"
+   name="DiscreteEstimator.java"
+   text-time="2013-11-25T03:39:05.468750Z"
+   committed-date="2013-06-21T01:49:35.194706Z"
+   checksum="f7c539de297bd256c01ecb6a5297c2d7"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.109375Z"/>
+<entry
+   committed-rev="8034"
+   name="ConditionalEstimator.java"
+   text-time="2013-11-25T03:39:05.484375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="bfc9a1b5b843dbfa69e7177dee24ab8d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.109375Z"/>
+<entry
+   committed-rev="9460"
+   name="MultivariateEstimator.java"
+   text-time="2013-11-25T03:39:05.500000Z"
+   committed-date="2013-01-15T20:50:35.396242Z"
+   checksum="2e838487526706bb620513947f662056"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.125000Z"/>
+</wc-entries>
