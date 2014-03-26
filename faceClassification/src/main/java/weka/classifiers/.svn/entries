@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:49.640625Z"
+   revision="10228"/>
+<entry
+   name="lazy"
+   kind="dir"/>
+<entry
+   committed-rev="8034"
+   name="IterativeClassifier.java"
+   text-time="2013-11-25T03:38:49.656250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="20ee6cb8a79150fcb015d3fab436d420"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.718750Z"/>
+<entry
+   name="trees"
+   kind="dir"/>
+<entry
+   committed-rev="9320"
+   name="AggregateableEvaluation.java"
+   text-time="2013-11-25T03:38:49.687500Z"
+   committed-date="2012-11-13T20:20:23.998050Z"
+   checksum="b59c42f3841bcbb369100ba40a92e663"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.718750Z"/>
+<entry
+   committed-rev="10141"
+   name="MultipleClassifiersCombiner.java"
+   text-time="2013-11-25T03:38:49.703125Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="58c3436862fe305265b1917b1b3a3130"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.734375Z"/>
+<entry
+   committed-rev="10141"
+   name="RandomizableIteratedSingleClassifierEnhancer.java"
+   text-time="2013-11-25T03:38:49.718750Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="2f9fc61f45b68d8dd389423897a13b66"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.828125Z"/>
+<entry
+   committed-rev="10141"
+   name="BVDecompose.java"
+   text-time="2013-11-25T03:38:49.734375Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="c6ab3b25c34f036158c13fc64c9211a4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.984375Z"/>
+<entry
+   name="meta"
+   kind="dir"/>
+<entry
+   committed-rev="10141"
+   name="RandomizableParallelMultipleClassifiersCombiner.java"
+   text-time="2013-11-25T03:38:49.750000Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="d63d5720d1533a93cc5578325b730e83"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.000000Z"/>
+<entry
+   committed-rev="10141"
+   name="BVDecomposeSegCVSub.java"
+   text-time="2013-11-25T03:38:49.796875Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="2f04c61d16138b5a493b82780a4c4cc8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.031250Z"/>
+<entry
+   committed-rev="10203"
+   name="AbstractClassifier.java"
+   text-time="2013-11-25T03:38:49.781250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="d11906a259403a8592899829a77c97a3"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.015625Z"/>
+<entry
+   committed-rev="8034"
+   name="UpdateableClassifier.java"
+   text-time="2013-11-25T03:38:49.812500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c1d49ff420dd0cdfc47336e686e0ea58"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.031250Z"/>
+<entry
+   committed-rev="10141"
+   name="IteratedSingleClassifierEnhancer.java"
+   text-time="2013-11-25T03:38:49.843750Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="c9f017df01828561bb2b6aed6a467c93"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.046875Z"/>
+<entry
+   committed-rev="8034"
+   name="IntervalEstimator.java"
+   text-time="2013-11-25T03:38:49.828125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7ff3915a13f79d6f2a202eaddc71a6b2"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.046875Z"/>
+<entry
+   committed-rev="10141"
+   name="ParallelMultipleClassifiersCombiner.java"
+   text-time="2013-11-25T03:38:49.859375Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="0681b97b38bd317f9baa84273aa392c0"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.062500Z"/>
+<entry
+   committed-rev="10141"
+   name="RandomizableSingleClassifierEnhancer.java"
+   text-time="2013-11-25T03:38:49.875000Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="ac0236944d7812b442be8b1779156fbe"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.125000Z"/>
+<entry
+   name="scripting"
+   kind="dir"/>
+<entry
+   name="bayes"
+   kind="dir"/>
+<entry
+   name="pmml"
+   kind="dir"/>
+<entry
+   committed-rev="10141"
+   name="SingleClassifierEnhancer.java"
+   text-time="2013-11-25T03:38:49.890625Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="cabed677b15fe7a11fff5f534908eb70"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.671875Z"/>
+<entry
+   committed-rev="10141"
+   name="CostMatrix.java"
+   text-time="2013-11-25T03:38:49.921875Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="c8a26d18b1e2c4d24396d6d318e6f8fb"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.734375Z"/>
+<entry
+   committed-rev="10153"
+   name="Evaluation.java"
+   text-time="2013-11-25T03:38:49.937500Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="2668b5898fd8eeab807af63bac99d4d2"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.765625Z"/>
+<entry
+   name="rules"
+   kind="dir"/>
+<entry
+   name="misc"
+   kind="dir"/>
+<entry
+   committed-rev="10141"
+   name="RandomizableClassifier.java"
+   text-time="2013-11-25T03:38:49.953125Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="9c520e1c464ddb028e35f207f96882c1"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.937500Z"/>
+<entry
+   committed-rev="8034"
+   name="Sourcable.java"
+   text-time="2013-11-25T03:38:49.953125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="0a55e8ccc1f556428a1dd6099413134d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.937500Z"/>
+<entry
+   name="xml"
+   kind="dir"/>
+<entry
+   committed-rev="10141"
+   name="RandomizableParallelIteratedSingleClassifierEnhancer.java"
+   text-time="2013-11-25T03:38:49.968750Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="2ab7cd2adbad6d9a0f8e47a5b9f38019"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.015625Z"/>
+<entry
+   committed-rev="10153"
+   name="CheckClassifier.java"
+   text-time="2013-11-25T03:38:49.984375Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="ae9111b4078b4c735109d71328e1e8ba"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.031250Z"/>
+<entry
+   committed-rev="8034"
+   name="Classifier.java"
+   text-time="2013-11-25T03:38:50.000000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c6f48b29f222d4619a5363709322663e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.046875Z"/>
+<entry
+   name="evaluation"
+   kind="dir"/>
+<entry
+   name="functions"
+   kind="dir"/>
+<entry
+   committed-rev="10141"
+   name="ParallelIteratedSingleClassifierEnhancer.java"
+   text-time="2013-11-25T03:38:50.015625Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="fdc106af9feb20f5485892a3c6dceddc"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:49.578125Z"/>
+<entry
+   committed-rev="10141"
+   name="RandomizableMultipleClassifiersCombiner.java"
+   text-time="2013-11-25T03:38:50.031250Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="7327d61b228aa820862c6d743a1696a3"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:49.593750Z"/>
+<entry
+   committed-rev="8034"
+   name="ConditionalDensityEstimator.java"
+   text-time="2013-11-25T03:38:50.046875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="2e7936afcd7c501cdf8216a6266007a1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:49.593750Z"/>
+<entry
+   committed-rev="10141"
+   name="CheckSource.java"
+   text-time="2013-11-25T03:38:50.062500Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="7460aa1ef653942281e25fee0e6bed8a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:49.609375Z"/>
+</wc-entries>

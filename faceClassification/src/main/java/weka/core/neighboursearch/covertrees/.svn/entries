@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/core/neighboursearch/covertrees"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:54.203125Z"
+   revision="10228"/>
+<entry
+   committed-rev="10203"
+   name="Stack.java"
+   text-time="2013-11-25T03:38:54.218750Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="a0666236c28ba2a2d2ac30c3ee44b718"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.203125Z"/>
+</wc-entries>

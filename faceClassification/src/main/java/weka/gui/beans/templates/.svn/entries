@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7915"
+   name=""
+   committed-date="2011-11-30T21:48:36.861500Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/beans/templates"
+   last-author="mhall"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   revision="10228"/>
+<entry
+   committed-rev="7724"
+   name="templates.props"
+   text-time="2013-11-25T03:38:33.281250Z"
+   committed-date="2011-10-16T22:36:16.499876Z"
+   checksum="123408a706e1dd4029cb8ce02d8cd584"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.781250Z"/>
+<entry
+   committed-rev="7713"
+   name="ROCcurves.kfml"
+   text-time="2013-11-25T03:38:33.296875Z"
+   committed-date="2011-10-16T07:59:23.304795Z"
+   checksum="876d7bdddd0ba164a8b3735e9b1e2d6d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.796875Z"/>
+<entry
+   committed-rev="7714"
+   name="iris.arff"
+   text-time="2013-11-25T03:38:33.312500Z"
+   committed-date="2011-10-16T07:59:48.145614Z"
+   checksum="25d7d5d689042a3816aa1598d5fd56ef"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.812500Z"/>
+<entry
+   committed-rev="7262"
+   name="incrementalLearning.kfml"
+   text-time="2013-11-25T03:38:33.343750Z"
+   committed-date="2011-06-20T08:19:08.203576Z"
+   checksum="b0cf4f76c9f2f1bcd55ced5cb00eabb2"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.828125Z"/>
+<entry
+   committed-rev="7714"
+   name="credit-g.arff"
+   text-time="2013-11-25T03:38:33.359375Z"
+   committed-date="2011-10-16T07:59:48.145614Z"
+   checksum="f0a4f17c911fb865629a699d918ceb41"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.125000Z"/>
+<entry
+   committed-rev="7915"
+   name="saveCharts.kfml"
+   text-time="2013-11-25T03:38:33.406250Z"
+   committed-date="2011-11-30T21:48:36.861500Z"
+   checksum="528d315a57fe437a996aa18f1eb67e4a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.187500Z"/>
+<entry
+   committed-rev="7713"
+   name="cvTemplate.kfml"
+   text-time="2013-11-25T03:38:33.437500Z"
+   committed-date="2011-10-16T07:59:23.304795Z"
+   checksum="f5eb056afe3595e0612ab05e8db3089f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.187500Z"/>
+<entry
+   committed-rev="7713"
+   name="learnAndSaveModel.kfml"
+   text-time="2013-11-25T03:38:33.453125Z"
+   committed-date="2011-10-16T07:59:23.304795Z"
+   checksum="fab0040121a94e4462066d3c9605599b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.234375Z"/>
+<entry
+   committed-rev="7713"
+   name="twoClusterers.kfml"
+   text-time="2013-11-25T03:38:33.484375Z"
+   committed-date="2011-10-16T07:59:23.304795Z"
+   checksum="9ea7ff00e1ccf987d36b00bbb190ce2b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.265625Z"/>
+</wc-entries>

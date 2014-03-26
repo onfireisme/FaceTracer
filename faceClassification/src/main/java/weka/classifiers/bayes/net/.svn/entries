@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10154"
+   name=""
+   committed-date="2013-11-13T08:50:06.318039Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/bayes/net"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:45.031250Z"
+   revision="10228"/>
+<entry
+   committed-rev="10153"
+   name="BayesNetGenerator.java"
+   text-time="2013-11-25T03:38:45.046875Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="af9a434e4c6b8fc4cf6c363257c553d0"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.218750Z"/>
+<entry
+   committed-rev="10153"
+   name="BIFReader.java"
+   text-time="2013-11-25T03:38:45.062500Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="aab7cb482fc7335866e180015fb67cd2"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.218750Z"/>
+<entry
+   committed-rev="10153"
+   name="EditableBayesNet.java"
+   text-time="2013-11-25T03:38:45.078125Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="1e6d01e20d07ef99e2250c44b7a1d9da"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.375000Z"/>
+<entry
+   committed-rev="10153"
+   name="GUI.java"
+   text-time="2013-11-25T03:38:45.093750Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="04fa1f76048e5675f6950b8061768b35"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.406250Z"/>
+<entry
+   name="search"
+   kind="dir"/>
+<entry
+   committed-rev="8034"
+   name="ParentSet.java"
+   text-time="2013-11-25T03:38:45.109375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b87f8a9c3ad50e4903ba646c555a0701"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.421875Z"/>
+<entry
+   committed-rev="10154"
+   name="MarginCalculator.java"
+   text-time="2013-11-25T03:38:45.125000Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="4dbf4f22531c49628394bf9a3e962c58"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:43.781250Z"/>
+<entry
+   committed-rev="10153"
+   name="VaryNode.java"
+   text-time="2013-11-25T03:38:45.125000Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="b3a1bddd50eb7f3ca3298a02231df420"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:43.781250Z"/>
+<entry
+   committed-rev="10153"
+   name="ADNode.java"
+   text-time="2013-11-25T03:38:45.140625Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="5e270d5012e36fed92cfb5bc8ce774fa"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:43.796875Z"/>
+<entry
+   name="estimate"
+   kind="dir"/>
+<entry
+   name="icons"
+   kind="dir"/>
+</wc-entries>

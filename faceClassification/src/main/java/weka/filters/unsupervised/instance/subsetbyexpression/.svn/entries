@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10215"
+   name=""
+   committed-date="2013-11-19T23:44:00.667732Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/filters/unsupervised/instance/subsetbyexpression"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:39:02.843750Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="Scanner.jflex"
+   text-time="2013-11-25T03:39:02.859375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f7adde72772d9a64ddedb1ca08d4f989"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:02.781250Z"/>
+<entry
+   committed-rev="9804"
+   name="Parser.cup"
+   text-time="2013-11-25T03:39:02.875000Z"
+   committed-date="2013-06-26T02:39:04.083320Z"
+   checksum="90ebd1cec0c14b65a127088c6a363a8a"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:02.796875Z"/>
+<entry
+   committed-rev="9804"
+   name="sym.java"
+   text-time="2013-11-25T03:39:02.890625Z"
+   committed-date="2013-06-26T02:39:04.083320Z"
+   checksum="b9510356d866c603d1deba2988e13cf9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:02.812500Z"/>
+<entry
+   committed-rev="10215"
+   name="Scanner.java"
+   text-time="2013-11-25T03:39:02.906250Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="3007f44bb1d67ad95f3b603533c87267"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:02.812500Z"/>
+<entry
+   committed-rev="10215"
+   name="Parser.java"
+   text-time="2013-11-25T03:39:02.921875Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="e0cf3a0ba791ccd075ad00721e5635b0"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:02.828125Z"/>
+</wc-entries>

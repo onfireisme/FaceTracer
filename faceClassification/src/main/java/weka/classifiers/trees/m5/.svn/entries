@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10169"
+   name=""
+   committed-date="2013-11-14T22:05:52.302840Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/trees/m5"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:38.906250Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="Values.java"
+   text-time="2013-11-25T03:38:38.921875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a7943ae345a83014fd741744b6b82576"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.812500Z"/>
+<entry
+   committed-rev="8034"
+   name="PreConstructedLinearModel.java"
+   text-time="2013-11-25T03:38:38.937500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="28b7263ee3da24fdcb1bc9580c735c3e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.812500Z"/>
+<entry
+   committed-rev="8034"
+   name="Impurity.java"
+   text-time="2013-11-25T03:38:38.953125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5208ade127a98a51fd540a75c224b164"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.828125Z"/>
+<entry
+   committed-rev="8034"
+   name="SplitEvaluate.java"
+   text-time="2013-11-25T03:38:38.968750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4cab4c7cdb05ebb569f87ea7952e526a"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.843750Z"/>
+<entry
+   committed-rev="10169"
+   name="YongSplitInfo.java"
+   text-time="2013-11-25T03:38:38.984375Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="f0ff838ea7e5800c41a65a21b90a10e9"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.859375Z"/>
+<entry
+   committed-rev="10169"
+   name="Rule.java"
+   text-time="2013-11-25T03:38:39.000000Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="2b6d508eed72ac071b05cd67506a3846"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.875000Z"/>
+<entry
+   committed-rev="10169"
+   name="CorrelationSplitInfo.java"
+   text-time="2013-11-25T03:38:39.015625Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="8521218d5a546e7cf1155b53b357c936"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.875000Z"/>
+<entry
+   committed-rev="10153"
+   name="M5Base.java"
+   text-time="2013-11-25T03:38:39.031250Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="979d9e79761783748be1af75e172d413"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.890625Z"/>
+<entry
+   committed-rev="10169"
+   name="RuleNode.java"
+   text-time="2013-11-25T03:38:39.046875Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="9880345c2a740c100db45b421adae726"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.906250Z"/>
+</wc-entries>

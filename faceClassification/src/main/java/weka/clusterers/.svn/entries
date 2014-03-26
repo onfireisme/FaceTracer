@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10212"
+   name=""
+   committed-date="2013-11-19T03:56:28.470814Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/clusterers"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:39:06.046875Z"
+   revision="10228"/>
+<entry
+   committed-rev="10203"
+   name="RandomizableDensityBasedClusterer.java"
+   text-time="2013-11-25T03:39:06.093750Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="e1da84301c1be422da82262d57a8da4a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.593750Z"/>
+<entry
+   committed-rev="8034"
+   name="NumberOfClustersRequestable.java"
+   text-time="2013-11-25T03:39:06.078125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="43238f4eec79ad2a6fb763ffa48a2c43"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.578125Z"/>
+<entry
+   committed-rev="8034"
+   name="UpdateableClusterer.java"
+   text-time="2013-11-25T03:39:06.062500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="efe9fe7146b84fdda1c653cdfc3b82f1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.578125Z"/>
+<entry
+   committed-rev="10203"
+   name="RandomizableClusterer.java"
+   text-time="2013-11-25T03:39:06.109375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="a1a62e4c93e40d49f20599ff4b69eeaf"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.609375Z"/>
+<entry
+   committed-rev="10203"
+   name="EM.java"
+   text-time="2013-11-25T03:39:06.140625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="808c630862970831bd0473d55cb89df4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.640625Z"/>
+<entry
+   committed-rev="10203"
+   name="Cobweb.java"
+   text-time="2013-11-25T03:39:06.125000Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="8a14787c8b9d4ff4c0314aa655fd189a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.625000Z"/>
+<entry
+   committed-rev="10203"
+   name="MakeDensityBasedClusterer.java"
+   text-time="2013-11-25T03:39:06.156250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="ff59599cf00275b9c81b56475a847dfc"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.656250Z"/>
+<entry
+   committed-rev="10203"
+   name="RandomizableSingleClustererEnhancer.java"
+   text-time="2013-11-25T03:39:06.187500Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="b6c666a40d2b79420dc20b18983f5fa6"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.671875Z"/>
+<entry
+   committed-rev="10203"
+   name="CheckClusterer.java"
+   text-time="2013-11-25T03:39:06.171875Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="755456d6e4c341816a0424c48aaee0d2"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.671875Z"/>
+<entry
+   committed-rev="10203"
+   name="HierarchicalClusterer.java"
+   text-time="2013-11-25T03:39:06.203125Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="5aca7aa36b0418b5b9d620e53a902493"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.921875Z"/>
+<entry
+   committed-rev="9379"
+   name="DensityBasedClusterer.java"
+   text-time="2013-11-25T03:39:06.203125Z"
+   committed-date="2012-12-02T06:52:32.089992Z"
+   checksum="c158d170500efb584f92a9fb6772ca1e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.687500Z"/>
+<entry
+   committed-rev="8034"
+   name="Clusterer.java"
+   text-time="2013-11-25T03:39:06.218750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="0ac2e07b891706ae009c25632ee1f026"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.937500Z"/>
+<entry
+   committed-rev="10203"
+   name="ClusterEvaluation.java"
+   text-time="2013-11-25T03:39:06.234375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="34c3b89c85f3035606a7e730f549e0ce"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.953125Z"/>
+<entry
+   committed-rev="10203"
+   name="SingleClustererEnhancer.java"
+   text-time="2013-11-25T03:39:06.250000Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="d97f5de37b6a0766440e5ce3218869ad"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.968750Z"/>
+<entry
+   committed-rev="10203"
+   name="FilteredClusterer.java"
+   text-time="2013-11-25T03:39:06.265625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="b55081879e05b9361248c39a4365f045"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.984375Z"/>
+<entry
+   committed-rev="10203"
+   name="FarthestFirst.java"
+   text-time="2013-11-25T03:39:06.281250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="151dc0dbaf0098b9dbe5bc0c928c469d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:05.984375Z"/>
+<entry
+   committed-rev="10203"
+   name="SimpleKMeans.java"
+   text-time="2013-11-25T03:39:06.296875Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="a9ec5d8c3d52eaf2febe24dbd5537593"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:06.031250Z"/>
+<entry
+   committed-rev="8034"
+   name="AbstractDensityBasedClusterer.java"
+   text-time="2013-11-25T03:39:06.328125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f59b68178b07acb52a3247f88dab2541"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:06.031250Z"/>
+<entry
+   committed-rev="10212"
+   name="AbstractClusterer.java"
+   text-time="2013-11-25T03:39:06.343750Z"
+   committed-date="2013-11-19T03:56:28.470814Z"
+   checksum="6c4f321f1646967cc0aa814404f44a47"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:06.046875Z"/>
+</wc-entries>

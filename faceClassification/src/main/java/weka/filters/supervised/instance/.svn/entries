@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10215"
+   name=""
+   committed-date="2013-11-19T23:44:00.667732Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/filters/supervised/instance"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:59.421875Z"
+   revision="10228"/>
+<entry
+   committed-rev="10215"
+   name="StratifiedRemoveFolds.java"
+   text-time="2013-11-25T03:38:59.421875Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="c7e77602c9f591bd59e5164b3c877a42"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.390625Z"/>
+<entry
+   committed-rev="10215"
+   name="Resample.java"
+   text-time="2013-11-25T03:38:59.437500Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="30b6d51d1ef05c17595d2feb775715f4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.406250Z"/>
+<entry
+   committed-rev="10215"
+   name="SpreadSubsample.java"
+   text-time="2013-11-25T03:38:59.484375Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="4cf49d8a4f3ca74f9c36e1b273b50482"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.406250Z"/>
+</wc-entries>

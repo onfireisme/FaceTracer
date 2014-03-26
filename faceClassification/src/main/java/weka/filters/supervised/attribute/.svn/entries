@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10215"
+   name=""
+   committed-date="2013-11-19T23:44:00.667732Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/filters/supervised/attribute"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:59.187500Z"
+   revision="10228"/>
+<entry
+   committed-rev="10215"
+   name="ClassOrder.java"
+   text-time="2013-11-25T03:38:59.203125Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="8987e33a589ebfb908a7a924ff791c24"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.109375Z"/>
+<entry
+   committed-rev="10215"
+   name="AddClassification.java"
+   text-time="2013-11-25T03:38:59.218750Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="ce5cdb10e18a285096a4b2ef71be9e91"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.125000Z"/>
+<entry
+   committed-rev="10215"
+   name="Discretize.java"
+   text-time="2013-11-25T03:38:59.218750Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="536ff40fcb56f154e75c6c569568ac01"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.140625Z"/>
+<entry
+   committed-rev="10215"
+   name="NominalToBinary.java"
+   text-time="2013-11-25T03:38:59.234375Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="779d4372d78a61905505c1f7640f74a2"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.140625Z"/>
+<entry
+   committed-rev="10215"
+   name="PartitionMembership.java"
+   text-time="2013-11-25T03:38:59.250000Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="c2ef43b4d1f4a8f113826beeef5c816e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.156250Z"/>
+<entry
+   committed-rev="10215"
+   name="AttributeSelection.java"
+   text-time="2013-11-25T03:38:59.312500Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="2ac8ef786a67db478663091a8093ea37"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.171875Z"/>
+<entry
+   committed-rev="10215"
+   name="MergeNominalValues.java"
+   text-time="2013-11-25T03:38:59.328125Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="fd302f7037e58afcb6d2814d291d636f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.171875Z"/>
+</wc-entries>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/associations"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:01.031250Z"
+   revision="10228"/>
+<entry
+   committed-rev="10172"
+   name="AssociatorEvaluation.java"
+   text-time="2013-11-25T03:38:01.046875Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="9ccce0d3bb9b12bdb1f4e9535c086502"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.593750Z"/>
+<entry
+   committed-rev="10172"
+   name="FPGrowth.java"
+   text-time="2013-11-25T03:38:01.078125Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="fe2db806044fd604499a62c4e74a015e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.625000Z"/>
+<entry
+   committed-rev="10203"
+   name="AprioriItemSet.java"
+   text-time="2013-11-25T03:38:01.062500Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="714dbb5028197d6f80513a7bcd3a3adf"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.609375Z"/>
+<entry
+   committed-rev="8034"
+   name="BinaryItem.java"
+   text-time="2013-11-25T03:38:01.078125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a8f52677a502f2573752c1a2e79475ef"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.640625Z"/>
+<entry
+   committed-rev="8034"
+   name="AssociationRule.java"
+   text-time="2013-11-25T03:38:01.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e1810f0ded6ee6c6a950d6cc3be5e380"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.640625Z"/>
+<entry
+   committed-rev="10172"
+   name="CheckAssociator.java"
+   text-time="2013-11-25T03:38:01.140625Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="cacf139737aa030ee750832f5b24d073"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.687500Z"/>
+<entry
+   committed-rev="10203"
+   name="Apriori.java"
+   text-time="2013-11-25T03:38:01.125000Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="9e2cae8b7a2e6c944009c1f970086b4f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.671875Z"/>
+<entry
+   committed-rev="8034"
+   name="FilteredAssociationRules.java"
+   text-time="2013-11-25T03:38:01.156250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="be28f34fa9a2c3bdce70650c81178e15"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.703125Z"/>
+<entry
+   committed-rev="10172"
+   name="CARuleMiner.java"
+   text-time="2013-11-25T03:38:01.156250Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="ef63acde6539c61b9aea3de16bff8ff5"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.703125Z"/>
+<entry
+   committed-rev="8034"
+   name="Associator.java"
+   text-time="2013-11-25T03:38:01.171875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="403c37eede1773c2352b640bf4817e4d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.718750Z"/>
+<entry
+   committed-rev="8034"
+   name="DefaultAssociationRule.java"
+   text-time="2013-11-25T03:38:01.187500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ed927cac2bb6c9e26648bdaa33100135"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.718750Z"/>
+<entry
+   committed-rev="10203"
+   name="ItemSet.java"
+   text-time="2013-11-25T03:38:01.203125Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="fd2aba6eadb165cbb2e0698f92f24e59"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.734375Z"/>
+<entry
+   committed-rev="8034"
+   name="NominalItem.java"
+   text-time="2013-11-25T03:38:01.218750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="6fa5f40cdbea482e92d569762ecf37af"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.750000Z"/>
+<entry
+   committed-rev="10172"
+   name="SingleAssociatorEnhancer.java"
+   text-time="2013-11-25T03:38:01.234375Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="b8c2c48aeca7175f84f9dfc2f62de8ed"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.750000Z"/>
+<entry
+   committed-rev="10172"
+   name="NumericItem.java"
+   text-time="2013-11-25T03:38:01.234375Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="810909fc20e716b4592069c8b769d158"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.765625Z"/>
+<entry
+   committed-rev="10203"
+   name="LabeledItemSet.java"
+   text-time="2013-11-25T03:38:01.250000Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="0552551ea837f1d092a815cea444478c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.781250Z"/>
+<entry
+   committed-rev="10172"
+   name="FilteredAssociator.java"
+   text-time="2013-11-25T03:38:01.265625Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="9350ffe3ea9a826ca26b48fa7e26193c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:00.984375Z"/>
+<entry
+   committed-rev="8034"
+   name="AssociationRules.java"
+   text-time="2013-11-25T03:38:01.281250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="45b550da04f9efb3f081d861ad34c945"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.000000Z"/>
+<entry
+   committed-rev="8034"
+   name="AssociationRulesProducer.java"
+   text-time="2013-11-25T03:38:01.296875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c8af72b7604ad22ff25c12cf0eb5718a"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.015625Z"/>
+<entry
+   committed-rev="8034"
+   name="AbstractAssociator.java"
+   text-time="2013-11-25T03:38:01.312500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="61625c019e3cb41c1305fe01690eb998"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.015625Z"/>
+<entry
+   committed-rev="8034"
+   name="Item.java"
+   text-time="2013-11-25T03:38:01.328125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e97f2c8f4e0b4d690b9517c63e292b11"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.031250Z"/>
+</wc-entries>

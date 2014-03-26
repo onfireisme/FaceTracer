@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/core/tokenizers"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:53.953125Z"
+   revision="10228"/>
+<entry
+   committed-rev="10203"
+   name="NGramTokenizer.java"
+   text-time="2013-11-25T03:38:53.968750Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="0877e1318cbfbb6d52f5d5997213d886"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:53.781250Z"/>
+<entry
+   committed-rev="10203"
+   name="WordTokenizer.java"
+   text-time="2013-11-25T03:38:53.984375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="f52b0e09f94c66e410de2e99577e8522"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:53.781250Z"/>
+<entry
+   committed-rev="10203"
+   name="AlphabeticTokenizer.java"
+   text-time="2013-11-25T03:38:53.984375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="6ae8d45f6171967fcdebfa6b1eebe596"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:53.921875Z"/>
+<entry
+   committed-rev="10203"
+   name="CharacterDelimitedTokenizer.java"
+   text-time="2013-11-25T03:38:54.015625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="cefdd2c9503a29d9b15451f00e4c93ff"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:53.937500Z"/>
+<entry
+   committed-rev="10203"
+   name="Tokenizer.java"
+   text-time="2013-11-25T03:38:54.031250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="c94293f118370b4536be06d67a7a867d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:53.953125Z"/>
+</wc-entries>

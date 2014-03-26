@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10215"
+   name=""
+   committed-date="2013-11-19T23:44:00.667732Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/filters/unsupervised/attribute"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:39:01.656250Z"
+   revision="10228"/>
+<entry
+   committed-rev="10215"
+   name="RemoveType.java"
+   text-time="2013-11-25T03:39:01.671875Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="4fecc64415dbecf3cd8f0f6e167cdf90"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.750000Z"/>
+<entry
+   committed-rev="10215"
+   name="RemoveUseless.java"
+   text-time="2013-11-25T03:39:01.687500Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="ea182ae554695e442978d4b39109bd0a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.765625Z"/>
+<entry
+   committed-rev="10215"
+   name="Reorder.java"
+   text-time="2013-11-25T03:39:01.734375Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="10bb71ff0ece7ed1bc99fc056493220e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.812500Z"/>
+<entry
+   committed-rev="10215"
+   name="PartitionedMultiFilter.java"
+   text-time="2013-11-25T03:39:01.765625Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="1a8377fb3b8c5d32682f867c54cbe723"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.828125Z"/>
+<entry
+   committed-rev="10215"
+   name="AddID.java"
+   text-time="2013-11-25T03:39:01.796875Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="be7200c5d7f696cf6289d50570672932"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.828125Z"/>
+<entry
+   committed-rev="10215"
+   name="Discretize.java"
+   text-time="2013-11-25T03:39:01.812500Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="271ccd9a521f634d052d8079b7450b1a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.078125Z"/>
+<entry
+   committed-rev="10215"
+   name="RenameNominalValues.java"
+   text-time="2013-11-25T03:39:01.843750Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="d44fb0bfad7546fcc6eab186d4e7cfff"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.109375Z"/>
+<entry
+   committed-rev="10215"
+   name="AddValues.java"
+   text-time="2013-11-25T03:39:01.859375Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="52274278e71e974a661d206540d06287"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.125000Z"/>
+<entry
+   committed-rev="8034"
+   name="Standardize.java"
+   text-time="2013-11-25T03:39:01.890625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7688bc89b22b348e3a1cc994b3fd9cc5"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.140625Z"/>
+<entry
+   committed-rev="10215"
+   name="PKIDiscretize.java"
+   text-time="2013-11-25T03:39:01.906250Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="014e7dc3289eb3e1154d51a9fc2e2b53"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.156250Z"/>
+<entry
+   committed-rev="10215"
+   name="NumericToBinary.java"
+   text-time="2013-11-25T03:39:01.921875Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="9398a7c3cf624681e119953b907a5495"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.171875Z"/>
+<entry
+   committed-rev="10215"
+   name="ReplaceMissingWithUserConstant.java"
+   text-time="2013-11-25T03:39:01.937500Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="22284ac5f40cb06767bf6722105d74d5"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.359375Z"/>
+<entry
+   committed-rev="10215"
+   name="SortLabels.java"
+   text-time="2013-11-25T03:39:01.968750Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="021f2a0c1f059d5248737154ea38b750"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.390625Z"/>
+<entry
+   committed-rev="10215"
+   name="RandomProjection.java"
+   text-time="2013-11-25T03:39:01.984375Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="7491cdda361124a06e1f0ef5c7f45e2f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.421875Z"/>
+<entry
+   committed-rev="10215"
+   name="AddUserFields.java"
+   text-time="2013-11-25T03:39:02.000000Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="a7109aa5e8e91adc832f5b22552b0678"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.437500Z"/>
+<entry
+   committed-rev="9002"
+   name="AddUserFieldsBeanInfo.java"
+   text-time="2013-11-25T03:39:02.062500Z"
+   committed-date="2012-07-09T08:52:42.034721Z"
+   checksum="580601c9939261a0eacd647be936d3ff"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.500000Z"/>
+<entry
+   committed-rev="8034"
+   name="Center.java"
+   text-time="2013-11-25T03:39:02.015625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="617a09495b2781442eb8dbbb01dad72e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.484375Z"/>
+<entry
+   committed-rev="10215"
+   name="KernelFilter.java"
+   text-time="2013-11-25T03:39:02.078125Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="c08cbf54e0f8ffab54ab1aa3bff7d587"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.546875Z"/>
+<entry
+   committed-rev="10215"
+   name="AddNoise.java"
+   text-time="2013-11-25T03:39:02.062500Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="bb8a818401320067503daac670298d28"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.531250Z"/>
+<entry
+   committed-rev="10215"
+   name="NominalToString.java"
+   text-time="2013-11-25T03:39:02.140625Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="1c20adb0ea275934161bda8199e3ca05"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.703125Z"/>
+<entry
+   committed-rev="10215"
+   name="PrincipalComponents.java"
+   text-time="2013-11-25T03:39:02.125000Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="3e36f4d606ef5be04c69e52cfb41c1ee"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.687500Z"/>
+<entry
+   committed-rev="10215"
+   name="StringToNominal.java"
+   text-time="2013-11-25T03:39:02.109375Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="76d9dbc7be615f6e69e4752261f127b6"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.593750Z"/>
+<entry
+   committed-rev="8034"
+   name="TimeSeriesTranslate.java"
+   text-time="2013-11-25T03:39:02.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9f9892771eac2b4aed3bac4efe3e1b2f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.562500Z"/>
+<entry
+   committed-rev="10215"
+   name="SwapValues.java"
+   text-time="2013-11-25T03:39:02.156250Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="31eff54d6999cebf68d8b45e2555e182"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.718750Z"/>
+<entry
+   committed-rev="10215"
+   name="ChangeDateFormat.java"
+   text-time="2013-11-25T03:39:02.171875Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="b2f877d78b3343f2876558221c220699"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.750000Z"/>
+<entry
+   committed-rev="10215"
+   name="ClusterMembership.java"
+   text-time="2013-11-25T03:39:02.203125Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="1a9c2b25200b8bcddff3187432d2d5ea"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.781250Z"/>
+<entry
+   committed-rev="10215"
+   name="Remove.java"
+   text-time="2013-11-25T03:39:02.187500Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="30168e7c1d959926deb0043433756700"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.765625Z"/>
+<entry
+   committed-rev="10215"
+   name="Normalize.java"
+   text-time="2013-11-25T03:39:02.218750Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="364308408c0d07a3958fb76a05496c3c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.812500Z"/>
+<entry
+   committed-rev="10215"
+   name="ClassAssigner.java"
+   text-time="2013-11-25T03:39:02.234375Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="09835c2036040fd665709c9231e50be3"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.828125Z"/>
+<entry
+   committed-rev="10215"
+   name="MergeManyValues.java"
+   text-time="2013-11-25T03:39:02.234375Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="c53b69586228946f9f34cc6f8f9fefb4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.843750Z"/>
+<entry
+   committed-rev="10215"
+   name="InterquartileRange.java"
+   text-time="2013-11-25T03:39:02.250000Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="afaea3ec70e0013ce37df3de1c0e3acb"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.859375Z"/>
+<entry
+   committed-rev="10215"
+   name="NominalToBinary.java"
+   text-time="2013-11-25T03:39:02.265625Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="c249e6d17540bca2426c208d79ab5267"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:00.875000Z"/>
+<entry
+   committed-rev="10215"
+   name="RandomSubset.java"
+   text-time="2013-11-25T03:39:02.281250Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="711009a709f78051a06c076b767a2230"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.031250Z"/>
+<entry
+   committed-rev="10215"
+   name="AddExpression.java"
+   text-time="2013-11-25T03:39:02.296875Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="35a71375233ebd5175d4e6851deff23d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.078125Z"/>
+<entry
+   committed-rev="10215"
+   name="MergeTwoValues.java"
+   text-time="2013-11-25T03:39:02.312500Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="fb3aa243b88c8af6687193be3374f9c4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.156250Z"/>
+<entry
+   committed-rev="10215"
+   name="MathExpression.java"
+   text-time="2013-11-25T03:39:02.328125Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="a9152fce33ee0085448b7a1fcd45c819"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.218750Z"/>
+<entry
+   committed-rev="10215"
+   name="MakeIndicator.java"
+   text-time="2013-11-25T03:39:02.343750Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="e7d8dba7fdf4843711c2cb600ddfa7ad"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.234375Z"/>
+<entry
+   committed-rev="10215"
+   name="Copy.java"
+   text-time="2013-11-25T03:39:02.359375Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="7c2b55e53b6e2b7e918ad229f2050398"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.250000Z"/>
+<entry
+   committed-rev="10215"
+   name="Obfuscate.java"
+   text-time="2013-11-25T03:39:02.375000Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="7da126c8c0866ddd5dfcbd89d26bf137"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.265625Z"/>
+<entry
+   committed-rev="10215"
+   name="PotentialClassIgnorer.java"
+   text-time="2013-11-25T03:39:02.375000Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="e26750d91f5dca127822db41c198aa42"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.265625Z"/>
+<entry
+   committed-rev="10215"
+   name="NumericToNominal.java"
+   text-time="2013-11-25T03:39:02.390625Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="81599791914832fdcb57b146cd1f3c69"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.281250Z"/>
+<entry
+   committed-rev="10215"
+   name="FirstOrder.java"
+   text-time="2013-11-25T03:39:02.406250Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="b11cbd2c1833c66ddc9052b71c6293ce"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.281250Z"/>
+<entry
+   committed-rev="8034"
+   name="TimeSeriesDelta.java"
+   text-time="2013-11-25T03:39:02.437500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="77fdd48a35a8ea9ef2d31e4f132a1200"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.296875Z"/>
+<entry
+   committed-rev="8034"
+   name="ReplaceMissingValues.java"
+   text-time="2013-11-25T03:39:02.453125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a493e2cf8b4aae945cc8720a29895679"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.312500Z"/>
+<entry
+   committed-rev="10215"
+   name="Add.java"
+   text-time="2013-11-25T03:39:02.468750Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="f1229ec1851fc0d4dfeb9e8e96a382c3"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.312500Z"/>
+<entry
+   committed-rev="10215"
+   name="StringToWordVector.java"
+   text-time="2013-11-25T03:39:02.500000Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="ba9fad7b53be255a53289023a7ec7b8b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.375000Z"/>
+<entry
+   committed-rev="10215"
+   name="RemoveByName.java"
+   text-time="2013-11-25T03:39:02.515625Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="e10b241d893de883f40bc6c6d5913204"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.421875Z"/>
+<entry
+   committed-rev="10215"
+   name="AddCluster.java"
+   text-time="2013-11-25T03:39:02.515625Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="d62cde5d0ed965ac3352348191c028d1"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.500000Z"/>
+<entry
+   committed-rev="10215"
+   name="RenameAttribute.java"
+   text-time="2013-11-25T03:39:02.531250Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="f12771dec3ba9b9244a3235281893048"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.531250Z"/>
+<entry
+   committed-rev="10215"
+   name="NumericCleaner.java"
+   text-time="2013-11-25T03:39:02.546875Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="91a658302782bc48757bf8c685f20f6a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.546875Z"/>
+<entry
+   committed-rev="10215"
+   name="AbstractTimeSeries.java"
+   text-time="2013-11-25T03:39:02.609375Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="88ea8fab3546aeb5f3d51c8e9df371a7"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.593750Z"/>
+<entry
+   committed-rev="10215"
+   name="NumericTransform.java"
+   text-time="2013-11-25T03:39:02.625000Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="2d28e0c6d5accdc44a4024fe30efdb78"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.609375Z"/>
+<entry
+   committed-rev="10215"
+   name="MergeInfrequentNominalValues.java"
+   text-time="2013-11-25T03:39:02.656250Z"
+   committed-date="2013-11-19T23:44:00.667732Z"
+   checksum="c9cb676dc59e350d1f5ed523a1f39a59"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:01.640625Z"/>
+</wc-entries>

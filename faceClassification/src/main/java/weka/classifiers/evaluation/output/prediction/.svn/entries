@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10169"
+   name=""
+   committed-date="2013-11-14T22:05:52.302840Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/evaluation/output/prediction"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:47.593750Z"
+   revision="10228"/>
+<entry
+   committed-rev="8937"
+   name="XML.java"
+   text-time="2013-11-25T03:38:47.609375Z"
+   committed-date="2012-06-25T00:04:55.051740Z"
+   checksum="1c1a3d032fd74b0fa1bbfbe2ec142910"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.406250Z"/>
+<entry
+   committed-rev="10169"
+   name="AbstractOutput.java"
+   text-time="2013-11-25T03:38:47.625000Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="9233b1648ef2a692f64977ea1fc67bfa"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.421875Z"/>
+<entry
+   committed-rev="8937"
+   name="HTML.java"
+   text-time="2013-11-25T03:38:47.640625Z"
+   committed-date="2012-06-25T00:04:55.051740Z"
+   checksum="2ead7cd360779ad6a135b7ad3b9e38e9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.421875Z"/>
+<entry
+   committed-rev="8937"
+   name="PlainText.java"
+   text-time="2013-11-25T03:38:47.656250Z"
+   committed-date="2012-06-25T00:04:55.051740Z"
+   checksum="f8ef430671b9954a6201cdb0e621027e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.437500Z"/>
+<entry
+   committed-rev="8937"
+   name="Null.java"
+   text-time="2013-11-25T03:38:47.687500Z"
+   committed-date="2012-06-25T00:04:55.051740Z"
+   checksum="eba8d05dd1919782b7bf9bed2f70bf4d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.437500Z"/>
+<entry
+   committed-rev="10169"
+   name="CSV.java"
+   text-time="2013-11-25T03:38:47.718750Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="bca6ecf29de98318b7ba15a44561937e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.593750Z"/>
+</wc-entries>

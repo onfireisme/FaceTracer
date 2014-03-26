@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10228"
+   name=""
+   committed-date="2013-11-25T00:44:04.205964Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/filters"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:39:03.421875Z"
+   revision="10228"/>
+<entry
+   committed-rev="10211"
+   name="SimpleFilter.java"
+   text-time="2013-11-25T03:39:03.437500Z"
+   committed-date="2013-11-19T03:54:11.756985Z"
+   checksum="258e2e5f7147fa3a3514fc3ac8c408d1"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.000000Z"/>
+<entry
+   committed-rev="8034"
+   name="Sourcable.java"
+   text-time="2013-11-25T03:39:03.437500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4c56605380de2be39612c77c5d970ec8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.000000Z"/>
+<entry
+   committed-rev="8034"
+   name="SupervisedFilter.java"
+   text-time="2013-11-25T03:39:03.468750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="32c3ddaa670f40a9b8d5765a808d8cba"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.015625Z"/>
+<entry
+   committed-rev="10210"
+   name="MultiFilter.java"
+   text-time="2013-11-25T03:39:03.484375Z"
+   committed-date="2013-11-19T03:38:56.052028Z"
+   checksum="e6cfe8754611816086dcf2a330646765"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.015625Z"/>
+<entry
+   committed-rev="10228"
+   name="SimpleBatchFilter.java"
+   text-time="2013-11-25T03:39:03.500000Z"
+   committed-date="2013-11-25T00:44:04.205964Z"
+   checksum="96755d6d601d581a062bad605d338cff"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.031250Z"/>
+<entry
+   committed-rev="8034"
+   name="UnsupervisedFilter.java"
+   text-time="2013-11-25T03:39:03.515625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="289a5461a0b02316bbcad1ef8b64c919"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.031250Z"/>
+<entry
+   committed-rev="10227"
+   name="Filter.java"
+   text-time="2013-11-25T03:39:03.531250Z"
+   committed-date="2013-11-25T00:41:09.753747Z"
+   checksum="1cf2be7b500f57676671ae1c4a2f54be"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.046875Z"/>
+<entry
+   committed-rev="8034"
+   name="StreamableFilter.java"
+   text-time="2013-11-25T03:39:03.546875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ad3a2d670eb81576ec132ff9dbfe5a61"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.062500Z"/>
+<entry
+   name="supervised"
+   kind="dir"/>
+<entry
+   committed-rev="10228"
+   name="SimpleStreamFilter.java"
+   text-time="2013-11-25T03:39:03.562500Z"
+   committed-date="2013-11-25T00:44:04.205964Z"
+   checksum="9242ef0ec377220628a9a424e8e432e0"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:59.703125Z"/>
+<entry
+   name="unsupervised"
+   kind="dir"/>
+<entry
+   committed-rev="8034"
+   name="AllFilter.java"
+   text-time="2013-11-25T03:39:03.578125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="07226f0ad574cfec0c301852410b7f8f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.406250Z"/>
+<entry
+   committed-rev="10210"
+   name="CheckSource.java"
+   text-time="2013-11-25T03:39:03.609375Z"
+   committed-date="2013-11-19T03:38:56.052028Z"
+   checksum="5fbd9982803e9dbf3ab2e637540e19bd"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.406250Z"/>
+</wc-entries>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10169"
+   name=""
+   committed-date="2013-11-14T22:05:52.302840Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/functions"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:49.359375Z"
+   revision="10228"/>
+<entry
+   name="supportVector"
+   kind="dir"/>
+<entry
+   committed-rev="10169"
+   name="GaussianProcesses.java"
+   text-time="2013-11-25T03:38:49.359375Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="36bbd9f7136c62399ecc53c5b020f03e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.843750Z"/>
+<entry
+   committed-rev="10169"
+   name="SGDText.java"
+   text-time="2013-11-25T03:38:49.375000Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="f008ed9072e69f389e1b6ecdbdd2f554"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.859375Z"/>
+<entry
+   committed-rev="10141"
+   name="VotedPerceptron.java"
+   text-time="2013-11-25T03:38:49.390625Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="0f2dcbae1470d2653a6509600d62c852"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.875000Z"/>
+<entry
+   committed-rev="10169"
+   name="SimpleLinearRegression.java"
+   text-time="2013-11-25T03:38:49.437500Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="64af5b9cd7481a43bdd57d61191d62a1"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.890625Z"/>
+<entry
+   name="neural"
+   kind="dir"/>
+<entry
+   committed-rev="10141"
+   name="SimpleLogistic.java"
+   text-time="2013-11-25T03:38:49.437500Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="f758c97ee6eb7d4041acb3d5fef6fbae"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:49.062500Z"/>
+<entry
+   committed-rev="10169"
+   name="MultilayerPerceptron.java"
+   text-time="2013-11-25T03:38:49.453125Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="d06f620bc73ab728f875e60fc3c7f416"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:49.093750Z"/>
+<entry
+   committed-rev="10169"
+   name="LinearRegression.java"
+   text-time="2013-11-25T03:38:49.484375Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="c528e44c12c58ad6e3c79ee6c637808a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:49.250000Z"/>
+<entry
+   committed-rev="10141"
+   name="SMOreg.java"
+   text-time="2013-11-25T03:38:49.500000Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="e995dba5af580f5ea63022772fd9c8ea"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:49.296875Z"/>
+<entry
+   committed-rev="10141"
+   name="Logistic.java"
+   text-time="2013-11-25T03:38:49.500000Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="c458c89b425f0900ae6ef86b1ef532fa"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:49.312500Z"/>
+<entry
+   committed-rev="10141"
+   name="SGD.java"
+   text-time="2013-11-25T03:38:49.531250Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="40659b14a13bb342b3257962c304c63f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:49.328125Z"/>
+<entry
+   committed-rev="10141"
+   name="SMO.java"
+   text-time="2013-11-25T03:38:49.531250Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="5399de14f201e1657fe772ebd44bc560"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:49.343750Z"/>
+</wc-entries>

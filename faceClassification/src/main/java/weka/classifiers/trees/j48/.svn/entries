@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10169"
+   name=""
+   committed-date="2013-11-14T22:05:52.302840Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/trees/j48"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:39.531250Z"
+   revision="10228"/>
+<entry
+   committed-rev="10169"
+   name="BinC45Split.java"
+   text-time="2013-11-25T03:38:39.531250Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="84781ae50f9423151b80dbe21e1fde67"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.125000Z"/>
+<entry
+   committed-rev="8984"
+   name="PruneableClassifierTree.java"
+   text-time="2013-11-25T03:38:39.546875Z"
+   committed-date="2012-07-04T05:33:53.471381Z"
+   checksum="32404642cf533963305aaf6cf70eb1b2"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.140625Z"/>
+<entry
+   committed-rev="8034"
+   name="NBTreeClassifierTree.java"
+   text-time="2013-11-25T03:38:39.593750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="1d84b03f54251c5ff207494bded3b8e8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.171875Z"/>
+<entry
+   committed-rev="9117"
+   name="ClassifierTree.java"
+   text-time="2013-11-25T03:38:39.562500Z"
+   committed-date="2012-09-18T05:04:06.579368Z"
+   checksum="974f465621a31389533f250525ef158b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.171875Z"/>
+<entry
+   committed-rev="10169"
+   name="NBTreeModelSelection.java"
+   text-time="2013-11-25T03:38:39.640625Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="c304d792fc9d4c47aa703d0000ba60ab"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.187500Z"/>
+<entry
+   committed-rev="8034"
+   name="ModelSelection.java"
+   text-time="2013-11-25T03:38:39.625000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="8e4235dcfb086205150737589ed4336e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.187500Z"/>
+<entry
+   committed-rev="10169"
+   name="C45Split.java"
+   text-time="2013-11-25T03:38:39.656250Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="0464999d5320f496c9d272c6a85eb891"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.203125Z"/>
+<entry
+   committed-rev="8034"
+   name="SplitCriterion.java"
+   text-time="2013-11-25T03:38:39.671875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b6732ffca73f223dc055dcbc64370b5c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.218750Z"/>
+<entry
+   committed-rev="10169"
+   name="GainRatioSplitCrit.java"
+   text-time="2013-11-25T03:38:39.703125Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="df4aaf9b7087d8e0387c1b17319cc838"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.234375Z"/>
+<entry
+   committed-rev="10169"
+   name="BinC45ModelSelection.java"
+   text-time="2013-11-25T03:38:39.687500Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="ae4c81cef43d8ab75264785bb4dd6846"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.234375Z"/>
+<entry
+   committed-rev="8984"
+   name="C45PruneableClassifierTree.java"
+   text-time="2013-11-25T03:38:39.718750Z"
+   committed-date="2012-07-04T05:33:53.471381Z"
+   checksum="999fef65790a581b25d68813d8231e62"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.328125Z"/>
+<entry
+   committed-rev="10169"
+   name="Distribution.java"
+   text-time="2013-11-25T03:38:39.718750Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="c15e339b4ae39a5c5700e2135c0f74ea"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.343750Z"/>
+<entry
+   committed-rev="8034"
+   name="ClassifierSplitModel.java"
+   text-time="2013-11-25T03:38:39.734375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ab3f4c374841b8a237d1cc9d7dba99b2"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.359375Z"/>
+<entry
+   committed-rev="10169"
+   name="C45ModelSelection.java"
+   text-time="2013-11-25T03:38:39.750000Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="a7e5682b172911af132f1ef8e33d80b1"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.375000Z"/>
+<entry
+   committed-rev="10169"
+   name="InfoGainSplitCrit.java"
+   text-time="2013-11-25T03:38:39.765625Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="05dcfb6ea700a31e812861b6f8cf4fcf"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.375000Z"/>
+<entry
+   committed-rev="8034"
+   name="NBTreeNoSplit.java"
+   text-time="2013-11-25T03:38:39.781250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ea05bcdbbc74bf3f809ee89bb18e1368"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.406250Z"/>
+<entry
+   committed-rev="8034"
+   name="NoSplit.java"
+   text-time="2013-11-25T03:38:39.796875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4a13a298becd8597bcee78197d7f85ff"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.453125Z"/>
+<entry
+   committed-rev="10169"
+   name="NBTreeSplit.java"
+   text-time="2013-11-25T03:38:39.812500Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="0ec002a39522fdfbc56f74b9d6041ac6"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.468750Z"/>
+<entry
+   committed-rev="10055"
+   name="EntropyBasedSplitCrit.java"
+   text-time="2013-11-25T03:38:39.828125Z"
+   committed-date="2013-10-10T23:37:00.704166Z"
+   checksum="2fbfabbeba952891e6f57ad423631972"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.500000Z"/>
+<entry
+   committed-rev="10055"
+   name="EntropySplitCrit.java"
+   text-time="2013-11-25T03:38:39.843750Z"
+   committed-date="2013-10-10T23:37:00.704166Z"
+   checksum="ee67dfdd380f656de612cab6469e2c7b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.515625Z"/>
+<entry
+   committed-rev="8034"
+   name="Stats.java"
+   text-time="2013-11-25T03:38:39.859375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="be01bb5926e4577c7cd0675b8e0c465b"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.515625Z"/>
+</wc-entries>

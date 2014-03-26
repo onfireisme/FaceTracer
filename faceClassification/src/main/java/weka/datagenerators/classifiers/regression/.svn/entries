@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/datagenerators/classifiers/regression"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:04.203125Z"
+   revision="10228"/>
+<entry
+   committed-rev="10203"
+   name="Expression.java"
+   text-time="2013-11-25T03:38:04.203125Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="ee51f53334dd0ab56f22868e98bd5f7b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.187500Z"/>
+<entry
+   committed-rev="10203"
+   name="MexicanHat.java"
+   text-time="2013-11-25T03:38:04.234375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="6bca6899e1798f7536e9361a9296d529"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.187500Z"/>
+</wc-entries>

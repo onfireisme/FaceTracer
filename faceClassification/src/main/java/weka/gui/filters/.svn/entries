@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8999"
+   name=""
+   committed-date="2012-07-09T08:48:13.152471Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/filters"
+   last-author="mhall"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   revision="10228"/>
+<entry
+   committed-rev="8999"
+   name="AddUserFieldsCustomizer.java"
+   text-time="2013-11-25T03:38:07.531250Z"
+   committed-date="2012-07-09T08:48:13.152471Z"
+   checksum="71ed2f60b3c020b840a621794200d763"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.515625Z"/>
+</wc-entries>

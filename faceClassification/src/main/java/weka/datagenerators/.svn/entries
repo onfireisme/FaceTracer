@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/datagenerators"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:04.671875Z"
+   revision="10228"/>
+<entry
+   committed-rev="10203"
+   name="Test.java"
+   text-time="2013-11-25T03:38:04.687500Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="6927bd5e41b69ff6e4c58aa85d35bf86"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.109375Z"/>
+<entry
+   committed-rev="10203"
+   name="DataGenerator.java"
+   text-time="2013-11-25T03:38:04.703125Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="a7200766c7292c744765593cf21756e6"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.125000Z"/>
+<entry
+   committed-rev="10203"
+   name="ClassificationGenerator.java"
+   text-time="2013-11-25T03:38:04.718750Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="1af027c045c54b0ad46f2fc40cd89645"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.125000Z"/>
+<entry
+   name="classifiers"
+   kind="dir"/>
+<entry
+   committed-rev="10203"
+   name="RegressionGenerator.java"
+   text-time="2013-11-25T03:38:04.734375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="ff87b9126d65d494f42979104266bc6d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.140625Z"/>
+<entry
+   committed-rev="10203"
+   name="ClusterGenerator.java"
+   text-time="2013-11-25T03:38:04.750000Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="570cc501778c33bab5385c4a12be812c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.500000Z"/>
+<entry
+   committed-rev="10203"
+   name="ClusterDefinition.java"
+   text-time="2013-11-25T03:38:04.765625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="79142f5db86e3fae644fe780242b2caa"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.500000Z"/>
+<entry
+   name="clusterers"
+   kind="dir"/>
+</wc-entries>

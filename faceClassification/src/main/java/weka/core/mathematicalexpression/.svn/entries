@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/core/mathematicalexpression"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:56.046875Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="Scanner.jflex"
+   text-time="2013-11-25T03:38:56.062500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="73bd1c8d54082d580d711c8d8b7d9fd4"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.000000Z"/>
+<entry
+   committed-rev="4939"
+   name="Parser.cup"
+   text-time="2013-11-25T03:38:56.078125Z"
+   committed-date="2009-01-10T22:29:25.014004Z"
+   checksum="c6de3f1379eef1a22c1c5055d2c96ad6"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.000000Z"/>
+<entry
+   committed-rev="6481"
+   name="sym.java"
+   text-time="2013-11-25T03:38:56.093750Z"
+   committed-date="2010-04-25T23:53:26.189581Z"
+   checksum="782fb22c14d847d365b81ff933c0f085"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.015625Z"/>
+<entry
+   committed-rev="10203"
+   name="Scanner.java"
+   text-time="2013-11-25T03:38:56.109375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="353c6602d5cfaae4715527f4e646f79e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.031250Z"/>
+<entry
+   committed-rev="10203"
+   name="Parser.java"
+   text-time="2013-11-25T03:38:56.125000Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="419ad056ab9f4cfda137abfa2214fb00"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.046875Z"/>
+</wc-entries>

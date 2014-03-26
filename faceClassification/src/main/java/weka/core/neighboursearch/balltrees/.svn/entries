@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/core/neighboursearch/balltrees"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:54.671875Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="BottomUpConstructor.java"
+   text-time="2013-11-25T03:38:54.671875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="01e7064a33e9eb14523066ab3436f6e3"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.546875Z"/>
+<entry
+   committed-rev="8034"
+   name="BallNode.java"
+   text-time="2013-11-25T03:38:54.687500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b7e33149a389186f361e164ec28ecdd2"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.562500Z"/>
+<entry
+   committed-rev="10203"
+   name="BallTreeConstructor.java"
+   text-time="2013-11-25T03:38:54.718750Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="28db00d89cb90be34b35ade4e3043c0b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.578125Z"/>
+<entry
+   committed-rev="10203"
+   name="TopDownConstructor.java"
+   text-time="2013-11-25T03:38:54.734375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="c73b015c27bb7cdd3ec6953546baa50a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.609375Z"/>
+<entry
+   committed-rev="10203"
+   name="BallSplitter.java"
+   text-time="2013-11-25T03:38:54.750000Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="006277cbfc304e28943e075a57966e24"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.609375Z"/>
+<entry
+   committed-rev="10203"
+   name="MedianDistanceFromArbitraryPoint.java"
+   text-time="2013-11-25T03:38:54.765625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="6830355f39bdb2cf25b80bec17d33e01"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.625000Z"/>
+<entry
+   committed-rev="10203"
+   name="MedianOfWidestDimension.java"
+   text-time="2013-11-25T03:38:54.781250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="43920ee0336d2aeb74f74e181f4c1772"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.640625Z"/>
+<entry
+   committed-rev="10203"
+   name="PointsClosestToFurthestChildren.java"
+   text-time="2013-11-25T03:38:54.796875Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="3f0c608a4b75874c89338bdf45b67e22"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.640625Z"/>
+<entry
+   committed-rev="10203"
+   name="MiddleOutConstructor.java"
+   text-time="2013-11-25T03:38:54.812500Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="0ac63eeacae2f882d85d3c7d047b3cc4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.656250Z"/>
+</wc-entries>

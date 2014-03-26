@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/core/neighboursearch/kdtrees"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:54.343750Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="KDTreeNode.java"
+   text-time="2013-11-25T03:38:54.343750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="afb39159aa7ecb9fc307c6f7bda22031"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.281250Z"/>
+<entry
+   committed-rev="8034"
+   name="SlidingMidPointOfWidestSide.java"
+   text-time="2013-11-25T03:38:54.359375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="18e457494563ecca6e9aabb86556e680"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.296875Z"/>
+<entry
+   committed-rev="8034"
+   name="MedianOfWidestDimension.java"
+   text-time="2013-11-25T03:38:54.375000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="bfe2d4c51aa0b39a16b64e40c45d7048"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.296875Z"/>
+<entry
+   committed-rev="10203"
+   name="KMeansInpiredMethod.java"
+   text-time="2013-11-25T03:38:54.421875Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="d7410591cefe0f87e0daa44fec726733"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.312500Z"/>
+<entry
+   committed-rev="10203"
+   name="KDTreeNodeSplitter.java"
+   text-time="2013-11-25T03:38:54.437500Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="7af04179b52d6d285f930d6da8da3594"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.312500Z"/>
+<entry
+   committed-rev="8034"
+   name="MidPointOfWidestDimension.java"
+   text-time="2013-11-25T03:38:54.453125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="67f05f16eeef6fbd4f12fee9f40fb0d8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:54.328125Z"/>
+</wc-entries>

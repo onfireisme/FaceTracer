@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10154"
+   name=""
+   committed-date="2013-11-13T08:50:06.318039Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/bayes/net/estimate"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:43.890625Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="DiscreteEstimatorFullBayes.java"
+   text-time="2013-11-25T03:38:43.890625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e85a6aaee21a8e2c7b6838ec8a01c358"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:43.828125Z"/>
+<entry
+   committed-rev="10154"
+   name="SimpleEstimator.java"
+   text-time="2013-11-25T03:38:43.906250Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="f80053ae4990955cfe75290d5967a636"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:43.828125Z"/>
+<entry
+   committed-rev="10153"
+   name="BayesNetEstimator.java"
+   text-time="2013-11-25T03:38:43.921875Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="d56046ee63752d8ba290689b35e19af5"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:43.843750Z"/>
+<entry
+   committed-rev="10154"
+   name="MultiNomialBMAEstimator.java"
+   text-time="2013-11-25T03:38:43.937500Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="f77c1b9fdcc4da3fae1f5e4666794871"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:43.859375Z"/>
+<entry
+   committed-rev="10154"
+   name="BMAEstimator.java"
+   text-time="2013-11-25T03:38:43.984375Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="6a1df263469b4ed5965d649b2075a206"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:43.859375Z"/>
+<entry
+   committed-rev="8034"
+   name="DiscreteEstimatorBayes.java"
+   text-time="2013-11-25T03:38:44.000000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b63a73fa2837c1abb74b1d3469ac5deb"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:43.875000Z"/>
+</wc-entries>

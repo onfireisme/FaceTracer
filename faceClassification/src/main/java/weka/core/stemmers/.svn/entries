@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/core/stemmers"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:52.140625Z"
+   revision="10228"/>
+<entry
+   committed-rev="10203"
+   name="Stemming.java"
+   text-time="2013-11-25T03:38:52.156250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="87d86fa6478992ab77a214dd57ab1fa7"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.093750Z"/>
+<entry
+   committed-rev="8034"
+   name="LovinsStemmer.java"
+   text-time="2013-11-25T03:38:52.171875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5e9aeedc59938d79a07b5250144c2185"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.093750Z"/>
+<entry
+   committed-rev="8034"
+   name="NullStemmer.java"
+   text-time="2013-11-25T03:38:52.187500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9cfc30063f2dfcf26d9dcd5eb8c0a8c9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.109375Z"/>
+<entry
+   committed-rev="8034"
+   name="IteratedLovinsStemmer.java"
+   text-time="2013-11-25T03:38:52.218750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4994c4a7965a1ce7c132febb79995dea"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.125000Z"/>
+<entry
+   committed-rev="8034"
+   name="Stemmer.java"
+   text-time="2013-11-25T03:38:52.234375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f9074bae7058d5b4a07bf444a3a4f822"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.125000Z"/>
+<entry
+   committed-rev="10203"
+   name="SnowballStemmer.java"
+   text-time="2013-11-25T03:38:52.250000Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="55c2754681095498e7c9c5adbb23b685"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.140625Z"/>
+</wc-entries>

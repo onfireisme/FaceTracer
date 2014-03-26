@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10222"
+   name=""
+   committed-date="2013-11-22T03:46:55.173449Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/experiment"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:10.968750Z"
+   revision="10228"/>
+<entry
+   committed-rev="10222"
+   name="ExperimenterDefaults.java"
+   text-time="2013-11-25T03:38:11.000000Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="a8ac00a0ba14fb8ba0e8a7d9a67c0bcf"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.609375Z"/>
+<entry
+   committed-rev="8034"
+   name="DistributeExperimentPanel.java"
+   text-time="2013-11-25T03:38:10.984375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="af1d1aecf0119397cf8ba522a03b65cf"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.609375Z"/>
+<entry
+   committed-rev="10222"
+   name="DatasetListPanel.java"
+   text-time="2013-11-25T03:38:11.031250Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="28d05a1de482eafdbac8d18de2da3190"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.671875Z"/>
+<entry
+   committed-rev="10222"
+   name="AlgorithmListPanel.java"
+   text-time="2013-11-25T03:38:11.046875Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="f1d2a7b2e5ec7b9b99c50724d57235bc"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.687500Z"/>
+<entry
+   committed-rev="10222"
+   name="Experimenter.java"
+   text-time="2013-11-25T03:38:11.109375Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="89868bd4c2b4ec19d4655dd3f4844faa"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.734375Z"/>
+<entry
+   committed-rev="10222"
+   name="SetupPanel.java"
+   text-time="2013-11-25T03:38:11.015625Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="37ecde84b46ea2837fbe946b10be814a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.625000Z"/>
+<entry
+   committed-rev="10222"
+   name="ResultsPanel.java"
+   text-time="2013-11-25T03:38:11.031250Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="50b8b93011fa2f27a28d5d50155fc31b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.671875Z"/>
+<entry
+   committed-rev="9486"
+   name="RunPanel.java"
+   text-time="2013-11-25T03:38:11.062500Z"
+   committed-date="2013-01-18T01:22:24.673700Z"
+   checksum="fc9ca1de4d13888397dac09bd55ac42b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.703125Z"/>
+<entry
+   committed-rev="8034"
+   name="SetupModePanel.java"
+   text-time="2013-11-25T03:38:11.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4cc9fe842717a303a2b103844931ce8c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.718750Z"/>
+<entry
+   committed-rev="10222"
+   name="GeneratorPropertyIteratorPanel.java"
+   text-time="2013-11-25T03:38:11.078125Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="f2eed30b627a58ae0869a3df497a783a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.718750Z"/>
+<entry
+   committed-rev="10222"
+   name="OutputFormatDialog.java"
+   text-time="2013-11-25T03:38:11.156250Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="0687e50131a591722d7f7ea327b697c4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.906250Z"/>
+<entry
+   committed-rev="8034"
+   name="HostListPanel.java"
+   text-time="2013-11-25T03:38:11.125000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="96c4253c4074fa59ee7808a1a36183ff"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.750000Z"/>
+<entry
+   committed-rev="5367"
+   name="Experimenter.props"
+   text-time="2013-11-25T03:38:11.125000Z"
+   committed-date="2009-05-19T22:55:29.786955Z"
+   checksum="10afc3fee0ef23c150773b63ad260402"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.734375Z"/>
+<entry
+   committed-rev="8034"
+   name="SimpleSetupPanel.java"
+   text-time="2013-11-25T03:38:11.156250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="67079ef96f8bd0a6b5dc4b899d7c3f34"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.937500Z"/>
+<entry
+   committed-rev="8034"
+   name="RunNumberPanel.java"
+   text-time="2013-11-25T03:38:11.171875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="d81c1ad5639dc2445c1525d79e876106"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.953125Z"/>
+</wc-entries>
