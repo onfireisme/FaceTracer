@@ -27,6 +27,7 @@ public class FaceRawDataGenerator {
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.intensityEnergyAttributes);
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.intensityHistogramAttributes);
 //		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.RGBAttributes);
+		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.RGBHistogramAttributes);
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.RGBMeanAttributes);
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.RGBEnergyAttributes);
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.HSVAttributes);

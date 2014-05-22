@@ -2,11 +2,11 @@ package face.feature.classifier;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.io.ObjectInputStream;
 import java.io.OutputStreamWriter;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -15,6 +15,7 @@ import java.util.Map;
 import weka.core.Instance;
 import weka.core.Instances;
 
+import face.feature.db.MongoDBUtil;
 import face.feature.extraction.ConfigConstant;
 
 public class PredictFaceClassifier {
@@ -38,12 +39,16 @@ public class PredictFaceClassifier {
 			predictRawFaceData(rawFileNames, category, output);
 		}
 		
+		PrintWriter pw = null;
 		try {
-			OutputStreamWriter osw = new OutputStreamWriter(new FileOutputStream(new File(ConfigConstant.path+ConfigConstant.testOutCome)));
-			osw.write(output.toString());
+			pw = new PrintWriter(new FileOutputStream(new File(ConfigConstant.path+ConfigConstant.testResult)));
+			pw.write(output.toString());
+			pw.flush();
 		} catch (Exception e) {
 			e.printStackTrace();
-		} 
+		} finally {
+			pw.close();
+		}
 	}
 	
 	private static void predictRawFaceData(List<String> fileNames, String category, StringBuilder output) {
@@ -100,14 +105,18 @@ public class PredictFaceClassifier {
 				double result = resultMap.get(i);
 				double compareValue = compareValueMap.get(i);
 				String str = null;
+				String value = null;
 				if (result >= compareValue) {
-					str = i+" " + category + ": " + ConfigConstant.attributeValueMap.get(category + ConfigConstant.B);
+					value = ConfigConstant.attributeValueMap.get(category + ConfigConstant.B);
+					str = i+" " + category + ": " + value;
 					System.out.println(str);
 				} else {
-					str = i+" " + category + ": " + ConfigConstant.attributeValueMap.get(category + ConfigConstant.A);
+					value = ConfigConstant.attributeValueMap.get(category + ConfigConstant.A);
+					str = i+" " + category + ": " + value;
 					System.out.println(str);
 				}
 				output.append(str+System.lineSeparator());
+				MongoDBUtil.mergeUpdate(String.valueOf(i), category, value);
 			}
 		} catch (Exception e) {
 			e.printStackTrace();

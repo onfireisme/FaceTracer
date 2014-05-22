@@ -8,6 +8,9 @@ import java.util.List;
 
 public class ConfigConstant {
 //	private static File directory = new File("");
+	public static final String DB_HOST = "";//to be setup as needed
+	public static final String DB_NAME = "faceTracer";
+	public static final String TABLE_NAME = "faceLabels";
 	public static final String path = "E:/WorkSpaces/faceData/";
 	public static final String cropImagePath = path + "cropPic/";
 	public static final String scaleImagePath = path + "scalePic/";
@@ -27,6 +30,7 @@ public class ConfigConstant {
 	public static final String intensityMeanAttributes = "IntensityMean.arff"; 
 	public static final String intensityEnergyAttributes = "IntensityEnergy.arff"; 
 	public static final String RGBAttributes = "RGB.arff"; 
+	public static final String RGBHistogramAttributes = "RGBHistogram.arff"; 
 	public static final String RGBMeanAttributes = "RGBMean.arff"; 
 	public static final String RGBEnergyAttributes = "RGBEnergy.arff"; 
 	public static final String RGBStatisticsAttributes = "RGBStatistics.arff"; 

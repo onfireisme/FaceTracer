@@ -82,6 +82,7 @@ public class FaceTrainDataGenerator {
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.intensityEnergyAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.intensityHistogramAttributes, category);
 //			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.RGBAttributes, category);
+			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.RGBHistogramAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.RGBMeanAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.RGBEnergyAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.HSVAttributes, category);
@@ -146,11 +147,17 @@ public class FaceTrainDataGenerator {
 	}
 	
 	public static void generateFileHeader(int imageLength, BufferedWriter bw, String outputFileName) throws Exception {
-		if (outputFileName.contains("Intensity")
-				&& outputFileName.contains("Histogram")) {
-			for (int i = 0; i < 256; i++) {
-				bw.write("@attribute " + (i + 1) + "level numeric");
-				bw.newLine();
+		if (outputFileName.contains("Histogram")) {
+			if (outputFileName.contains("Intensity")) {
+				for (int i = 0; i < 256; i++) {
+					bw.write("@attribute " + (i + 1) + "level numeric");
+					bw.newLine();
+				}
+			} else if (outputFileName.contains("RGB")) {
+				for (int i = 0; i < 64; i++) {
+					bw.write("@attribute " + (i + 1) + "level numeric");
+					bw.newLine();
+				}
 			}
 		} else if (outputFileName.contains("Statistics")) {
 			if (outputFileName.contains("HSV")) {
@@ -282,9 +289,12 @@ public class FaceTrainDataGenerator {
 				}
 			}
 		}
-		if (outputFileName.contains("Intensity")
-				&& outputFileName.contains("Histogram")) {
-			outputValue = histogram(outputValue);
+		if (outputFileName.contains("Histogram")) {
+			if (outputFileName.contains("Intensity")) {
+				outputValue = histogram(outputValue);
+			} else if (outputFileName.contains("RGB")) {
+				outputValue = histogramRGB(outputValue);
+			}
 		}
 		if (outputFileName.contains("Statistics")) {
 			if (outputFileName.contains("HSV")) {
@@ -314,6 +324,34 @@ public class FaceTrainDataGenerator {
 			returnValue[value]++;
 		}
 		return returnValue;
+	}
+	
+	public static double[] histogramRGB (double[] outputValue) {
+		double[] returnValue = new double[64];
+		for (int i=0;i<outputValue.length;i++) {
+			int value = Double.valueOf(outputValue[i]).intValue();
+			Color c = new Color(value);
+			int red = c.getRed();
+			int green = c.getGreen();
+			int blue = c.getBlue();
+			red = getRGBLevel(red);
+			green = getRGBLevel(green);
+			blue = getRGBLevel(blue);
+			returnValue[red + green * 4 + blue * 16]++;
+		}
+		return returnValue;
+	}
+	
+	private static int getRGBLevel(int value) {
+		if (0 <= value && value <= 63) {
+			return 0;
+		} else if (64 <= value && value <= 127) {
+			return 1;
+		} else if (128 <= value && value <= 191) {
+			return 2;
+		} else {
+			return 3;
+		}
 	}
 	
 	public static void copyImageData(int[] pixelValues, byte[] imgData) {
