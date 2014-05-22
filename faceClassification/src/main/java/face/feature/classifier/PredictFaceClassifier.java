@@ -2,8 +2,11 @@ package face.feature.classifier;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.io.ObjectInputStream;
+import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -30,11 +33,20 @@ public class PredictFaceClassifier {
 				rawFileNames.add(ConfigConstant.rawPath+subPath+"/"+name);
 			}
 		}
-		predictRawFaceData(rawFileNames, ConfigConstant.gender);
-		predictRawFaceData(rawFileNames, ConfigConstant.mustache);
+		StringBuilder output = new StringBuilder();
+		for (String category : ConfigConstant.attributeMap.keySet()) {
+			predictRawFaceData(rawFileNames, category, output);
+		}
+		
+		try {
+			OutputStreamWriter osw = new OutputStreamWriter(new FileOutputStream(new File(ConfigConstant.path+ConfigConstant.testOutCome)));
+			osw.write(output.toString());
+		} catch (Exception e) {
+			e.printStackTrace();
+		} 
 	}
 	
-	private static void predictRawFaceData(List<String> fileNames, String category) {
+	private static void predictRawFaceData(List<String> fileNames, String category, StringBuilder output) {
 		InputStreamReader isr = null;
 		try {
 			ObjectInputStream ois = new ObjectInputStream(new FileInputStream(ConfigConstant.modelPath+"/"+category+"/"+ConfigConstant.dataModel));
@@ -87,11 +99,15 @@ public class PredictFaceClassifier {
 			for (int i : resultMap.keySet()) {
 				double result = resultMap.get(i);
 				double compareValue = compareValueMap.get(i);
+				String str = null;
 				if (result >= compareValue) {
-					System.out.println(i+" " + category + ": " + ConfigConstant.attributeValueMap.get(category + ConfigConstant.B));
+					str = i+" " + category + ": " + ConfigConstant.attributeValueMap.get(category + ConfigConstant.B);
+					System.out.println(str);
 				} else {
-					System.out.println(i+" " + category + ": " + ConfigConstant.attributeValueMap.get(category + ConfigConstant.A));
+					str = i+" " + category + ": " + ConfigConstant.attributeValueMap.get(category + ConfigConstant.A);
+					System.out.println(str);
 				}
+				output.append(str+System.lineSeparator());
 			}
 		} catch (Exception e) {
 			e.printStackTrace();

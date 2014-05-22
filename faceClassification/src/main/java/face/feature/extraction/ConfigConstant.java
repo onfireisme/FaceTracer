@@ -52,12 +52,26 @@ public class ConfigConstant {
 	public static final String forehead = "forehead/";
 	public static final String eyebrows = "eyebrows/";
 	public static final String upperLip = "upperLip/";
+	
 	public static final String gender = "gender";
 	public static final String mustache = "mustache";
+	public static final String hair_color = "hair_color";
+	public static final String expression = "expression";
+	public static final String blurry = "blurry";
+	public static final String lighting = "lighting";
+	public static final String environment = "environment";
+	
 	public static final String dataModel = "dataModel";
+	
+	public static final String testResult = "TestResult.txt";
 	
 	public static final String gender_attritube = "gender {male, female}";
 	public static final String mustache_attritube = "mustache {true, false}";
+	public static final String hair_color_attritube = "hair_color {blond, not_blond}";
+	public static final String expression_attritube = "expression {smiling, not_smiling}";
+	public static final String blurry_attritube = "blurry {true, false}";
+	public static final String lighting_attritube = "lighting {harsh, flash}";
+	public static final String environment_attritube = "environment {outdoor, indoor}";
 	
 	public static final String imgSurffix = "bmp";
 	
@@ -109,6 +123,11 @@ public class ConfigConstant {
 	static {
 		attributeMap.put(gender, gender_attritube);
 		attributeMap.put(mustache, mustache_attritube);
+		attributeMap.put(hair_color, hair_color_attritube);
+//		attributeMap.put(expression, expression_attritube);
+		attributeMap.put(blurry, blurry_attritube);
+		attributeMap.put(lighting, lighting_attritube);
+		attributeMap.put(environment, environment_attritube);
 	}
 	
 	public static final HashMap<String, String> attributeValueMap = new HashMap<String, String>();
@@ -117,11 +136,16 @@ public class ConfigConstant {
 		attributeValueMap.put(gender + B, "female");
 		attributeValueMap.put(mustache + A, "true");
 		attributeValueMap.put(mustache + B, "false");
+		attributeValueMap.put(hair_color + A, "blond");
+		attributeValueMap.put(hair_color + B, "not_blond");
+		attributeValueMap.put(expression + A, "smiling");
+		attributeValueMap.put(expression + B, "not_smiling");
+		attributeValueMap.put(blurry + A, "true");
+		attributeValueMap.put(blurry + B, "false");
+		attributeValueMap.put(lighting + A, "harsh");
+		attributeValueMap.put(lighting + B, "flash");
+		attributeValueMap.put(environment + A, "outdoor");
+		attributeValueMap.put(environment + B, "indoor");
 	}
 	
-	public static final List<String> categoryList = new ArrayList<String>();
-	static {
-		categoryList.add(gender);
-		categoryList.add(mustache);
-	}
 }

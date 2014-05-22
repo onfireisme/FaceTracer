@@ -13,6 +13,7 @@ import java.util.List;
 import java.util.Map;
 
 import face.feature.extraction.ConfigConstant;
+import face.feature.extraction.CropFace;
 
 import weka.classifiers.functions.SMO;
 import weka.core.Instance;
@@ -83,6 +84,7 @@ public class FaceClassification {
 	
 	private static void persistentObject(String name, FaceClassifier fc) {
 		try {
+			CropFace.createDirectory(ConfigConstant.modelPath+ name +"/");
 			ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(ConfigConstant.modelPath+ name +"/"+ConfigConstant.dataModel));
 			oos.writeObject(fc);
 			oos.flush();

@@ -72,7 +72,7 @@ public class FaceTrainDataGenerator {
 	public void writeTrainingFile(List<FaceIndex> filist) {
 		Map<String, List<String>> sortedfileNames =getTrainfileNames();
 		
-		for (String category : ConfigConstant.categoryList) {
+		for (String category : ConfigConstant.attributeMap.keySet()) {
 //			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.edgeMagnitudeAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.edgeMagnitudeMeanAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.edgeMagnitudeEnergyAttributes, category);
