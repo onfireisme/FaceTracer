@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+  <display-name>cloudproject</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <servlet-name>uploadimage</servlet-name>
+    <servlet-class>face.search.servlet.UploadImage</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>uploadimage</servlet-name>
+    <url-pattern>/uploadimage</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>getimageslist</servlet-name>
+    <servlet-class>face.search.servlet.GetImagesList</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>getimageslist</servlet-name>
+    <url-pattern>/getimageslist</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>updateimageinfo</servlet-name>
+    <servlet-class>face.search.servlet.UpdateImageInfo</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>updateimageinfo</servlet-name>
+    <url-pattern>/updateimageinfo</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>getstatisticsdata</servlet-name>
+    <servlet-class>face.search.servlet.GetStatisticsData</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>getstatisticsdata</servlet-name>
+    <url-pattern>/getstatisticsdata</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>textSearch</servlet-name>
+    <servlet-class>face.search.servlet.TextSearch</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>textSearch</servlet-name>
+    <url-pattern>/textSearch</url-pattern>
+  </servlet-mapping>
+  
+</web-app>
