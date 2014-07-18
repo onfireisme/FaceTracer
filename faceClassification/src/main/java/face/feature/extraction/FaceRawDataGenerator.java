@@ -18,7 +18,7 @@ public class FaceRawDataGenerator {
 	public void generateRawData() {
 		Map<String, List<String>> sortedfileNames = getRawfileNames();
 		
-//		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.edgeMagnitudeAttributes);
+		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.edgeMagnitudeAttributes);
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.edgeMagnitudeMeanAttributes);
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.edgeMagnitudeEnergyAttributes);
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.edgeOrientationAttributes);
@@ -26,7 +26,7 @@ public class FaceRawDataGenerator {
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.intensityMeanAttributes);
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.intensityEnergyAttributes);
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.intensityHistogramAttributes);
-//		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.RGBAttributes);
+		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.RGBAttributes);
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.RGBHistogramAttributes);
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.RGBMeanAttributes);
 		outputRawDataFile(sortedfileNames, ConfigConstant.Raw + ConfigConstant.RGBEnergyAttributes);
@@ -77,7 +77,7 @@ public class FaceRawDataGenerator {
 				
 				FaceTrainDataGenerator.generateFileHeader(imageLength, bw, outputFileName);
 				
-				bw.write("@attribute faceId numeric");
+				bw.write("@attribute faceId string");
 				bw.newLine();
 				bw.write("@data");
 				bw.newLine();

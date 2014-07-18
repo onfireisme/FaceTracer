@@ -6,6 +6,8 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+import face.feature.bean.FaceIndex;
+
 public class FaceDataReader {
 	
 	private static List<FaceIndex> filist = null;

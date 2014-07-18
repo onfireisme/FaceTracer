@@ -18,8 +18,9 @@ import java.util.Map;
 
 import javax.imageio.ImageIO;
 
+import face.feature.bean.FaceIndex;
+
 public class FaceTrainDataGenerator {
-	
 	
 	public List<FaceIndex> readFaceLables () {
 		List<FaceIndex> filist = new ArrayList<FaceIndex>();
@@ -34,18 +35,39 @@ public class FaceTrainDataGenerator {
 				if (s.startsWith("#")) {
 					continue;
 				}
+				
 				String[] contents = s.split("\t");
-				FaceIndex fi = new FaceIndex();
-				fi.setId(contents[0]);
-				fi.setAttribute(contents[1]);
-				fi.setLabel(contents[2]);
-				filist.add(fi);
+				
+				if (ConfigConstant.multiClassLabels.contains(contents[1])) {
+					handleMultiClassFaceLable(filist, contents);
+				} else {
+					FaceIndex fi = new FaceIndex();
+					fi.setId(contents[0]);
+					fi.setAttribute(contents[1]);
+					fi.setLabel(contents[2]);
+					filist.add(fi);
+				}
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 		return filist;
 	} 
+	
+	private void handleMultiClassFaceLable(List<FaceIndex> filist, String[] contents){
+		List<String> classes = ConfigConstant.multiClassAttributeValueMap.get(contents[1]);
+		for (String classVal : classes) {
+			FaceIndex fi = new FaceIndex();
+			fi.setId(contents[0]);
+			fi.setAttribute(classVal);
+			if (contents[2].equals(classVal)){
+				fi.setLabel("true");
+			} else {
+				fi.setLabel("false");
+			}
+			filist.add(fi);
+		}
+	}
 	
 	private Map<String, List<String>> getTrainfileNames() {
 		File file=new File(ConfigConstant.scaleImagePath);
@@ -73,7 +95,7 @@ public class FaceTrainDataGenerator {
 		Map<String, List<String>> sortedfileNames =getTrainfileNames();
 		
 		for (String category : ConfigConstant.attributeMap.keySet()) {
-//			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.edgeMagnitudeAttributes, category);
+			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.edgeMagnitudeAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.edgeMagnitudeMeanAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.edgeMagnitudeEnergyAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.edgeOrientationAttributes, category);
@@ -81,7 +103,7 @@ public class FaceTrainDataGenerator {
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.intensityMeanAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.intensityEnergyAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.intensityHistogramAttributes, category);
-//			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.RGBAttributes, category);
+			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.RGBAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.RGBHistogramAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.RGBMeanAttributes, category);
 			outputAttributFile(filist, sortedfileNames, ConfigConstant.Train + ConfigConstant.RGBEnergyAttributes, category);
@@ -123,7 +145,7 @@ public class FaceTrainDataGenerator {
 					String fid = name.substring(name.lastIndexOf("/")+1, name.length()-4);
 					FaceIndex faceIndex = null;
 					for (FaceIndex fi : filist) {
-						if (fi.id.equals(fid)&& fi.attribute.equals(category)) {
+						if (fi.getId().equals(fid)&& fi.getAttribute().equals(category)) {
 							faceIndex = fi;
 							break;
 						}
@@ -449,8 +471,6 @@ public class FaceTrainDataGenerator {
 	}
 	
 	public static void main(String[] args) {
-		FaceTrainDataGenerator fg = new FaceTrainDataGenerator();
-		List<FaceIndex> filist = fg.readFaceLables();
-		fg.writeTrainingFile(filist);
+		run();
 	}
 }

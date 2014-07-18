@@ -13,6 +13,8 @@ import javax.imageio.ImageReadParam;
 import javax.imageio.ImageReader;
 import javax.imageio.stream.ImageInputStream;
 
+import face.feature.bean.FaceIndex;
+
 public class CropFace {
 	 
 	public void batchCorpFaces() {
@@ -66,7 +68,7 @@ public class CropFace {
          Double[][] keyPixels = AffineTransform.getKeyPixels(sixPoints);
          
          
-         for (int i = 0; i < 10; i++) {
+         for (int i = 0; i < 11; i++) {
         	 if (keyPixels[i*2][0] < 0) {
         		 keyPixels[i*2][0] = 0d;
         	 }
@@ -104,38 +106,54 @@ public class CropFace {
         	 
         	 param.setSourceRegion(rect); 
         	 
-        	 BufferedImage bi = reader.read(0,param);              
-        	 if (i==0) {
-        		 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.wholeFace);
-        		 ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.wholeFace+name));
-        	 } else if (i == 1){
-        		 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.eye);
-        		 ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.eye+name));
-        	 } else if (i == 2){
-        		 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.mouth);
+        	 BufferedImage bi = reader.read(0,param);
+        	 switch (i) {
+			 case 0:
+				createDirectory(ConfigConstant.cropImagePath+ConfigConstant.wholeFace);
+       		 	ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.wholeFace+name));
+				break;
+			 case 1:
+				 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.eye);
+				 ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.eye+name));
+				 break;
+			 case 2:
+				 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.mouth);
         		 ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.mouth+name));
-        	 } else if (i == 3){
-        		 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.hair);
+				 break;
+			 case 3:
+				 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.hair);
         		 ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.hair+name));
-        	 } else if (i == 4){
-        		 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.nose);
+				 break;
+			 case 4:
+				 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.nose);
         		 ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.nose+name));
-        	 } else if (i == 5){
-        		 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.cheeks);
+				 break;
+			 case 5:
+				 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.cheeks);
         		 ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.cheeks+name));
-        	 } else if (i == 6){
-        		 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.chin);
+				 break;
+			 case 6:
+				 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.chin);
         		 ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.chin+name));
-        	 } else if (i == 7){
-        		 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.forehead);
+				 break;
+			 case 7:
+				 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.forehead);
         		 ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.forehead+name));
-        	 } else if (i == 8){
-        		 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.eyebrows);
+				 break;
+			 case 8:
+				 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.eyebrows);
         		 ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.eyebrows+name));
-        	 } else {
-        		 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.upperLip);
+			 case 9:
+				 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.upperLip);
         		 ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.upperLip+name));
-        	 }
+				 break;
+			 case 10:
+				 createDirectory(ConfigConstant.cropImagePath+ConfigConstant.background);
+				 ImageIO.write(bi, ConfigConstant.imgSurffix, new File(ConfigConstant.cropImagePath+ConfigConstant.background+name));
+				 break;
+			 default:
+				break;
+			 }
         	 
         	 iis.close();
         	 source.close();
@@ -145,6 +163,7 @@ public class CropFace {
 			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
+			System.out.println(name + " exception!");
 			e.printStackTrace();
 		}
   } 

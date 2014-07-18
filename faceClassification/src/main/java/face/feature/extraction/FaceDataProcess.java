@@ -16,6 +16,8 @@ import java.util.List;
 
 import javax.imageio.ImageIO;
 
+import face.feature.bean.FaceIndex;
+
 public class FaceDataProcess {
 	
 	

@@ -19,6 +19,8 @@ import weka.classifiers.functions.SMO;
 import weka.core.Instance;
 import weka.core.Instances;
 import weka.core.SelectedTag;
+import weka.filters.Filter;
+import weka.filters.unsupervised.attribute.Normalize;
 
 public class FaceClassification {
 	
@@ -47,12 +49,16 @@ public class FaceClassification {
 			file=new File(ConfigConstant.trainPath+path+"/");
 			String[] subSubPaths = file.list();
 			for (String subSubpath : subSubPaths) {
+				//TODO to be deleted end
 				file=new File(ConfigConstant.trainPath+path+"/"+subSubpath+"/");
 				String[] fileNames = file.list();
 				
 				List<String> fileNameList = new ArrayList<String>();
 				for(String name:fileNames) {
 					fileNameList.add(ConfigConstant.trainPath+path+"/"+subSubpath+"/"+name);
+				}
+				if (!ConfigConstant.attributeMap.keySet().contains(subSubpath)) {
+					continue;
 				}
 				if (sortedfileNames.get(subSubpath)!=null) {
 					List<String> nameList = sortedfileNames.get(subSubpath);
@@ -195,7 +201,7 @@ public class FaceClassification {
 				
 				instances.setClassIndex(instances.numAttributes()-1);
 				SMO classifier = new SMO();
-				classifier.setFilterType(new SelectedTag(2, SMO.TAGS_FILTER));
+				classifier.setFilterType(new SelectedTag(0, SMO.TAGS_FILTER));
 				classifier.setNumFolds(ConfigConstant.testFold);
 				
 				classifier.buildClassifier(instances);
@@ -237,7 +243,6 @@ public class FaceClassification {
 					List<Integer> partialErrorPos = testErrorPositions(kFoldInstances.get(i), weights[0][1], bias[0][1], i*insCount);
 //					List<Integer> partialErrorPos = testErrorPositions(kFoldInstances.get(i), wholeTrainWeights, wholeTrainBias, i*insCount);
 					errorPoses.addAll(partialErrorPos);
-					
 				}
 				
 				errorInstancePos.add(errorPoses);
@@ -261,6 +266,8 @@ public class FaceClassification {
 		int falseNegativeCount = 0;
 		List<Integer> errorPoses = new ArrayList<Integer>();
 		
+		testInstances = normalizeInstances(testInstances);
+		
 		for (int j = 0; j < testInstances.size(); j++) {
 			Instance ins = testInstances.instance(j);
 			double result = 0;
@@ -283,6 +290,18 @@ public class FaceClassification {
 		System.out.println("falsePositiveCount: " + falsePositiveCount);
 		
 		return errorPoses;
+	}
+	
+	public static Instances normalizeInstances(Instances instances) {
+		Filter m_Filter = new Normalize();
+		try {
+			m_Filter.setInputFormat(instances);
+			return Filter.useFilter(instances, m_Filter);
+		} catch (Exception e) {
+			System.out.println("Normalization Error!");
+			e.printStackTrace();
+		} 
+		return instances;
 	}
 	
 }

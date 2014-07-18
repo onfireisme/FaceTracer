@@ -1,7 +1,5 @@
 package face.feature.extraction;
 
-import org.apache.commons.math3.stat.regression.SimpleRegression;
-
 import com.mathworks.toolbox.javabuilder.MWArray;
 import com.mathworks.toolbox.javabuilder.MWStructArray;
 import com.mathworks.toolbox.javabuilder.MWException;
@@ -19,7 +17,8 @@ public class AffineTransform {
 												  {98,230},{152,250},
 												  {73,90},{175,106},
 												  {60,110},{190,125},
-												  {100,188},{150,200}};
+												  {100,188},{150,200},
+												  {10,10},{260,225}};
 	
 	public static Double[][] getKeyPixels(double[][] arrayTrg) {
 		Absor test = null;
@@ -73,36 +72,12 @@ public class AffineTransform {
 		return result;
 	}
 	
-	public static Double[][] simpleRegression(double[][] arrayTrg) {
-		double[][] arraySrc = {{73,106,144,177,100,152},{142,143,143,142,208,208}};
-		double[][] paraXArray ={ arraySrc[0], arrayTrg[0]};
-		double[][] paraYArray ={ arraySrc[1], arrayTrg[1]};
-		SimpleRegression sr = new SimpleRegression();
-		sr.addData(paraXArray);
-		double tx = sr.getIntercept();
-		double rx = sr.getSlope();
-		sr.clear();
-		sr.addData(paraYArray);
-		double ty = sr.getIntercept();
-		double ry = sr.getSlope();
-		
-		Double[][] result = new Double[keyCoordinate.length][keyCoordinate[0].length];
-		for (int i = 0; i < keyCoordinate.length; i++) {
-			result[i][0] = rx*keyCoordinate[i][0]+tx;
-			result[i][1] = ry*keyCoordinate[i][1]+ty;
-		}
-		return result;
-	}
-	
 	public static void main(String[] args) {
 		double[][] arrayTrg = {{35,50,71,87,41,79},{69,71,73,72,104,106}};
-//		Double[][] result = getKeyPixels(arrayTrg);
-//		for (Double [] res: result){
-//			System.out.print(res[0]);
-//		}
-		Double[][] result = simpleRegression(arrayTrg);
+		Double[][] result = getKeyPixels(arrayTrg);
 		for (Double [] res: result){
-			System.out.print(res[0]+", ");
+			System.out.print(res[0]);
+			System.out.println("abc");
 		}
 	}
 	

@@ -8,6 +8,8 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+import face.feature.bean.FaceIndex;
+
 public class FaceFeaturePointsExtraction {
 	private static List<FaceIndex> filist = null;
 	
