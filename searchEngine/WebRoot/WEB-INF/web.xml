@@ -26,6 +26,14 @@
     <url-pattern>/getimageslist</url-pattern>
   </servlet-mapping>
   <servlet>
+    <servlet-name>getmisspredictlist</servlet-name>
+    <servlet-class>face.search.servlet.GetMissPredictImagesList</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>getmisspredictlist</servlet-name>
+    <url-pattern>/getmisspredictlist</url-pattern>
+  </servlet-mapping>
+  <servlet>
     <servlet-name>updateimageinfo</servlet-name>
     <servlet-class>face.search.servlet.UpdateImageInfo</servlet-class>
   </servlet>

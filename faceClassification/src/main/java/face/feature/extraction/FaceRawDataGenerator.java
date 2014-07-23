@@ -82,11 +82,11 @@ public class FaceRawDataGenerator {
 				bw.write("@data");
 				bw.newLine();
 				for (String name : sortedfileNames.get(path)) {
-					int fid = Integer.valueOf(name.substring(name.lastIndexOf("/")+1, name.length()-4));
+					String fid = name.substring(name.lastIndexOf("/")+1, name.length()-4);
 					
 					FaceTrainDataGenerator.generateContent(imgData, name, outputFileName, bw);
 					
-					bw.write(fid+"");
+					bw.write(fid);
 					bw.newLine();
 				}
 				bw.close();

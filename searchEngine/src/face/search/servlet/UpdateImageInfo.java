@@ -9,6 +9,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import face.search.bean.PhotoEvalInfo;
+import face.search.db.MongoDBUtil;
+
 /**
  * Servlet implementation class UpdateImageInfo
  */
@@ -41,17 +44,22 @@ public class UpdateImageInfo extends HttpServlet {
 		response.setContentType("text/html;charset=utf-8");
 		PrintWriter out = response.getWriter();
 		
-		String imageName = request.getParameter("name");
-		boolean isHandsome = Boolean.valueOf(request.getParameter("result"));
-		
-		System.out.println("name = " + imageName);
-		System.out.println("result = " + isHandsome);
+		PhotoEvalInfo photoEvalInfo = new PhotoEvalInfo(); 
+		photoEvalInfo.setAge(request.getParameter("age"));
+		photoEvalInfo.setBlurry(request.getParameter("blurry"));
+		photoEvalInfo.setEnvironment(request.getParameter("environment"));
+		photoEvalInfo.setEye_wear(request.getParameter("eye_wear"));
+		photoEvalInfo.setGender(request.getParameter("gender"));
+		photoEvalInfo.setHair_color(request.getParameter("hair_color"));
+		photoEvalInfo.setLighting(request.getParameter("lighting"));
+		photoEvalInfo.setMustache(request.getParameter("mustache"));
+		photoEvalInfo.setRace(request.getParameter("race"));
+		photoEvalInfo.setSmiling(request.getParameter("smiling"));
+		photoEvalInfo.setName(request.getParameter("pid"));
 		
 		try {
-//			if (MongoDBUtil.updatePhotoRate(imageName, isHandsome) == true)
-//				out.println(1);
-//			else
-//				out.println(0);
+			int updateRowCount = MongoDBUtil.updatePhoto(photoEvalInfo);
+			out.println(updateRowCount);
 		} catch (Exception e) {
 			out.println(0);
 		}

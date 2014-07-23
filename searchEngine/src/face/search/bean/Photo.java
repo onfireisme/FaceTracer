@@ -1,9 +1,5 @@
 package face.search.bean;
 
-import java.util.Collections;
-import java.util.LinkedList;
-import java.util.List;
-
 public class Photo implements Comparable<Photo>{
 	private String name;
 	private String descirption;

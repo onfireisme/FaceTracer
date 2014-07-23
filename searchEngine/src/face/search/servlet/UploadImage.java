@@ -1,14 +1,18 @@
 package face.search.servlet;
 
 
+import java.awt.image.BufferedImage;
 import java.io.DataInputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.List;
-import java.util.UUID;
+import java.util.Map;
 
+import javax.imageio.ImageIO;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -21,9 +25,10 @@ import org.apache.commons.fileupload.servlet.ServletFileUpload;
 
 import com.google.gson.Gson;
 
+import config.ConfigConstant;
 import face.search.bean.Photo;
 import face.search.db.MongoDBUtil;
-import face.search.util.SimilarImageSearch;
+import face.search.util.FacePrediction;
 
 /**
  * Servlet implementation class UploadImage
@@ -80,30 +85,40 @@ public class UploadImage extends HttpServlet {
 					if (!item.isFormField()) {
 						checkDirectory(uploadPath);
 						// get file name
-						String suffix = item.getName().substring(item.getName().lastIndexOf("."));
-						String fileName = UUID.randomUUID().toString()+suffix;
-						System.out.println(fileName);
-						
-						fileName = fileName.substring(fileName.lastIndexOf("/") + 1);
+						String fileName = ConfigConstant.testPic;
+						int index = item.getName().indexOf(".");
+						String uploadFormat = item.getName().substring(index+1, item.getName().length());
 						File file = new File(uploadPath + "/" + fileName);
-						System.out.println("exit: " +file.exists()+" "+uploadPath + "/" + fileName);
-						if (!file.exists()) item.write(file);
+						if (ConfigConstant.PicFormat.equals(uploadFormat)){
+							item.write(file);
+						} else {
+							File uploadFile = new File(uploadPath + "/test." + uploadFormat);
+							item.write(uploadFile);
+							convertImageFormat(uploadFile, ConfigConstant.PicFormat, file);
+						}
 						
+						if (checkoutDetectPoints()) {
+							Map<String, String> predictRes = FacePrediction.predictFace();
+							List<Photo> res = MongoDBUtil.findSimilarPhoto(predictRes);
+							Gson gson = new Gson();
+							String jsonRes = gson.toJson(res);
+							out.println(jsonRes);
+						}
 						
 						// 1. compute the hash code of this image
-						String sourceFingerprint = SimilarImageSearch.produceFingerPrint(uploadPath + "/" + fileName);
-						System.out.println(uploadPath + fileName+" : " + sourceFingerprint);
+//						String sourceFingerprint = SimilarImageSearch.produceFingerPrint(uploadPath + "/" + fileName);
+//						System.out.println(uploadPath + fileName+" : " + sourceFingerprint);
 						
 						// 2. compare the hash code with the images in the database, and return the path of the close images
-						List<Photo> res = MongoDBUtil.findTop3SimilarPhoto(sourceFingerprint); 
+//						List<Photo> res = MongoDBUtil.findTop3SimilarPhoto(sourceFingerprint); 
 						
 						// 3. create instance of json parser
-						Gson gson = new Gson();
-						String jsonRes = gson.toJson(res);
+//						Gson gson = new Gson();
+//						String jsonRes = gson.toJson(res);
 						
 						// 4. return json result
-						System.out.println("jsonRes = " + jsonRes);
-						out.println(jsonRes);
+//						System.out.println("jsonRes = " + jsonRes);
+//						out.println(jsonRes);
 					}
 				}
 
@@ -121,6 +136,37 @@ public class UploadImage extends HttpServlet {
 				fileOut.close();
 		}
 		
+	}
+	
+	private void convertImageFormat(File imgFile,String format,File formatFile) throws Exception {
+		BufferedImage bIMG =ImageIO.read(imgFile);
+        ImageIO.write(bIMG, format, formatFile);
+	}
+	
+	private boolean checkoutDetectPoints() {
+		try {
+			Process p = Runtime.getRuntime().exec("cmd.exe /c E:/WorkSpaces/searchEngine/facedetect/minimal.exe");
+			  
+			InputStreamReader input =new InputStreamReader(p.getInputStream(),"GBK");
+			char[] buf = new char[1024];
+			int size;
+			StringBuilder sb = new StringBuilder();
+			while((size = input.read(buf)) != -1) {
+			    sb.append(buf,0,size);
+			}
+			System.out.println(sb.toString());
+			if ("success!".equals(sb.toString())) {
+				return true;
+			}
+			return false;
+		} catch (UnsupportedEncodingException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return false;
 	}
 
 	/**

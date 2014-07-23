@@ -3,6 +3,7 @@ package face.search.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.List;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -11,6 +12,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import com.google.gson.Gson;
+
+import face.search.bean.PhotoEvalInfo;
+import face.search.db.MongoDBUtil;
 
 /**
  * Servlet implementation class GetImagesList
@@ -46,7 +50,8 @@ public class GetImagesList extends HttpServlet {
 		
 		Gson gson = new Gson();
 		
-//		out.println(gson.toJson(MongoDBUtil.getUnratedPhotoPaths()));
+		List<PhotoEvalInfo> peiList = MongoDBUtil.getEvaluatedPhotos();
+		out.println(gson.toJson(peiList));
 	}
 
 }

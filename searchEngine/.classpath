@@ -91,5 +91,8 @@
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/xmlenc-0.52.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/xz-1.0.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/affineTransform.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/javabuilder.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/weka.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
