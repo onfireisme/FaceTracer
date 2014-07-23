@@ -1,0 +1,3426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9642"
+   name=""
+   committed-date="2013-03-17T02:41:48.013072Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/beans/icons"
+   last-author="mhall"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:18.578125Z"
+   revision="10228"/>
+<entry
+   committed-rev="2054"
+   name="filters.unsupervised.attribute.NominalToBinary_animated.gif"
+   text-time="2013-11-25T03:38:18.593750Z"
+   committed-date="2004-05-17T04:18:27.000000Z"
+   checksum="342d098ef05d066279c16d4b385d4200"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.406250Z"/>
+<entry
+   committed-rev="2809"
+   name="DataNearBalancedND_animated.gif"
+   text-time="2013-11-25T03:38:18.609375Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="18be5dec8aaac902a22807c925ba1173"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.421875Z"/>
+<entry
+   committed-rev="2728"
+   name="NBTree.gif"
+   text-time="2013-11-25T03:38:18.703125Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="a1dc30cf0f821f8740ce4482f28d77e4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.453125Z"/>
+<entry
+   committed-rev="2798"
+   name="MetaCost.gif"
+   text-time="2013-11-25T03:38:18.687500Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="a0fcc192818fc2e86f09876c72247c8e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.453125Z"/>
+<entry
+   committed-rev="2811"
+   name="ArffSaver.gif"
+   text-time="2013-11-25T03:38:18.671875Z"
+   committed-date="2005-11-01T00:19:54.000000Z"
+   checksum="d92a8ad303d5ee3585c6a0eb4dd2e50a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.437500Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.Resample_animated.gif"
+   text-time="2013-11-25T03:38:18.625000Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="a331a47e986ba0e33d2ddeb2ab0e3e05"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.421875Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_nestedDichotomiesClassifier.gif"
+   text-time="2013-11-25T03:38:18.718750Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="241c95bfb8a278f19337010640ff940c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.468750Z"/>
+<entry
+   committed-rev="2155"
+   name="DefaultTrainTest_animated.gif"
+   text-time="2013-11-25T03:38:18.734375Z"
+   committed-date="2004-08-22T23:23:42.000000Z"
+   checksum="feed55da34e24886dd9065131cb4d345"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.484375Z"/>
+<entry
+   committed-rev="1974"
+   name="StripChart_animated.gif"
+   text-time="2013-11-25T03:38:18.765625Z"
+   committed-date="2004-03-28T21:22:45.000000Z"
+   checksum="3744d97b17930aa66de11d38b30e75d9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.500000Z"/>
+<entry
+   committed-rev="2728"
+   name="VotedPerceptron_animated.gif"
+   text-time="2013-11-25T03:38:18.750000Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="f0e5c342f47b5a50a12b29729254351b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.484375Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_lazyClassifier_animated.gif"
+   text-time="2013-11-25T03:38:18.781250Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="d17e6465ab243d057b616d303fea729f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.515625Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.StringToNominal.gif"
+   text-time="2013-11-25T03:38:18.796875Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="6f96352713b141000c2edb868cb90580"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.515625Z"/>
+<entry
+   committed-rev="2809"
+   name="DBScan_animated.gif"
+   text-time="2013-11-25T03:38:18.828125Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="d3872cadec44050823350e695a7d3d70"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.546875Z"/>
+<entry
+   committed-rev="2067"
+   name="DefaultFilter_animated.gif"
+   text-time="2013-11-25T03:38:18.812500Z"
+   committed-date="2004-05-21T01:44:36.000000Z"
+   checksum="11c81f2256503263e17de8671441774d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.531250Z"/>
+<entry
+   committed-rev="2809"
+   name="LibSVM_animated.gif"
+   text-time="2013-11-25T03:38:18.843750Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="760666c7975095b026f72b415c0147e9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.546875Z"/>
+<entry
+   committed-rev="2728"
+   name="NaiveBayesMultinomial_animated.gif"
+   text-time="2013-11-25T03:38:18.859375Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="0d0a54369c4dd33a9a2dbdad189bc551"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.562500Z"/>
+<entry
+   committed-rev="2809"
+   name="GaussianProcesses_animated.gif"
+   text-time="2013-11-25T03:38:18.875000Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="1eea3f0e12136e7eb0302c21bdeda2d3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.578125Z"/>
+<entry
+   committed-rev="7123"
+   name="page_add.png"
+   text-time="2013-11-25T03:38:18.890625Z"
+   committed-date="2011-05-27T03:31:13.453591Z"
+   checksum="148a31ca62e223ff51c0697a952b37bd"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.578125Z"/>
+<entry
+   committed-rev="1252"
+   name="Save24.gif"
+   text-time="2013-11-25T03:38:18.906250Z"
+   committed-date="2002-05-03T02:09:14.000000Z"
+   checksum="75a11d6103ea88cf0593c01621238fee"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.593750Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.NumericTransform_animated.gif"
+   text-time="2013-11-25T03:38:18.921875Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="68ebbff215b8828f1739ee9f10659205"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.593750Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.RemoveType_animated.gif"
+   text-time="2013-11-25T03:38:18.937500Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="c3fafaf6c6385634d2cbc77df5135366"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.609375Z"/>
+<entry
+   committed-rev="2728"
+   name="ADTree_animated.gif"
+   text-time="2013-11-25T03:38:18.953125Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="7ba7c6b55dc9c83610a2ade4be11f9a4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.625000Z"/>
+<entry
+   committed-rev="2727"
+   name="J48_animated.gif"
+   text-time="2013-11-25T03:38:18.968750Z"
+   committed-date="2005-09-30T02:11:54.000000Z"
+   checksum="cf600905e2365fbd98d9ad16782a6fe4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.625000Z"/>
+<entry
+   committed-rev="2812"
+   name="ArffLoader_animated.gif"
+   text-time="2013-11-25T03:38:18.984375Z"
+   committed-date="2005-11-01T00:20:06.000000Z"
+   checksum="7e619826d9e2d302906c202f6d02822e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.640625Z"/>
+<entry
+   committed-rev="2157"
+   name="DefaultEvaluator.gif"
+   text-time="2013-11-25T03:38:19.000000Z"
+   committed-date="2004-08-23T02:09:28.000000Z"
+   checksum="32a91ec192879fc6027ad93d852908d1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.640625Z"/>
+<entry
+   committed-rev="2809"
+   name="HNB.gif"
+   text-time="2013-11-25T03:38:19.015625Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="35a8897fd8e9a7fda597ee78068aa692"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.656250Z"/>
+<entry
+   committed-rev="2798"
+   name="RacedIncrementalLogitBoost_animated.gif"
+   text-time="2013-11-25T03:38:19.031250Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="b04fbbac8431086d5df731968e640f2c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.687500Z"/>
+<entry
+   committed-rev="2728"
+   name="ComplementNaiveBayes.gif"
+   text-time="2013-11-25T03:38:19.062500Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="b771eb39aad7fc420967f5ad27cd41de"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.687500Z"/>
+<entry
+   committed-rev="2132"
+   name="PredictionAppender.gif"
+   text-time="2013-11-25T03:38:19.078125Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="87c1256c6a0dedb305996991b1b322a8"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.703125Z"/>
+<entry
+   committed-rev="2728"
+   name="ID3_animated.gif"
+   text-time="2013-11-25T03:38:19.093750Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="bf583ad5777af4b6e175ccf118f75a7d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.718750Z"/>
+<entry
+   committed-rev="2801"
+   name="ConjunctiveRule_animated.gif"
+   text-time="2013-11-25T03:38:19.109375Z"
+   committed-date="2005-10-28T02:13:33.000000Z"
+   checksum="be9324c172e4b5e5c088110e52a0a29c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.734375Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_functionsClassifier_animated.gif"
+   text-time="2013-11-25T03:38:19.125000Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="062f1779eee462ff34c99df77aed4225"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.734375Z"/>
+<entry
+   committed-rev="2798"
+   name="RegressionByDiscretization.gif"
+   text-time="2013-11-25T03:38:19.156250Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="2622ad5cd2e14e5b6c3e8c2957d353a0"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.750000Z"/>
+<entry
+   committed-rev="2798"
+   name="RandomCommittee.gif"
+   text-time="2013-11-25T03:38:19.140625Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="5a5dd915f3e8271822f4cf51688d8640"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.750000Z"/>
+<entry
+   committed-rev="2477"
+   name="SimpleKMeans.gif"
+   text-time="2013-11-25T03:38:19.171875Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="9ce8e00e99edb6343fc104eba283720f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.765625Z"/>
+<entry
+   committed-rev="2132"
+   name="IncrementalClassifierEvaluator_animated.gif"
+   text-time="2013-11-25T03:38:19.250000Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="12210b416b15e34e4a043035fe58f544"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.812500Z"/>
+<entry
+   committed-rev="2132"
+   name="ClassifierPerformanceEvaluator_animated.gif"
+   text-time="2013-11-25T03:38:19.203125Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="32a91ec192879fc6027ad93d852908d1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.781250Z"/>
+<entry
+   committed-rev="2067"
+   name="DefaultClassifier_animated.gif"
+   text-time="2013-11-25T03:38:19.187500Z"
+   committed-date="2004-05-21T01:44:36.000000Z"
+   checksum="eb43694deac5221cff698aae1577b895"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.765625Z"/>
+<entry
+   committed-rev="2798"
+   name="ClassificationViaRegression.gif"
+   text-time="2013-11-25T03:38:19.281250Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="ce51af267e0c5e7dbe57b51679226c9f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.843750Z"/>
+<entry
+   committed-rev="2798"
+   name="AdaBoostM1_animated.gif"
+   text-time="2013-11-25T03:38:19.265625Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="e7f3694927465c51a380d4b62ea5ab4f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.828125Z"/>
+<entry
+   committed-rev="2798"
+   name="ThresholdSelector.gif"
+   text-time="2013-11-25T03:38:19.296875Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="1da9f081ce24dedb55543b293a779fac"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.843750Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.NonSparseToSparse.gif"
+   text-time="2013-11-25T03:38:19.312500Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="564074fd4aac339b54b85e5f56116229"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.859375Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.NonSparseToSparse_animated.gif"
+   text-time="2013-11-25T03:38:19.328125Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="564074fd4aac339b54b85e5f56116229"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.859375Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.RemoveMisclassified.gif"
+   text-time="2013-11-25T03:38:19.375000Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="244cd3a6a24f130cb1edd13d35c19d7e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.890625Z"/>
+<entry
+   committed-rev="7123"
+   name="folder_add.png"
+   text-time="2013-11-25T03:38:19.359375Z"
+   committed-date="2011-05-27T03:31:13.453591Z"
+   checksum="4fd0ba998b55abd333f81f9318f89748"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.875000Z"/>
+<entry
+   committed-rev="2798"
+   name="Stacking_animated.gif"
+   text-time="2013-11-25T03:38:19.468750Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="90dcbb6ff86fc8523e7d07762fc00b6c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.937500Z"/>
+<entry
+   committed-rev="2728"
+   name="RandomForest_animated.gif"
+   text-time="2013-11-25T03:38:19.453125Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="c50353d7dc3d6b9fee848cf6a9b66f08"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.921875Z"/>
+<entry
+   committed-rev="2727"
+   name="J48.gif"
+   text-time="2013-11-25T03:38:19.437500Z"
+   committed-date="2005-09-30T02:11:54.000000Z"
+   checksum="cf600905e2365fbd98d9ad16782a6fe4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.921875Z"/>
+<entry
+   committed-rev="2812"
+   name="ArffLoader.gif"
+   text-time="2013-11-25T03:38:19.421875Z"
+   committed-date="2005-11-01T00:20:06.000000Z"
+   checksum="7e619826d9e2d302906c202f6d02822e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.906250Z"/>
+<entry
+   committed-rev="2409"
+   name="splash.jpg"
+   text-time="2013-11-25T03:38:19.406250Z"
+   committed-date="2005-05-31T04:33:36.000000Z"
+   checksum="aff16847cd10c7f3b53def881b592123"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.906250Z"/>
+<entry
+   committed-rev="2054"
+   name="filters.unsupervised.attribute.Normalize_animated.gif"
+   text-time="2013-11-25T03:38:19.484375Z"
+   committed-date="2004-05-17T04:18:27.000000Z"
+   checksum="07aa3e829ba70c68862bc8a57ddf1094"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.968750Z"/>
+<entry
+   committed-rev="2157"
+   name="DefaultEvaluator_animated.gif"
+   text-time="2013-11-25T03:38:19.515625Z"
+   committed-date="2004-08-23T02:09:28.000000Z"
+   checksum="32a91ec192879fc6027ad93d852908d1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.000000Z"/>
+<entry
+   committed-rev="2809"
+   name="HNB_animated.gif"
+   text-time="2013-11-25T03:38:19.500000Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="35a8897fd8e9a7fda597ee78068aa692"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.984375Z"/>
+<entry
+   committed-rev="2798"
+   name="Decorate.gif"
+   text-time="2013-11-25T03:38:19.531250Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="8c92853ee494e3174bf929947d953168"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.000000Z"/>
+<entry
+   committed-rev="2798"
+   name="RegressionByDiscretization_animated.gif"
+   text-time="2013-11-25T03:38:19.562500Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="2622ad5cd2e14e5b6c3e8c2957d353a0"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.015625Z"/>
+<entry
+   committed-rev="2798"
+   name="RandomCommittee_animated.gif"
+   text-time="2013-11-25T03:38:19.546875Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="5a5dd915f3e8271822f4cf51688d8640"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.015625Z"/>
+<entry
+   committed-rev="2477"
+   name="FarthestFirst_animated.gif"
+   text-time="2013-11-25T03:38:19.578125Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="1016909450ea83ae482e11b01a228880"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.031250Z"/>
+<entry
+   committed-rev="2810"
+   name="DatabaseLoader.gif"
+   text-time="2013-11-25T03:38:19.609375Z"
+   committed-date="2005-11-01T00:13:00.000000Z"
+   checksum="f58fe1da3f02b2cbc897e0e80ee9f1e1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.046875Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.ReplaceMissingValues_animated.gif"
+   text-time="2013-11-25T03:38:19.593750Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="bcc6e054c582ef7c8c0a3fde54d0f65d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.031250Z"/>
+<entry
+   committed-rev="2809"
+   name="LibSVM.gif"
+   text-time="2013-11-25T03:38:19.625000Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="760666c7975095b026f72b415c0147e9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.062500Z"/>
+<entry
+   committed-rev="2797"
+   name="SMO.gif"
+   text-time="2013-11-25T03:38:19.640625Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="50732ed43c7c9cb537f5d6ed2814435b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.062500Z"/>
+<entry
+   committed-rev="2797"
+   name="SMO_animated.gif"
+   text-time="2013-11-25T03:38:19.671875Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="50732ed43c7c9cb537f5d6ed2814435b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.078125Z"/>
+<entry
+   committed-rev="2026"
+   name="filters.unsupervised.attribute.ClusterMembership.gif"
+   text-time="2013-11-25T03:38:19.687500Z"
+   committed-date="2004-04-28T22:07:17.000000Z"
+   checksum="f696d64bed55d43a7d5729fe184faef3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.078125Z"/>
+<entry
+   committed-rev="2799"
+   name="OneR_animated.gif"
+   text-time="2013-11-25T03:38:19.703125Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="fefaa6bdc78ea009ba29d58de534d11c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.093750Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.attribute.Discretize.gif"
+   text-time="2013-11-25T03:38:19.718750Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="fad18a759b0384b5bdf6a7dade00c7bb"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.093750Z"/>
+<entry
+   committed-rev="2132"
+   name="TrainingSetMaker.gif"
+   text-time="2013-11-25T03:38:19.734375Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="dd4d8a4c8e4169c122cd797b52075cc6"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.109375Z"/>
+<entry
+   committed-rev="2477"
+   name="MakeDensityBasedClusterer_animated.gif"
+   text-time="2013-11-25T03:38:19.750000Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="b68950a00e5be9b0eacd9028e82d51f4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.125000Z"/>
+<entry
+   committed-rev="7123"
+   name="help.png"
+   text-time="2013-11-25T03:38:19.765625Z"
+   committed-date="2011-05-27T03:31:13.453591Z"
+   checksum="c3812c74bc524179f4ccf5d2db7b3cbf"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.125000Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.attribute.NominalToBinary_animated.gif"
+   text-time="2013-11-25T03:38:19.781250Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="238aa7c6a84c5a7e6263f9b4fe38df41"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.140625Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.attribute.AttributeSelection.gif"
+   text-time="2013-11-25T03:38:19.796875Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="3048a5f0c3570ed5256f529895bb5d67"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.140625Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.PKIDiscretize_animated.gif"
+   text-time="2013-11-25T03:38:19.828125Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="cfea1b3820e6980668fe030fcf9caa49"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.203125Z"/>
+<entry
+   committed-rev="2798"
+   name="MultiScheme_animated.gif"
+   text-time="2013-11-25T03:38:19.843750Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="b328369c2a0839be23045b42ef1f8505"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.203125Z"/>
+<entry
+   committed-rev="1974"
+   name="StripChart.gif"
+   text-time="2013-11-25T03:38:19.859375Z"
+   committed-date="2004-03-28T21:22:45.000000Z"
+   checksum="3744d97b17930aa66de11d38b30e75d9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.218750Z"/>
+<entry
+   committed-rev="2728"
+   name="VotedPerceptron.gif"
+   text-time="2013-11-25T03:38:19.859375Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="f0e5c342f47b5a50a12b29729254351b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.218750Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.RandomProjection_animated.gif"
+   text-time="2013-11-25T03:38:19.890625Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="7b70a31ad2b5b08c58f233c98c604b7c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.234375Z"/>
+<entry
+   committed-rev="2798"
+   name="OrdinalClassClassifier_animated.gif"
+   text-time="2013-11-25T03:38:19.906250Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="b74fd93abb9d26d8f9a5c4b41215f306"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.250000Z"/>
+<entry
+   committed-rev="2728"
+   name="KStar_animated.gif"
+   text-time="2013-11-25T03:38:19.921875Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="9d1f62c877bbb49fd46b1c74498e7ba1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.250000Z"/>
+<entry
+   committed-rev="2728"
+   name="NaiveBayes_animated.gif"
+   text-time="2013-11-25T03:38:19.937500Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="2b4dcbb3fbac7ee75197670c1c22cb3f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.265625Z"/>
+<entry
+   committed-rev="2799"
+   name="Prism.gif"
+   text-time="2013-11-25T03:38:19.937500Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="01d19d7f3346b616abaa31f4cb0375e6"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.265625Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.RemoveFolds.gif"
+   text-time="2013-11-25T03:38:19.968750Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="b833edf36a18f02244a4581b4bd63fd2"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.281250Z"/>
+<entry
+   committed-rev="2798"
+   name="AdditiveRegression_animated.gif"
+   text-time="2013-11-25T03:38:19.984375Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="294471ff10cde833e63a986ba58cb726"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.296875Z"/>
+<entry
+   committed-rev="2809"
+   name="Dagging.gif"
+   text-time="2013-11-25T03:38:19.984375Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="ff7e6a12596b9ed686c71331a0dd96cc"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.296875Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.RemoveType.gif"
+   text-time="2013-11-25T03:38:20.000000Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="c3fafaf6c6385634d2cbc77df5135366"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.312500Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.Remove_animated.gif"
+   text-time="2013-11-25T03:38:20.031250Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="0b5725a31eb2b04d3273bfc92dcd6aae"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.312500Z"/>
+<entry
+   committed-rev="2477"
+   name="ModelPerformanceChart.gif"
+   text-time="2013-11-25T03:38:20.046875Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="18e54ce7d812bc2e2b586b8ee053973c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.328125Z"/>
+<entry
+   committed-rev="2477"
+   name="MakeDensityBasedClusterer.gif"
+   text-time="2013-11-25T03:38:20.078125Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="b68950a00e5be9b0eacd9028e82d51f4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.375000Z"/>
+<entry
+   committed-rev="1252"
+   name="Open24.gif"
+   text-time="2013-11-25T03:38:20.093750Z"
+   committed-date="2002-05-03T02:09:14.000000Z"
+   checksum="adbe8a131677d7124c9940f7f963db80"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.390625Z"/>
+<entry
+   committed-rev="2132"
+   name="TrainingSetMaker_animated.gif"
+   text-time="2013-11-25T03:38:20.109375Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="dd4d8a4c8e4169c122cd797b52075cc6"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.406250Z"/>
+<entry
+   committed-rev="2132"
+   name="TestSetMaker.gif"
+   text-time="2013-11-25T03:38:20.125000Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="09f6671a0cd009024b3b0ea28fca52a1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.406250Z"/>
+<entry
+   committed-rev="7165"
+   name="cog_go.png"
+   text-time="2013-11-25T03:38:20.140625Z"
+   committed-date="2011-06-09T02:58:12.463086Z"
+   checksum="142d11b5225a02229478dd1370092db0"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.421875Z"/>
+<entry
+   committed-rev="2026"
+   name="filters.unsupervised.attribute.AddExpression_animated.gif"
+   text-time="2013-11-25T03:38:20.156250Z"
+   committed-date="2004-04-28T22:07:17.000000Z"
+   checksum="1c31bca86c0ce5152e0460312b7d9665"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.421875Z"/>
+<entry
+   committed-rev="2797"
+   name="Logistic_animated.gif"
+   text-time="2013-11-25T03:38:20.187500Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="f63274dd26032046c3173e06764a2257"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.437500Z"/>
+<entry
+   committed-rev="2160"
+   name="ClustererPerformanceEvaluator_animated.gif"
+   text-time="2013-11-25T03:38:20.203125Z"
+   committed-date="2004-08-23T23:06:53.000000Z"
+   checksum="32a91ec192879fc6027ad93d852908d1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.453125Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.RemoveRange.gif"
+   text-time="2013-11-25T03:38:20.218750Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="dcb50548e5c43e7d1eea3523b4f47364"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.453125Z"/>
+<entry
+   committed-rev="2798"
+   name="AttributeSelectedClassifier.gif"
+   text-time="2013-11-25T03:38:20.234375Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="4d9667630a416bdfbba13c5da36079c4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.468750Z"/>
+<entry
+   committed-rev="2728"
+   name="Winnow.gif"
+   text-time="2013-11-25T03:38:20.250000Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="78e7afd3c6104f3a5d9801c459a98d79"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.484375Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.Obfuscate_animated.gif"
+   text-time="2013-11-25T03:38:20.265625Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="08637bec5d8af50d9141eb6f0a390df8"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.500000Z"/>
+<entry
+   committed-rev="2799"
+   name="NNge.gif"
+   text-time="2013-11-25T03:38:20.281250Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="75dc1d7d0c7efe425884ba1c4b623ba3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.500000Z"/>
+<entry
+   committed-rev="1974"
+   name="ScatterPlotMatrix.gif"
+   text-time="2013-11-25T03:38:20.296875Z"
+   committed-date="2004-03-28T21:22:45.000000Z"
+   checksum="bdfd01000bd339a4f3d919a78089719b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.515625Z"/>
+<entry
+   committed-rev="2809"
+   name="DBScan.gif"
+   text-time="2013-11-25T03:38:20.312500Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="d3872cadec44050823350e695a7d3d70"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.531250Z"/>
+<entry
+   committed-rev="2067"
+   name="DefaultFilter.gif"
+   text-time="2013-11-25T03:38:20.328125Z"
+   committed-date="2004-05-21T01:44:36.000000Z"
+   checksum="11c81f2256503263e17de8671441774d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.531250Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.TimeSeriesTranslate.gif"
+   text-time="2013-11-25T03:38:20.343750Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="5cb652d3d52928d934e798d7a163297e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.546875Z"/>
+<entry
+   committed-rev="7142"
+   name="arrow_undo.png"
+   text-time="2013-11-25T03:38:20.375000Z"
+   committed-date="2011-05-31T03:54:08.015391Z"
+   checksum="9a4ffd836c709958eff80a3260f8a1cb"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.546875Z"/>
+<entry
+   committed-rev="2812"
+   name="DefaultDataSource.gif"
+   text-time="2013-11-25T03:38:20.390625Z"
+   committed-date="2005-11-01T00:20:06.000000Z"
+   checksum="7e619826d9e2d302906c202f6d02822e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.562500Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.Randomize_animated.gif"
+   text-time="2013-11-25T03:38:20.406250Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="964cca2af03d0a7e4a5a87fa9bf7cbc9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.578125Z"/>
+<entry
+   committed-rev="2132"
+   name="ClassAssigner.gif"
+   text-time="2013-11-25T03:38:20.515625Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="ce504b4dadee7e7830f80f1b36160e11"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.578125Z"/>
+<entry
+   committed-rev="9129"
+   name="FlowByExpression.png"
+   text-time="2013-11-25T03:38:20.531250Z"
+   committed-date="2012-09-18T23:33:33.980426Z"
+   checksum="661a6ecb75eef6a1e906f5e802c45db8"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.593750Z"/>
+<entry
+   committed-rev="2798"
+   name="Stacking.gif"
+   text-time="2013-11-25T03:38:20.562500Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="90dcbb6ff86fc8523e7d07762fc00b6c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.593750Z"/>
+<entry
+   committed-rev="2728"
+   name="RandomForest.gif"
+   text-time="2013-11-25T03:38:20.578125Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="c50353d7dc3d6b9fee848cf6a9b66f08"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.609375Z"/>
+<entry
+   committed-rev="2745"
+   name="M5P_animated.gif"
+   text-time="2013-11-25T03:38:20.640625Z"
+   committed-date="2005-10-04T20:53:40.000000Z"
+   checksum="bdc44a2dfda12a958498c38368b89b4d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.625000Z"/>
+<entry
+   committed-rev="2812"
+   name="DefaultDataSink_animated.gif"
+   text-time="2013-11-25T03:38:20.656250Z"
+   committed-date="2005-11-01T00:20:06.000000Z"
+   checksum="d92a8ad303d5ee3585c6a0eb4dd2e50a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.625000Z"/>
+<entry
+   committed-rev="1974"
+   name="DefaultGraph_animated.gif"
+   text-time="2013-11-25T03:38:20.812500Z"
+   committed-date="2004-03-28T21:22:45.000000Z"
+   checksum="d7e14d9feca80bfbb16c53888836d01d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.640625Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_treeClassifier_animated.gif"
+   text-time="2013-11-25T03:38:20.828125Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="368287292ddfc2a13e6f93208806b1ca"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.640625Z"/>
+<entry
+   committed-rev="2798"
+   name="Vote.gif"
+   text-time="2013-11-25T03:38:20.906250Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="aa0857a76395c1fbc92aa3597e21cb82"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.656250Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_bayesClassifier_animated.gif"
+   text-time="2013-11-25T03:38:20.937500Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="3cc4f7cbc94e98f5a4c004059316e088"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.656250Z"/>
+<entry
+   committed-rev="2797"
+   name="RBFNetwork_animated.gif"
+   text-time="2013-11-25T03:38:20.968750Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="042595a35b3bb8904b5de3853f99ba42"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.671875Z"/>
+<entry
+   committed-rev="2054"
+   name="filters.unsupervised.attribute.FirstOrder.gif"
+   text-time="2013-11-25T03:38:21.750000Z"
+   committed-date="2004-05-17T04:18:27.000000Z"
+   checksum="eac7f77150b898283db6644180dbcabf"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.687500Z"/>
+<entry
+   committed-rev="2799"
+   name="NNge_animated.gif"
+   text-time="2013-11-25T03:38:22.015625Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="75dc1d7d0c7efe425884ba1c4b623ba3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.687500Z"/>
+<entry
+   committed-rev="2798"
+   name="AdaBoostM1.gif"
+   text-time="2013-11-25T03:38:22.031250Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="e7f3694927465c51a380d4b62ea5ab4f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.703125Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.StringToNominal_animated.gif"
+   text-time="2013-11-25T03:38:22.234375Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="6f96352713b141000c2edb868cb90580"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.703125Z"/>
+<entry
+   committed-rev="2728"
+   name="NaiveBayesMultinomial.gif"
+   text-time="2013-11-25T03:38:22.375000Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="0d0a54369c4dd33a9a2dbdad189bc551"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.718750Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_metaClassifier_animated.gif"
+   text-time="2013-11-25T03:38:22.484375Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="241c95bfb8a278f19337010640ff940c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.734375Z"/>
+<entry
+   committed-rev="2809"
+   name="GaussianProcesses.gif"
+   text-time="2013-11-25T03:38:22.609375Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="1eea3f0e12136e7eb0302c21bdeda2d3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.750000Z"/>
+<entry
+   committed-rev="2797"
+   name="LeastMedSq.gif"
+   text-time="2013-11-25T03:38:22.687500Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="f18ae9b3d937ef286db4f209d255254f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.750000Z"/>
+<entry
+   committed-rev="2809"
+   name="Dagging_animated.gif"
+   text-time="2013-11-25T03:38:22.718750Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="ff7e6a12596b9ed686c71331a0dd96cc"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.765625Z"/>
+<entry
+   committed-rev="2799"
+   name="OneR.gif"
+   text-time="2013-11-25T03:38:22.812500Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="fefaa6bdc78ea009ba29d58de534d11c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.765625Z"/>
+<entry
+   committed-rev="2477"
+   name="Cobweb_animated.gif"
+   text-time="2013-11-25T03:38:22.843750Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="fe5b2b89f8aec26f4c0617862a0460b3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.781250Z"/>
+<entry
+   committed-rev="2798"
+   name="MultiBoostAB.gif"
+   text-time="2013-11-25T03:38:22.984375Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="05abef085f0adae7804fb62d00c67622"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.796875Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.RemoveMisclassified_animated.gif"
+   text-time="2013-11-25T03:38:22.968750Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="244cd3a6a24f130cb1edd13d35c19d7e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.796875Z"/>
+<entry
+   committed-rev="2728"
+   name="REPTree.gif"
+   text-time="2013-11-25T03:38:23.062500Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="529b2e83ccbddc2af53095e73661d022"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.843750Z"/>
+<entry
+   committed-rev="2799"
+   name="PART.gif"
+   text-time="2013-11-25T03:38:23.046875Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="641f36cb5b77f45a796b29a13c51d087"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.843750Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.instance.StratifiedRemoveFolds.gif"
+   text-time="2013-11-25T03:38:23.015625Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="a8da9f9994e1c19fa6603f719a3b0e21"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.828125Z"/>
+<entry
+   committed-rev="2798"
+   name="CostSensitiveClassifier.gif"
+   text-time="2013-11-25T03:38:23.093750Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="ec94ba2f2496486170ac0d7711ee534f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.859375Z"/>
+<entry
+   committed-rev="2797"
+   name="PaceRegression.gif"
+   text-time="2013-11-25T03:38:23.125000Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="13a07ed96d204b9ed7798127ee059562"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.875000Z"/>
+<entry
+   committed-rev="2054"
+   name="filters.unsupervised.attribute.Discretize.gif"
+   text-time="2013-11-25T03:38:23.109375Z"
+   committed-date="2004-05-17T04:18:27.000000Z"
+   checksum="1c3b588d2effc91a70a102db6e20f7a8"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.875000Z"/>
+<entry
+   committed-rev="2798"
+   name="Grading.gif"
+   text-time="2013-11-25T03:38:23.156250Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="e1385a522f78db16699e6ef1b731191d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.890625Z"/>
+<entry
+   committed-rev="2745"
+   name="IB1.gif"
+   text-time="2013-11-25T03:38:23.140625Z"
+   committed-date="2005-10-04T20:53:40.000000Z"
+   checksum="05a39b8d6f224a3640f2f111b5c9cfa9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.890625Z"/>
+<entry
+   committed-rev="2026"
+   name="filters.unsupervised.attribute.AddExpression.gif"
+   text-time="2013-11-25T03:38:23.171875Z"
+   committed-date="2004-04-28T22:07:17.000000Z"
+   checksum="1c31bca86c0ce5152e0460312b7d9665"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.906250Z"/>
+<entry
+   committed-rev="2805"
+   name="DefaultAssociator_animated.gif"
+   text-time="2013-11-25T03:38:23.187500Z"
+   committed-date="2005-10-31T03:26:42.000000Z"
+   checksum="d5fd0cfd43facd1d965420675363a4f2"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.921875Z"/>
+<entry
+   committed-rev="4283"
+   name="SerializedModelSaver_animated.gif"
+   text-time="2013-11-25T03:38:23.218750Z"
+   committed-date="2008-03-05T03:28:07.000000Z"
+   checksum="bc16314721ad9b88fc58303f60a13a0d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.937500Z"/>
+<entry
+   committed-rev="2798"
+   name="CVParameterSelection.gif"
+   text-time="2013-11-25T03:38:23.203125Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="06d07eb67db4aa7dd79ec60fbba64f1e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.937500Z"/>
+<entry
+   committed-rev="2728"
+   name="LBR_animated.gif"
+   text-time="2013-11-25T03:38:23.265625Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="6441a8f322290e410299c67d3baf1572"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.953125Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_functionsClassifier.gif"
+   text-time="2013-11-25T03:38:23.250000Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="062f1779eee462ff34c99df77aed4225"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.953125Z"/>
+<entry
+   committed-rev="2798"
+   name="OrdinalClassClassifier.gif"
+   text-time="2013-11-25T03:38:23.296875Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="b74fd93abb9d26d8f9a5c4b41215f306"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.984375Z"/>
+<entry
+   committed-rev="7335"
+   name="database.png"
+   text-time="2013-11-25T03:38:23.281250Z"
+   committed-date="2011-06-28T02:43:24.139609Z"
+   checksum="d698a5e9a755a97b51e657256881bbde"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.968750Z"/>
+<entry
+   committed-rev="2728"
+   name="UserClassifier_animated.gif"
+   text-time="2013-11-25T03:38:23.312500Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="aba0ce7ae6376c5962c38ae85816f444"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:15.984375Z"/>
+<entry
+   committed-rev="7161"
+   name="cog.png"
+   text-time="2013-11-25T03:38:23.328125Z"
+   committed-date="2011-06-08T02:50:58.153281Z"
+   checksum="30a18063ef42b090194a7e936086960f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.000000Z"/>
+<entry
+   committed-rev="2728"
+   name="DecisionStump_animated.gif"
+   text-time="2013-11-25T03:38:23.359375Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="1d634b56662194213d6e5beb89adf1d4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.015625Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_lazyClassifier.gif"
+   text-time="2013-11-25T03:38:23.343750Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="d17e6465ab243d057b616d303fea729f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.000000Z"/>
+<entry
+   committed-rev="2728"
+   name="MultilayerPerceptron.gif"
+   text-time="2013-11-25T03:38:23.406250Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="2e2d71807058c9003e2ae8d00eba99d7"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.031250Z"/>
+<entry
+   committed-rev="2054"
+   name="filters.unsupervised.attribute.FirstOrder_animated.gif"
+   text-time="2013-11-25T03:38:23.390625Z"
+   committed-date="2004-05-17T04:18:27.000000Z"
+   checksum="eac7f77150b898283db6644180dbcabf"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.015625Z"/>
+<entry
+   committed-rev="2728"
+   name="NaiveBayesSimple.gif"
+   text-time="2013-11-25T03:38:23.421875Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="6b3bd537e4eac2ff7e42d69748960f87"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.046875Z"/>
+<entry
+   committed-rev="2811"
+   name="SerializedInstancesSaver.gif"
+   text-time="2013-11-25T03:38:23.453125Z"
+   committed-date="2005-11-01T00:19:54.000000Z"
+   checksum="bc16314721ad9b88fc58303f60a13a0d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.062500Z"/>
+<entry
+   committed-rev="2799"
+   name="JRip.gif"
+   text-time="2013-11-25T03:38:23.437500Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="27769826107de958c5e11b580d99ec7d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.046875Z"/>
+<entry
+   committed-rev="2798"
+   name="StackingC.gif"
+   text-time="2013-11-25T03:38:23.484375Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="4bd4ee422760ae76a18955e8503a0e75"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.078125Z"/>
+<entry
+   committed-rev="2809"
+   name="END.gif"
+   text-time="2013-11-25T03:38:23.468750Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="0f9e822f221d2a0b3fa4806f7492e603"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.062500Z"/>
+<entry
+   committed-rev="4772"
+   name="InstanceStreamToBatchMaker_animated.gif"
+   text-time="2013-11-25T03:38:23.500000Z"
+   committed-date="2008-11-25T08:06:28.093950Z"
+   checksum="dd4d8a4c8e4169c122cd797b52075cc6"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.093750Z"/>
+<entry
+   committed-rev="2798"
+   name="CostSensitiveClassifier_animated.gif"
+   text-time="2013-11-25T03:38:23.515625Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="ec94ba2f2496486170ac0d7711ee534f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.093750Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_bayesClassifier.gif"
+   text-time="2013-11-25T03:38:23.531250Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="3cc4f7cbc94e98f5a4c004059316e088"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.109375Z"/>
+<entry
+   committed-rev="2728"
+   name="NaiveBayesUpdateable.gif"
+   text-time="2013-11-25T03:38:23.578125Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="85fbdf6719981683c17630baec0e6d70"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.140625Z"/>
+<entry
+   committed-rev="2058"
+   name="filters.unsupervised.attribute.MergeTwoValues.gif"
+   text-time="2013-11-25T03:38:23.562500Z"
+   committed-date="2004-05-20T04:37:02.000000Z"
+   checksum="3c5e663d9b7978069ad814f7751dc82e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.125000Z"/>
+<entry
+   committed-rev="7136"
+   name="shape_handles.png"
+   text-time="2013-11-25T03:38:23.546875Z"
+   committed-date="2011-05-30T22:13:44.895090Z"
+   checksum="10542b6a338a2643bba8505b2d1c1ead"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.125000Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.Standardize_animated.gif"
+   text-time="2013-11-25T03:38:23.593750Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="6fd54db29a53d087a471d429869ba6cf"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.156250Z"/>
+<entry
+   committed-rev="2798"
+   name="AdditiveRegression.gif"
+   text-time="2013-11-25T03:38:23.625000Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="294471ff10cde833e63a986ba58cb726"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.156250Z"/>
+<entry
+   committed-rev="1974"
+   name="ScatterPlotMatrix_animated.gif"
+   text-time="2013-11-25T03:38:23.640625Z"
+   committed-date="2004-03-28T21:22:45.000000Z"
+   checksum="bdfd01000bd339a4f3d919a78089719b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.171875Z"/>
+<entry
+   committed-rev="2810"
+   name="DatabaseLoader_animated.gif"
+   text-time="2013-11-25T03:38:23.687500Z"
+   committed-date="2005-11-01T00:13:00.000000Z"
+   checksum="f58fe1da3f02b2cbc897e0e80ee9f1e1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.171875Z"/>
+<entry
+   committed-rev="2728"
+   name="RandomTree.gif"
+   text-time="2013-11-25T03:38:23.750000Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="2a886ae3e9e64f3833b688351e32dcaa"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.203125Z"/>
+<entry
+   committed-rev="2132"
+   name="ClassValuePicker.gif"
+   text-time="2013-11-25T03:38:23.734375Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="b60c23ce907e117ec65126e8395e6c6a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.203125Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.RemovePercentage.gif"
+   text-time="2013-11-25T03:38:23.703125Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="2f15c2f8bca4733682230838f42e475d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.187500Z"/>
+<entry
+   committed-rev="2809"
+   name="ClassBalancedND_animated.gif"
+   text-time="2013-11-25T03:38:23.781250Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="a73090c7fdf335e39b7d3ad8b3e6fb07"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.218750Z"/>
+<entry
+   committed-rev="2812"
+   name="DefaultDataSink.gif"
+   text-time="2013-11-25T03:38:23.765625Z"
+   committed-date="2005-11-01T00:20:06.000000Z"
+   checksum="d92a8ad303d5ee3585c6a0eb4dd2e50a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.218750Z"/>
+<entry
+   committed-rev="4772"
+   name="InstanceStreamToBatchMaker.gif"
+   text-time="2013-11-25T03:38:23.781250Z"
+   committed-date="2008-11-25T08:06:28.093950Z"
+   checksum="dd4d8a4c8e4169c122cd797b52075cc6"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.234375Z"/>
+<entry
+   committed-rev="2745"
+   name="AODE_animated.gif"
+   text-time="2013-11-25T03:38:23.796875Z"
+   committed-date="2005-10-04T20:53:40.000000Z"
+   checksum="d87acac5347a6c2e5c1dfa6b4f191822"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.250000Z"/>
+<entry
+   committed-rev="2805"
+   name="DefaultAssociator.gif"
+   text-time="2013-11-25T03:38:23.812500Z"
+   committed-date="2005-10-31T03:26:42.000000Z"
+   checksum="d5fd0cfd43facd1d965420675363a4f2"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.250000Z"/>
+<entry
+   committed-rev="3636"
+   name="DefaultClusterer.gif"
+   text-time="2013-11-25T03:38:23.828125Z"
+   committed-date="2006-11-21T01:47:41.000000Z"
+   checksum="69c280e9fb83dd95c11d40c100056dbb"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.265625Z"/>
+<entry
+   committed-rev="2728"
+   name="ID3.gif"
+   text-time="2013-11-25T03:38:23.859375Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="bf583ad5777af4b6e175ccf118f75a7d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.281250Z"/>
+<entry
+   committed-rev="2799"
+   name="ConjunctiveRule.gif"
+   text-time="2013-11-25T03:38:23.843750Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="be9324c172e4b5e5c088110e52a0a29c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.265625Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.RandomProjection.gif"
+   text-time="2013-11-25T03:38:23.875000Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="7b70a31ad2b5b08c58f233c98c604b7c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.281250Z"/>
+<entry
+   committed-rev="2797"
+   name="RBFNetwork.gif"
+   text-time="2013-11-25T03:38:23.890625Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="042595a35b3bb8904b5de3853f99ba42"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.296875Z"/>
+<entry
+   committed-rev="2798"
+   name="MultiClassClassifier_animated.gif"
+   text-time="2013-11-25T03:38:23.921875Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="6e59937a2d85e679a11da902c5090b29"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.312500Z"/>
+<entry
+   committed-rev="2798"
+   name="LogitBoost_animated.gif"
+   text-time="2013-11-25T03:38:23.906250Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="a5b03f213a5a7c1ca913f2c22d119df1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.312500Z"/>
+<entry
+   committed-rev="2477"
+   name="FarthestFirst.gif"
+   text-time="2013-11-25T03:38:23.937500Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="1016909450ea83ae482e11b01a228880"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.328125Z"/>
+<entry
+   committed-rev="2132"
+   name="CrossValidationFoldMaker.gif"
+   text-time="2013-11-25T03:38:23.968750Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="d5ba582db376718d602a8f9c4d3ce0a0"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.343750Z"/>
+<entry
+   committed-rev="9640"
+   name="zoom_in.png"
+   text-time="2013-11-25T03:38:23.953125Z"
+   committed-date="2013-03-17T01:46:48.235118Z"
+   checksum="921231814a5be0c07bfa6f07b2f0ac8d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.328125Z"/>
+<entry
+   committed-rev="7140"
+   name="shape_group.png"
+   text-time="2013-11-25T03:38:23.984375Z"
+   committed-date="2011-05-31T00:32:26.881977Z"
+   checksum="9bbe196f65855df9d2154644e18d5223"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.359375Z"/>
+<entry
+   committed-rev="2797"
+   name="SMOreg_animated.gif"
+   text-time="2013-11-25T03:38:24.015625Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="253a166baa240c4dd0ddaa2ce64bf38b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.390625Z"/>
+<entry
+   committed-rev="2026"
+   name="filters.unsupervised.attribute.Add_animated.gif"
+   text-time="2013-11-25T03:38:24.000000Z"
+   committed-date="2004-04-28T22:07:17.000000Z"
+   checksum="f11731e1b0b899ed5c9b77deb5cc5588"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.375000Z"/>
+<entry
+   committed-rev="2798"
+   name="ThresholdSelector_animated.gif"
+   text-time="2013-11-25T03:38:24.046875Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="1da9f081ce24dedb55543b293a779fac"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.406250Z"/>
+<entry
+   committed-rev="2477"
+   name="DiamondPlain.gif"
+   text-time="2013-11-25T03:38:24.031250Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="44afb6f7965987b408bd2bd34b9198d8"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.406250Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.Remove.gif"
+   text-time="2013-11-25T03:38:24.062500Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="0b5725a31eb2b04d3273bfc92dcd6aae"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.421875Z"/>
+<entry
+   committed-rev="2728"
+   name="NaiveBayesSimple_animated.gif"
+   text-time="2013-11-25T03:38:24.078125Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="6b3bd537e4eac2ff7e42d69748960f87"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.437500Z"/>
+<entry
+   committed-rev="2477"
+   name="EM_animated.gif"
+   text-time="2013-11-25T03:38:24.109375Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="53345195ffa3a81607ead58b69c45e24"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.453125Z"/>
+<entry
+   committed-rev="2799"
+   name="ZeroR_animated.gif"
+   text-time="2013-11-25T03:38:24.093750Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="76e1817444642b8f3b8a9092154b0981"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.437500Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_rulesClassifier_animated.gif"
+   text-time="2013-11-25T03:38:24.125000Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="63f1583c7b10f3f01d97ea9b6769d5f4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.453125Z"/>
+<entry
+   committed-rev="2798"
+   name="RacedIncrementalLogitBoost.gif"
+   text-time="2013-11-25T03:38:24.140625Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="b04fbbac8431086d5df731968e640f2c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.468750Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.Normalize_animated.gif"
+   text-time="2013-11-25T03:38:24.171875Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="d220c32e748fa535ae3b620f05216861"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.484375Z"/>
+<entry
+   committed-rev="7133"
+   name="cut.png"
+   text-time="2013-11-25T03:38:24.187500Z"
+   committed-date="2011-05-30T03:33:03.993826Z"
+   checksum="63f7279113cee951e06603433cb9f3ad"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.500000Z"/>
+<entry
+   committed-rev="2797"
+   name="PaceRegression_animated.gif"
+   text-time="2013-11-25T03:38:24.234375Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="13a07ed96d204b9ed7798127ee059562"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.562500Z"/>
+<entry
+   committed-rev="2797"
+   name="LinearRegression.gif"
+   text-time="2013-11-25T03:38:24.218750Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="fabff5999ff9fe72cbd31a0c463f7bfe"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.546875Z"/>
+<entry
+   committed-rev="2054"
+   name="filters.unsupervised.attribute.Discretize_animated.gif"
+   text-time="2013-11-25T03:38:24.203125Z"
+   committed-date="2004-05-17T04:18:27.000000Z"
+   checksum="1c3b588d2effc91a70a102db6e20f7a8"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.500000Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.Standardize.gif"
+   text-time="2013-11-25T03:38:24.250000Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="6fd54db29a53d087a471d429869ba6cf"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.562500Z"/>
+<entry
+   committed-rev="2132"
+   name="TestSetMaker_animated.gif"
+   text-time="2013-11-25T03:38:24.359375Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="09f6671a0cd009024b3b0ea28fca52a1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.593750Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.Resample.gif"
+   text-time="2013-11-25T03:38:24.296875Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="a331a47e986ba0e33d2ddeb2ab0e3e05"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.578125Z"/>
+<entry
+   committed-rev="2728"
+   name="NBTree_animated.gif"
+   text-time="2013-11-25T03:38:24.406250Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="a1dc30cf0f821f8740ce4482f28d77e4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.625000Z"/>
+<entry
+   committed-rev="2798"
+   name="MetaCost_animated.gif"
+   text-time="2013-11-25T03:38:24.390625Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="a0fcc192818fc2e86f09876c72247c8e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.609375Z"/>
+<entry
+   committed-rev="2811"
+   name="ArffSaver_animated.gif"
+   text-time="2013-11-25T03:38:24.375000Z"
+   committed-date="2005-11-01T00:19:54.000000Z"
+   checksum="d92a8ad303d5ee3585c6a0eb4dd2e50a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.593750Z"/>
+<entry
+   committed-rev="2728"
+   name="UserClassifier.gif"
+   text-time="2013-11-25T03:38:24.421875Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="aba0ce7ae6376c5962c38ae85816f444"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.625000Z"/>
+<entry
+   committed-rev="2798"
+   name="MultiClassClassifier.gif"
+   text-time="2013-11-25T03:38:24.453125Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="6e59937a2d85e679a11da902c5090b29"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.640625Z"/>
+<entry
+   committed-rev="2798"
+   name="LogitBoost.gif"
+   text-time="2013-11-25T03:38:24.437500Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="a5b03f213a5a7c1ca913f2c22d119df1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.640625Z"/>
+<entry
+   committed-rev="2797"
+   name="SimpleLinearRegression_animated.gif"
+   text-time="2013-11-25T03:38:24.500000Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="b21aa136de4bb4c22a5b1f20e69006ca"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.671875Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.TimeSeriesDelta.gif"
+   text-time="2013-11-25T03:38:24.484375Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="5cb652d3d52928d934e798d7a163297e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.656250Z"/>
+<entry
+   committed-rev="2728"
+   name="MultilayerPerceptron_animated.gif"
+   text-time="2013-11-25T03:38:24.531250Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="2e2d71807058c9003e2ae8d00eba99d7"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.687500Z"/>
+<entry
+   committed-rev="2809"
+   name="XMeans.gif"
+   text-time="2013-11-25T03:38:24.515625Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="32dbe836ea7a7752e9a969be9d298e55"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.671875Z"/>
+<entry
+   committed-rev="2812"
+   name="SerializedInstancesLoader_animated.gif"
+   text-time="2013-11-25T03:38:24.593750Z"
+   committed-date="2005-11-01T00:20:06.000000Z"
+   checksum="f33ab4a5248b85cc78e7faddda053c13"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.718750Z"/>
+<entry
+   committed-rev="2026"
+   name="filters.unsupervised.attribute.AddNoise_animated.gif"
+   text-time="2013-11-25T03:38:24.562500Z"
+   committed-date="2004-04-28T22:07:17.000000Z"
+   checksum="39a3f9a018f7c60d0bc721bb6a4bf2eb"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.718750Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.TimeSeriesTranslate_animated.gif"
+   text-time="2013-11-25T03:38:24.609375Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="5cb652d3d52928d934e798d7a163297e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.734375Z"/>
+<entry
+   committed-rev="2811"
+   name="C45Saver_animated.gif"
+   text-time="2013-11-25T03:38:24.656250Z"
+   committed-date="2005-11-01T00:19:54.000000Z"
+   checksum="c3a035626229ece6a38609d375be3db9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.765625Z"/>
+<entry
+   committed-rev="1974"
+   name="DefaultDataVisualizer_animated.gif"
+   text-time="2013-11-25T03:38:24.640625Z"
+   committed-date="2004-03-28T21:22:45.000000Z"
+   checksum="59291d4a601316e8b3cd5b5c5c52a417"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.750000Z"/>
+<entry
+   committed-rev="1671"
+   name="Help24.gif"
+   text-time="2013-11-25T03:38:24.625000Z"
+   committed-date="2003-04-16T23:45:37.000000Z"
+   checksum="608b3c572b5205eaddc820ae06d914c3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.750000Z"/>
+<entry
+   committed-rev="2745"
+   name="M5P.gif"
+   text-time="2013-11-25T03:38:24.687500Z"
+   committed-date="2005-10-04T20:53:40.000000Z"
+   checksum="bdc44a2dfda12a958498c38368b89b4d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.765625Z"/>
+<entry
+   committed-rev="2728"
+   name="RandomTree_animated.gif"
+   text-time="2013-11-25T03:38:24.750000Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="2a886ae3e9e64f3833b688351e32dcaa"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.796875Z"/>
+<entry
+   committed-rev="2132"
+   name="ClassValuePicker_animated.gif"
+   text-time="2013-11-25T03:38:24.734375Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="b60c23ce907e117ec65126e8395e6c6a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.796875Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.RemovePercentage_animated.gif"
+   text-time="2013-11-25T03:38:24.703125Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="2f15c2f8bca4733682230838f42e475d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.781250Z"/>
+<entry
+   committed-rev="2809"
+   name="OPTICS_animated.gif"
+   text-time="2013-11-25T03:38:24.765625Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="be55ee1c48862f9f11060e690873e78a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.812500Z"/>
+<entry
+   committed-rev="2797"
+   name="LeastMedSq_animated.gif"
+   text-time="2013-11-25T03:38:24.796875Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="f18ae9b3d937ef286db4f209d255254f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.828125Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_miscClassifier.gif"
+   text-time="2013-11-25T03:38:24.781250Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="e70fe6542d42bd310760e5b27be1e11e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.828125Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.Normalize.gif"
+   text-time="2013-11-25T03:38:24.812500Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="d220c32e748fa535ae3b620f05216861"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.843750Z"/>
+<entry
+   committed-rev="2477"
+   name="ModelPerformanceChart_animated.gif"
+   text-time="2013-11-25T03:38:24.828125Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="18e54ce7d812bc2e2b586b8ee053973c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.843750Z"/>
+<entry
+   committed-rev="2811"
+   name="DatabaseSaver_animated.gif"
+   text-time="2013-11-25T03:38:24.843750Z"
+   committed-date="2005-11-01T00:19:54.000000Z"
+   checksum="8e406ac6d79099761271adfe48e30e7e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.859375Z"/>
+<entry
+   committed-rev="2132"
+   name="TrainTestSplitMaker.gif"
+   text-time="2013-11-25T03:38:24.859375Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="feed55da34e24886dd9065131cb4d345"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.875000Z"/>
+<entry
+   committed-rev="8051"
+   name="Sorter.gif"
+   text-time="2013-11-25T03:38:24.890625Z"
+   committed-date="2012-02-18T11:17:19.257705Z"
+   checksum="6b44755efad0558ffa7578e980a9347f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.890625Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.RemoveWithValues.gif"
+   text-time="2013-11-25T03:38:24.875000Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="40cc65f2dd5d332cdba2cd3eafe4edd3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.875000Z"/>
+<entry
+   committed-rev="2798"
+   name="MultiScheme.gif"
+   text-time="2013-11-25T03:38:24.906250Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="b328369c2a0839be23045b42ef1f8505"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.890625Z"/>
+<entry
+   committed-rev="8051"
+   name="Sorter_animated.gif"
+   text-time="2013-11-25T03:38:24.937500Z"
+   committed-date="2012-02-18T11:17:19.257705Z"
+   checksum="6b44755efad0558ffa7578e980a9347f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.921875Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.RemoveWithValues_animated.gif"
+   text-time="2013-11-25T03:38:24.921875Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="40cc65f2dd5d332cdba2cd3eafe4edd3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.906250Z"/>
+<entry
+   committed-rev="2132"
+   name="PredictionAppender_animated.gif"
+   text-time="2013-11-25T03:38:24.968750Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="87c1256c6a0dedb305996991b1b322a8"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.921875Z"/>
+<entry
+   committed-rev="1974"
+   name="AttributeSummarizer.gif"
+   text-time="2013-11-25T03:38:25.000000Z"
+   committed-date="2004-03-28T21:22:45.000000Z"
+   checksum="b69391b60d807369156a1497b9c6437d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.953125Z"/>
+<entry
+   committed-rev="2812"
+   name="C45Loader.gif"
+   text-time="2013-11-25T03:38:24.984375Z"
+   committed-date="2005-11-01T00:20:06.000000Z"
+   checksum="15eabddee16641efcd71547cc37d5e9e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.937500Z"/>
+<entry
+   committed-rev="2797"
+   name="SimpleLinearRegression.gif"
+   text-time="2013-11-25T03:38:25.031250Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="b21aa136de4bb4c22a5b1f20e69006ca"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.968750Z"/>
+<entry
+   committed-rev="7133"
+   name="page_copy.png"
+   text-time="2013-11-25T03:38:25.015625Z"
+   committed-date="2011-05-30T03:33:03.993826Z"
+   checksum="2b2b498695fbf531054b15021ea14450"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.953125Z"/>
+<entry
+   committed-rev="2798"
+   name="Decorate_animated.gif"
+   text-time="2013-11-25T03:38:25.046875Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="8c92853ee494e3174bf929947d953168"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.968750Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.TimeSeriesDelta_animated.gif"
+   text-time="2013-11-25T03:38:25.062500Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="5cb652d3d52928d934e798d7a163297e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:16.984375Z"/>
+<entry
+   committed-rev="1252"
+   name="Stop24.gif"
+   text-time="2013-11-25T03:38:25.078125Z"
+   committed-date="2002-05-03T02:09:14.000000Z"
+   checksum="059f31e714abf00859c03bcdbaabc72c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.000000Z"/>
+<entry
+   committed-rev="2797"
+   name="SMOreg.gif"
+   text-time="2013-11-25T03:38:25.109375Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="253a166baa240c4dd0ddaa2ce64bf38b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.015625Z"/>
+<entry
+   committed-rev="2026"
+   name="filters.unsupervised.attribute.Add.gif"
+   text-time="2013-11-25T03:38:25.093750Z"
+   committed-date="2004-04-28T22:07:17.000000Z"
+   checksum="f11731e1b0b899ed5c9b77deb5cc5588"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.000000Z"/>
+<entry
+   committed-rev="2728"
+   name="LMT_animated.gif"
+   text-time="2013-11-25T03:38:25.156250Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="2bb8d1fcdb154f53f87f54c6af86714d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.046875Z"/>
+<entry
+   committed-rev="2811"
+   name="CSVSaver_animated.gif"
+   text-time="2013-11-25T03:38:25.156250Z"
+   committed-date="2005-11-01T00:19:54.000000Z"
+   checksum="ac7dc11902a05344747093a8becaa902"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.031250Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.StringToWordVector_animated.gif"
+   text-time="2013-11-25T03:38:25.125000Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="b67ff95b973252ab8a606027e63f8411"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.031250Z"/>
+<entry
+   committed-rev="2477"
+   name="Cobweb.gif"
+   text-time="2013-11-25T03:38:25.171875Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="fe5b2b89f8aec26f4c0617862a0460b3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.062500Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.attribute.ClassOrder.gif"
+   text-time="2013-11-25T03:38:25.187500Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="b98b77382641e46302d807921430628c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.062500Z"/>
+<entry
+   committed-rev="2728"
+   name="ADTree.gif"
+   text-time="2013-11-25T03:38:25.218750Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="7ba7c6b55dc9c83610a2ade4be11f9a4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.078125Z"/>
+<entry
+   committed-rev="7289"
+   name="chart_bar.png"
+   text-time="2013-11-25T03:38:25.203125Z"
+   committed-date="2011-06-23T09:25:39.207383Z"
+   checksum="8d60518c6d18af693cfeea9c066026c1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.078125Z"/>
+<entry
+   committed-rev="2811"
+   name="DatabaseSaver.gif"
+   text-time="2013-11-25T03:38:25.234375Z"
+   committed-date="2005-11-01T00:19:54.000000Z"
+   checksum="8e406ac6d79099761271adfe48e30e7e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.093750Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.attribute.NominalToBinary.gif"
+   text-time="2013-11-25T03:38:25.250000Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="238aa7c6a84c5a7e6263f9b4fe38df41"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.093750Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.attribute.Discretize_animated.gif"
+   text-time="2013-11-25T03:38:25.281250Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="fad18a759b0384b5bdf6a7dade00c7bb"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.109375Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_treeClassifier.gif"
+   text-time="2013-11-25T03:38:25.296875Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="368287292ddfc2a13e6f93208806b1ca"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.125000Z"/>
+<entry
+   committed-rev="2809"
+   name="DataNearBalancedND.gif"
+   text-time="2013-11-25T03:38:25.312500Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="18be5dec8aaac902a22807c925ba1173"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.125000Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.instance.Resample_animated.gif"
+   text-time="2013-11-25T03:38:25.328125Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="dba86f9d7a1bda5cf876593956aa0719"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.140625Z"/>
+<entry
+   committed-rev="9131"
+   name="Appender.png"
+   text-time="2013-11-25T03:38:25.343750Z"
+   committed-date="2012-09-18T23:35:27.533984Z"
+   checksum="f1b81b634d14538c829732bf6084099b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.156250Z"/>
+<entry
+   committed-rev="2798"
+   name="Grading_animated.gif"
+   text-time="2013-11-25T03:38:25.359375Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="e1385a522f78db16699e6ef1b731191d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.156250Z"/>
+<entry
+   committed-rev="2745"
+   name="IB1_animated.gif"
+   text-time="2013-11-25T03:38:25.375000Z"
+   committed-date="2005-10-04T20:53:40.000000Z"
+   checksum="05a39b8d6f224a3640f2f111b5c9cfa9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.171875Z"/>
+<entry
+   committed-rev="2054"
+   name="filters.unsupervised.attribute.NumericToBinary.gif"
+   text-time="2013-11-25T03:38:25.437500Z"
+   committed-date="2004-05-17T04:18:27.000000Z"
+   checksum="6d17acc918a8d2f87c03116707d1d0fe"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.171875Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.Obfuscate.gif"
+   text-time="2013-11-25T03:38:25.453125Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="08637bec5d8af50d9141eb6f0a390df8"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.187500Z"/>
+<entry
+   committed-rev="2054"
+   name="filters.unsupervised.attribute.NumericToBinary_animated.gif"
+   text-time="2013-11-25T03:38:25.484375Z"
+   committed-date="2004-05-17T04:18:27.000000Z"
+   checksum="6d17acc918a8d2f87c03116707d1d0fe"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.203125Z"/>
+<entry
+   committed-rev="2812"
+   name="CSVLoader.gif"
+   text-time="2013-11-25T03:38:25.500000Z"
+   committed-date="2005-11-01T00:20:06.000000Z"
+   checksum="31a62e82c023acd5c01e0c59357f6e12"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.203125Z"/>
+<entry
+   committed-rev="2728"
+   name="NaiveBayes.gif"
+   text-time="2013-11-25T03:38:25.515625Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="2b4dcbb3fbac7ee75197670c1c22cb3f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.218750Z"/>
+<entry
+   committed-rev="1974"
+   name="DefaultText.gif"
+   text-time="2013-11-25T03:38:25.531250Z"
+   committed-date="2004-03-28T21:22:45.000000Z"
+   checksum="c52b8f35d65f7bf82223e798e15ed028"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.234375Z"/>
+<entry
+   committed-rev="2477"
+   name="SimpleKMeans_animated.gif"
+   text-time="2013-11-25T03:38:25.546875Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="9ce8e00e99edb6343fc104eba283720f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.234375Z"/>
+<entry
+   committed-rev="2132"
+   name="CrossValidationFoldMaker_animated.gif"
+   text-time="2013-11-25T03:38:25.562500Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="d5ba582db376718d602a8f9c4d3ce0a0"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.250000Z"/>
+<entry
+   committed-rev="2811"
+   name="C45Saver.gif"
+   text-time="2013-11-25T03:38:25.578125Z"
+   committed-date="2005-11-01T00:19:54.000000Z"
+   checksum="c3a035626229ece6a38609d375be3db9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.250000Z"/>
+<entry
+   committed-rev="1974"
+   name="DefaultDataVisualizer.gif"
+   text-time="2013-11-25T03:38:25.593750Z"
+   committed-date="2004-03-28T21:22:45.000000Z"
+   checksum="59291d4a601316e8b3cd5b5c5c52a417"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.265625Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.instance.SpreadSubsample_animated.gif"
+   text-time="2013-11-25T03:38:25.609375Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="265d7821e6e97b649d401fa8e3446759"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.281250Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_rulesClassifier.gif"
+   text-time="2013-11-25T03:38:25.625000Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="63f1583c7b10f3f01d97ea9b6769d5f4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.296875Z"/>
+<entry
+   committed-rev="2054"
+   name="filters.unsupervised.attribute.Normalize.gif"
+   text-time="2013-11-25T03:38:25.640625Z"
+   committed-date="2004-05-17T04:18:27.000000Z"
+   checksum="07aa3e829ba70c68862bc8a57ddf1094"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.296875Z"/>
+<entry
+   committed-rev="2798"
+   name="MultiBoostAB_animated.gif"
+   text-time="2013-11-25T03:38:25.656250Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="05abef085f0adae7804fb62d00c67622"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.312500Z"/>
+<entry
+   committed-rev="2799"
+   name="DecisionTable_animated.gif"
+   text-time="2013-11-25T03:38:25.671875Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="c679af9f34ad209fdecccbd7a3f2a269"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.312500Z"/>
+<entry
+   committed-rev="7123"
+   name="resultset_next.png"
+   text-time="2013-11-25T03:38:25.687500Z"
+   committed-date="2011-05-27T03:31:13.453591Z"
+   checksum="03a34c1846b2bee79f338d514134c9f8"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.328125Z"/>
+<entry
+   committed-rev="2728"
+   name="BayesNet_animated.gif"
+   text-time="2013-11-25T03:38:25.703125Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="f1789db7cc801108a639bff8fca3dcd6"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.343750Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.PKIDiscretize.gif"
+   text-time="2013-11-25T03:38:25.718750Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="cfea1b3820e6980668fe030fcf9caa49"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.343750Z"/>
+<entry
+   committed-rev="2026"
+   name="filters.unsupervised.attribute.Copy.gif"
+   text-time="2013-11-25T03:38:25.734375Z"
+   committed-date="2004-04-28T22:07:17.000000Z"
+   checksum="1aa375c02de82149b455cd744a8b5352"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.359375Z"/>
+<entry
+   committed-rev="2054"
+   name="filters.unsupervised.attribute.MakeIndicator.gif"
+   text-time="2013-11-25T03:38:25.750000Z"
+   committed-date="2004-05-17T04:18:27.000000Z"
+   checksum="52d241ecd784756ae6769886cd20c4f0"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.390625Z"/>
+<entry
+   committed-rev="2798"
+   name="Vote_animated.gif"
+   text-time="2013-11-25T03:38:25.765625Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="aa0857a76395c1fbc92aa3597e21cb82"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.500000Z"/>
+<entry
+   committed-rev="2026"
+   name="filters.unsupervised.attribute.Copy_animated.gif"
+   text-time="2013-11-25T03:38:25.781250Z"
+   committed-date="2004-04-28T22:07:17.000000Z"
+   checksum="1aa375c02de82149b455cd744a8b5352"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.500000Z"/>
+<entry
+   committed-rev="2054"
+   name="filters.unsupervised.attribute.MakeIndicator_animated.gif"
+   text-time="2013-11-25T03:38:25.843750Z"
+   committed-date="2004-05-17T04:18:27.000000Z"
+   checksum="52d241ecd784756ae6769886cd20c4f0"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.515625Z"/>
+<entry
+   committed-rev="2155"
+   name="DefaultTrainTest.gif"
+   text-time="2013-11-25T03:38:25.859375Z"
+   committed-date="2004-08-22T23:23:42.000000Z"
+   checksum="feed55da34e24886dd9065131cb4d345"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.531250Z"/>
+<entry
+   committed-rev="2728"
+   name="LMT.gif"
+   text-time="2013-11-25T03:38:25.875000Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="2bb8d1fcdb154f53f87f54c6af86714d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.546875Z"/>
+<entry
+   committed-rev="2811"
+   name="CSVSaver.gif"
+   text-time="2013-11-25T03:38:25.890625Z"
+   committed-date="2005-11-01T00:19:54.000000Z"
+   checksum="ac7dc11902a05344747093a8becaa902"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.546875Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.StringToWordVector.gif"
+   text-time="2013-11-25T03:38:25.906250Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="b67ff95b973252ab8a606027e63f8411"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.562500Z"/>
+<entry
+   committed-rev="7140"
+   name="note_add.png"
+   text-time="2013-11-25T03:38:25.921875Z"
+   committed-date="2011-05-31T00:32:26.881977Z"
+   checksum="1d83011d61ee47b105b16277f8aef055"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.578125Z"/>
+<entry
+   committed-rev="7123"
+   name="resultset_last.png"
+   text-time="2013-11-25T03:38:25.937500Z"
+   committed-date="2011-05-27T03:31:13.453591Z"
+   checksum="1705ca34ab963c5cfa0530e74cddf50b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.578125Z"/>
+<entry
+   committed-rev="2026"
+   name="filters.unsupervised.attribute.AddCluster.gif"
+   text-time="2013-11-25T03:38:25.953125Z"
+   committed-date="2004-04-28T22:07:17.000000Z"
+   checksum="bddc814227a811ef8ce61651a9a73c2a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.593750Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.SparseToNonSparse.gif"
+   text-time="2013-11-25T03:38:26.000000Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="9c5aab5eecb6e86a0a9f8b2769451e3d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.593750Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_metaClassifier.gif"
+   text-time="2013-11-25T03:38:26.015625Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="241c95bfb8a278f19337010640ff940c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.609375Z"/>
+<entry
+   committed-rev="7123"
+   name="shape_square.png"
+   text-time="2013-11-25T03:38:26.031250Z"
+   committed-date="2011-05-27T03:31:13.453591Z"
+   checksum="3c3c0aebf031a07ea41b7da73e13c10f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.625000Z"/>
+<entry
+   committed-rev="2026"
+   name="filters.unsupervised.attribute.AddCluster_animated.gif"
+   text-time="2013-11-25T03:38:26.046875Z"
+   committed-date="2004-04-28T22:07:17.000000Z"
+   checksum="bddc814227a811ef8ce61651a9a73c2a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.625000Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.SparseToNonSparse_animated.gif"
+   text-time="2013-11-25T03:38:26.062500Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="9c5aab5eecb6e86a0a9f8b2769451e3d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.640625Z"/>
+<entry
+   committed-rev="2809"
+   name="ClassBalancedND.gif"
+   text-time="2013-11-25T03:38:26.078125Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="a73090c7fdf335e39b7d3ad8b3e6fb07"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.656250Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.NumericTransform.gif"
+   text-time="2013-11-25T03:38:26.093750Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="68ebbff215b8828f1739ee9f10659205"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.656250Z"/>
+<entry
+   committed-rev="2799"
+   name="DecisionTable.gif"
+   text-time="2013-11-25T03:38:26.109375Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="c679af9f34ad209fdecccbd7a3f2a269"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.671875Z"/>
+<entry
+   committed-rev="2798"
+   name="FilteredClassifier_animated.gif"
+   text-time="2013-11-25T03:38:26.125000Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="26ef2e47a4846c4693f46322afc9dc1b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.687500Z"/>
+<entry
+   committed-rev="2811"
+   name="SerializedInstancesSaver_animated.gif"
+   text-time="2013-11-25T03:38:26.140625Z"
+   committed-date="2005-11-01T00:19:54.000000Z"
+   checksum="bc16314721ad9b88fc58303f60a13a0d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.687500Z"/>
+<entry
+   committed-rev="2799"
+   name="JRip_animated.gif"
+   text-time="2013-11-25T03:38:26.156250Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="27769826107de958c5e11b580d99ec7d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.703125Z"/>
+<entry
+   committed-rev="1974"
+   name="DefaultGraph.gif"
+   text-time="2013-11-25T03:38:26.171875Z"
+   committed-date="2004-03-28T21:22:45.000000Z"
+   checksum="d7e14d9feca80bfbb16c53888836d01d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.718750Z"/>
+<entry
+   committed-rev="2054"
+   name="filters.unsupervised.attribute.NominalToBinary.gif"
+   text-time="2013-11-25T03:38:26.187500Z"
+   committed-date="2004-05-17T04:18:27.000000Z"
+   checksum="342d098ef05d066279c16d4b385d4200"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.718750Z"/>
+<entry
+   committed-rev="2132"
+   name="TrainTestSplitMaker_animated.gif"
+   text-time="2013-11-25T03:38:26.203125Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="feed55da34e24886dd9065131cb4d345"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.734375Z"/>
+<entry
+   committed-rev="2728"
+   name="ComplementNaiveBayes_animated.gif"
+   text-time="2013-11-25T03:38:26.218750Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="b771eb39aad7fc420967f5ad27cd41de"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.750000Z"/>
+<entry
+   committed-rev="2797"
+   name="Logistic.gif"
+   text-time="2013-11-25T03:38:27.609375Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="f63274dd26032046c3173e06764a2257"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.750000Z"/>
+<entry
+   committed-rev="2160"
+   name="ClustererPerformanceEvaluator.gif"
+   text-time="2013-11-25T03:38:27.640625Z"
+   committed-date="2004-08-23T23:06:53.000000Z"
+   checksum="32a91ec192879fc6027ad93d852908d1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.765625Z"/>
+<entry
+   committed-rev="7133"
+   name="paste_plain.png"
+   text-time="2013-11-25T03:38:27.671875Z"
+   committed-date="2011-05-30T03:33:03.993826Z"
+   checksum="57d6662c0cf4fd76b9bb0a1ab5354938"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.781250Z"/>
+<entry
+   committed-rev="2728"
+   name="LBR.gif"
+   text-time="2013-11-25T03:38:27.687500Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="6441a8f322290e410299c67d3baf1572"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.781250Z"/>
+<entry
+   committed-rev="1252"
+   name="Pointer.gif"
+   text-time="2013-11-25T03:38:27.718750Z"
+   committed-date="2002-05-03T02:09:14.000000Z"
+   checksum="a68634938f67147aae5c8428f94460b7"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.796875Z"/>
+<entry
+   committed-rev="7133"
+   name="delete.png"
+   text-time="2013-11-25T03:38:27.734375Z"
+   committed-date="2011-05-30T03:33:03.993826Z"
+   checksum="68461ca5187cd2c6af08786467085f2b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.796875Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.RemoveRange_animated.gif"
+   text-time="2013-11-25T03:38:27.750000Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="dcb50548e5c43e7d1eea3523b4f47364"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.812500Z"/>
+<entry
+   committed-rev="2728"
+   name="KStar.gif"
+   text-time="2013-11-25T03:38:27.765625Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="9d1f62c877bbb49fd46b1c74498e7ba1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.828125Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_nestedDichotomiesClassifier_animated.gif"
+   text-time="2013-11-25T03:38:27.781250Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="241c95bfb8a278f19337010640ff940c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.828125Z"/>
+<entry
+   committed-rev="2812"
+   name="SerializedInstancesLoader.gif"
+   text-time="2013-11-25T03:38:27.796875Z"
+   committed-date="2005-11-01T00:20:06.000000Z"
+   checksum="f33ab4a5248b85cc78e7faddda053c13"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.843750Z"/>
+<entry
+   committed-rev="2026"
+   name="filters.unsupervised.attribute.AddNoise.gif"
+   text-time="2013-11-25T03:38:27.812500Z"
+   committed-date="2004-04-28T22:07:17.000000Z"
+   checksum="39a3f9a018f7c60d0bc721bb6a4bf2eb"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.859375Z"/>
+<entry
+   committed-rev="9642"
+   name="bricks.png"
+   text-time="2013-11-25T03:38:27.828125Z"
+   committed-date="2013-03-17T02:41:48.013072Z"
+   checksum="c23c58ad20026fc7c401ba803b1b238b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.859375Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.instance.SpreadSubsample.gif"
+   text-time="2013-11-25T03:38:27.843750Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="265d7821e6e97b649d401fa8e3446759"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.875000Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.Randomize.gif"
+   text-time="2013-11-25T03:38:27.859375Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="964cca2af03d0a7e4a5a87fa9bf7cbc9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.890625Z"/>
+<entry
+   committed-rev="2799"
+   name="M5Rules_animated.gif"
+   text-time="2013-11-25T03:38:27.875000Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="662406fafd6a874a630c4910b9b67465"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.890625Z"/>
+<entry
+   committed-rev="2812"
+   name="DefaultDataSource_animated.gif"
+   text-time="2013-11-25T03:38:27.890625Z"
+   committed-date="2005-11-01T00:20:06.000000Z"
+   checksum="7e619826d9e2d302906c202f6d02822e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.906250Z"/>
+<entry
+   committed-rev="2477"
+   name="EM.gif"
+   text-time="2013-11-25T03:38:27.906250Z"
+   committed-date="2005-06-27T23:27:23.000000Z"
+   checksum="53345195ffa3a81607ead58b69c45e24"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.906250Z"/>
+<entry
+   committed-rev="2799"
+   name="ZeroR.gif"
+   text-time="2013-11-25T03:38:27.921875Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="76e1817444642b8f3b8a9092154b0981"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.921875Z"/>
+<entry
+   committed-rev="2026"
+   name="filters.unsupervised.attribute.ClusterMembership_animated.gif"
+   text-time="2013-11-25T03:38:27.937500Z"
+   committed-date="2004-04-28T22:07:17.000000Z"
+   checksum="f696d64bed55d43a7d5729fe184faef3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.937500Z"/>
+<entry
+   committed-rev="2728"
+   name="REPTree_animated.gif"
+   text-time="2013-11-25T03:38:27.953125Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="529b2e83ccbddc2af53095e73661d022"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.968750Z"/>
+<entry
+   committed-rev="2799"
+   name="PART_animated.gif"
+   text-time="2013-11-25T03:38:27.968750Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="641f36cb5b77f45a796b29a13c51d087"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.984375Z"/>
+<entry
+   committed-rev="2745"
+   name="AODE.gif"
+   text-time="2013-11-25T03:38:27.984375Z"
+   committed-date="2005-10-04T20:53:40.000000Z"
+   checksum="d87acac5347a6c2e5c1dfa6b4f191822"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:17.984375Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.instance.StratifiedRemoveFolds_animated.gif"
+   text-time="2013-11-25T03:38:28.000000Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="a8da9f9994e1c19fa6603f719a3b0e21"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.000000Z"/>
+<entry
+   committed-rev="7123"
+   name="disk.png"
+   text-time="2013-11-25T03:38:28.031250Z"
+   committed-date="2011-05-27T03:31:13.453591Z"
+   checksum="bb6d3c6dd2b1182ca4877d05f7e67a91"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.015625Z"/>
+<entry
+   committed-rev="2797"
+   name="LinearRegression_animated.gif"
+   text-time="2013-11-25T03:38:28.046875Z"
+   committed-date="2005-10-28T01:22:32.000000Z"
+   checksum="fabff5999ff9fe72cbd31a0c463f7bfe"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.046875Z"/>
+<entry
+   committed-rev="2728"
+   name="NaiveBayesUpdateable_animated.gif"
+   text-time="2013-11-25T03:38:28.062500Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="85fbdf6719981683c17630baec0e6d70"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.062500Z"/>
+<entry
+   committed-rev="2058"
+   name="filters.unsupervised.attribute.MergeTwoValues_animated.gif"
+   text-time="2013-11-25T03:38:28.078125Z"
+   committed-date="2004-05-20T04:37:02.000000Z"
+   checksum="3c5e663d9b7978069ad814f7751dc82e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.062500Z"/>
+<entry
+   committed-rev="1974"
+   name="AttributeSummarizer_animated.gif"
+   text-time="2013-11-25T03:38:28.109375Z"
+   committed-date="2004-03-28T21:22:45.000000Z"
+   checksum="b69391b60d807369156a1497b9c6437d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.078125Z"/>
+<entry
+   committed-rev="2812"
+   name="C45Loader_animated.gif"
+   text-time="2013-11-25T03:38:28.125000Z"
+   committed-date="2005-11-01T00:20:06.000000Z"
+   checksum="15eabddee16641efcd71547cc37d5e9e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.109375Z"/>
+<entry
+   committed-rev="2728"
+   name="DecisionStump.gif"
+   text-time="2013-11-25T03:38:28.140625Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="1d634b56662194213d6e5beb89adf1d4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.125000Z"/>
+<entry
+   committed-rev="2728"
+   name="SimpleLogistic.gif"
+   text-time="2013-11-25T03:38:28.156250Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="f1687752a3652b0c8544a8a4d3600c03"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.125000Z"/>
+<entry
+   committed-rev="2132"
+   name="IncrementalClassifierEvaluator.gif"
+   text-time="2013-11-25T03:38:28.171875Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="12210b416b15e34e4a043035fe58f544"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.140625Z"/>
+<entry
+   committed-rev="2132"
+   name="ClassifierPerformanceEvaluator.gif"
+   text-time="2013-11-25T03:38:28.171875Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="32a91ec192879fc6027ad93d852908d1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.156250Z"/>
+<entry
+   committed-rev="2067"
+   name="DefaultClassifier.gif"
+   text-time="2013-11-25T03:38:28.187500Z"
+   committed-date="2004-05-21T01:44:36.000000Z"
+   checksum="eb43694deac5221cff698aae1577b895"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.156250Z"/>
+<entry
+   committed-rev="7234"
+   name="application_view_tile.png"
+   text-time="2013-11-25T03:38:28.218750Z"
+   committed-date="2011-06-17T00:11:22.764332Z"
+   checksum="b812fd1dc52bb98af4982b67049e85bc"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.171875Z"/>
+<entry
+   committed-rev="9640"
+   name="zoom_out.png"
+   text-time="2013-11-25T03:38:28.250000Z"
+   committed-date="2013-03-17T01:46:48.235118Z"
+   checksum="59f31ca44f7519074a1ddf1255a61879"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.171875Z"/>
+<entry
+   committed-rev="1974"
+   name="DefaultText_animated.gif"
+   text-time="2013-11-25T03:38:28.265625Z"
+   committed-date="2004-03-28T21:22:45.000000Z"
+   checksum="c52b8f35d65f7bf82223e798e15ed028"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.187500Z"/>
+<entry
+   committed-rev="7123"
+   name="cursor.png"
+   text-time="2013-11-25T03:38:28.281250Z"
+   committed-date="2011-05-27T03:31:13.453591Z"
+   checksum="a6bf7527550218cdb8b0e7bcaad94d6e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.203125Z"/>
+<entry
+   committed-rev="2809"
+   name="XMeans_animated.gif"
+   text-time="2013-11-25T03:38:28.296875Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="32dbe836ea7a7752e9a969be9d298e55"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.203125Z"/>
+<entry
+   committed-rev="2728"
+   name="LWL.gif"
+   text-time="2013-11-25T03:38:28.312500Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="cb9c8cceeed8df4ed806063037b454c6"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.218750Z"/>
+<entry
+   committed-rev="2728"
+   name="LWL_animated.gif"
+   text-time="2013-11-25T03:38:28.312500Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="cb9c8cceeed8df4ed806063037b454c6"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.218750Z"/>
+<entry
+   committed-rev="2809"
+   name="OPTICS.gif"
+   text-time="2013-11-25T03:38:28.328125Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="be55ee1c48862f9f11060e690873e78a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.234375Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.attribute.ClassOrder_animated.gif"
+   text-time="2013-11-25T03:38:28.343750Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="b98b77382641e46302d807921430628c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.250000Z"/>
+<entry
+   committed-rev="2727"
+   name="IBk_animated.gif"
+   text-time="2013-11-25T03:38:28.375000Z"
+   committed-date="2005-09-30T02:11:54.000000Z"
+   checksum="545199b297fdd14f097ca62228251639"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.250000Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.RemoveUseless_animated.gif"
+   text-time="2013-11-25T03:38:28.390625Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="75f5dd8453775419a43b0dc439984130"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.265625Z"/>
+<entry
+   committed-rev="2798"
+   name="StackingC_animated.gif"
+   text-time="2013-11-25T03:38:28.406250Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="4bd4ee422760ae76a18955e8503a0e75"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.281250Z"/>
+<entry
+   committed-rev="2809"
+   name="END_animated.gif"
+   text-time="2013-11-25T03:38:28.421875Z"
+   committed-date="2005-10-31T22:18:20.000000Z"
+   checksum="0f9e822f221d2a0b3fa4806f7492e603"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.281250Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.instance.Resample.gif"
+   text-time="2013-11-25T03:38:28.437500Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="dba86f9d7a1bda5cf876593956aa0719"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.296875Z"/>
+<entry
+   committed-rev="2025"
+   name="filters.supervised.attribute.AttributeSelection_animated.gif"
+   text-time="2013-11-25T03:38:28.453125Z"
+   committed-date="2004-04-28T21:49:58.000000Z"
+   checksum="3048a5f0c3570ed5256f529895bb5d67"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.312500Z"/>
+<entry
+   committed-rev="4283"
+   name="SerializedModelSaver.gif"
+   text-time="2013-11-25T03:38:28.468750Z"
+   committed-date="2008-03-05T03:28:07.000000Z"
+   checksum="bc16314721ad9b88fc58303f60a13a0d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.312500Z"/>
+<entry
+   committed-rev="3636"
+   name="DefaultClusterer_animated.gif"
+   text-time="2013-11-25T03:38:28.484375Z"
+   committed-date="2006-11-21T01:47:41.000000Z"
+   checksum="69c280e9fb83dd95c11d40c100056dbb"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.328125Z"/>
+<entry
+   committed-rev="2798"
+   name="CVParameterSelection_animated.gif"
+   text-time="2013-11-25T03:38:28.500000Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="06d07eb67db4aa7dd79ec60fbba64f1e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.343750Z"/>
+<entry
+   committed-rev="2798"
+   name="AttributeSelectedClassifier_animated.gif"
+   text-time="2013-11-25T03:38:28.515625Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="4d9667630a416bdfbba13c5da36079c4"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.343750Z"/>
+<entry
+   committed-rev="2728"
+   name="Winnow_animated.gif"
+   text-time="2013-11-25T03:38:28.531250Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="78e7afd3c6104f3a5d9801c459a98d79"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.359375Z"/>
+<entry
+   committed-rev="2812"
+   name="CSVLoader_animated.gif"
+   text-time="2013-11-25T03:38:28.546875Z"
+   committed-date="2005-11-01T00:20:06.000000Z"
+   checksum="31a62e82c023acd5c01e0c59357f6e12"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.390625Z"/>
+<entry
+   committed-rev="7123"
+   name="disk_multiple.png"
+   text-time="2013-11-25T03:38:28.562500Z"
+   committed-date="2011-05-27T03:31:13.453591Z"
+   checksum="06aba2e0d16760fc5a1904543d142cf1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.406250Z"/>
+<entry
+   committed-rev="2728"
+   name="SimpleLogistic_animated.gif"
+   text-time="2013-11-25T03:38:28.578125Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="f1687752a3652b0c8544a8a4d3600c03"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.406250Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.ReplaceMissingValues.gif"
+   text-time="2013-11-25T03:38:28.609375Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="bcc6e054c582ef7c8c0a3fde54d0f65d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.421875Z"/>
+<entry
+   committed-rev="2799"
+   name="Prism_animated.gif"
+   text-time="2013-11-25T03:38:28.625000Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="01d19d7f3346b616abaa31f4cb0375e6"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.437500Z"/>
+<entry
+   committed-rev="2799"
+   name="M5Rules.gif"
+   text-time="2013-11-25T03:38:28.656250Z"
+   committed-date="2005-10-28T02:05:14.000000Z"
+   checksum="662406fafd6a874a630c4910b9b67465"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.437500Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.instance.RemoveFolds_animated.gif"
+   text-time="2013-11-25T03:38:28.671875Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="b833edf36a18f02244a4581b4bd63fd2"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.453125Z"/>
+<entry
+   committed-rev="2798"
+   name="ClassificationViaRegression_animated.gif"
+   text-time="2013-11-25T03:38:28.687500Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="ce51af267e0c5e7dbe57b51679226c9f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.468750Z"/>
+<entry
+   committed-rev="2798"
+   name="Bagging.gif"
+   text-time="2013-11-25T03:38:28.703125Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="640ac12c0da6634a22a0b5c1688ce62c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.484375Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.SwapValues.gif"
+   text-time="2013-11-25T03:38:28.718750Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="27ffc53337b6403a9b4cd6a60a586f8f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.484375Z"/>
+<entry
+   committed-rev="4557"
+   name="New24.gif"
+   text-time="2013-11-25T03:38:28.734375Z"
+   committed-date="2008-10-14T22:28:46.181802Z"
+   checksum="206bdb3c115e81a46bcaf8a23be87340"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.500000Z"/>
+<entry
+   committed-rev="2798"
+   name="Bagging_animated.gif"
+   text-time="2013-11-25T03:38:28.750000Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="640ac12c0da6634a22a0b5c1688ce62c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.515625Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.SwapValues_animated.gif"
+   text-time="2013-11-25T03:38:28.765625Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="27ffc53337b6403a9b4cd6a60a586f8f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.515625Z"/>
+<entry
+   committed-rev="2132"
+   name="ClassAssigner_animated.gif"
+   text-time="2013-11-25T03:38:28.781250Z"
+   committed-date="2004-07-18T23:16:06.000000Z"
+   checksum="ce504b4dadee7e7830f80f1b36160e11"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.531250Z"/>
+<entry
+   committed-rev="2798"
+   name="FilteredClassifier.gif"
+   text-time="2013-11-25T03:38:28.796875Z"
+   committed-date="2005-10-28T01:50:16.000000Z"
+   checksum="26ef2e47a4846c4693f46322afc9dc1b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.531250Z"/>
+<entry
+   committed-rev="2727"
+   name="IBk.gif"
+   text-time="2013-11-25T03:38:28.812500Z"
+   committed-date="2005-09-30T02:11:54.000000Z"
+   checksum="545199b297fdd14f097ca62228251639"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.546875Z"/>
+<entry
+   committed-rev="2131"
+   name="filters.unsupervised.attribute.RemoveUseless.gif"
+   text-time="2013-11-25T03:38:28.828125Z"
+   committed-date="2004-07-18T22:37:19.000000Z"
+   checksum="75f5dd8453775419a43b0dc439984130"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.562500Z"/>
+<entry
+   committed-rev="2804"
+   name="Default_miscClassifier_animated.gif"
+   text-time="2013-11-25T03:38:28.843750Z"
+   committed-date="2005-10-31T03:24:18.000000Z"
+   checksum="e70fe6542d42bd310760e5b27be1e11e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.562500Z"/>
+<entry
+   committed-rev="2728"
+   name="BayesNet.gif"
+   text-time="2013-11-25T03:38:28.875000Z"
+   committed-date="2005-09-30T02:14:24.000000Z"
+   checksum="f1789db7cc801108a639bff8fca3dcd6"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:18.578125Z"/>
+</wc-entries>

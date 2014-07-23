@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10172"
+   name=""
+   committed-date="2013-11-15T03:31:33.177773Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/attributeSelection"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:39:04.187500Z"
+   revision="10228"/>
+<entry
+   committed-rev="10172"
+   name="OneRAttributeEval.java"
+   text-time="2013-11-25T03:39:04.203125Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="0d09701e26e0077557aa83044d59cbdb"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.671875Z"/>
+<entry
+   committed-rev="8034"
+   name="AttributeSetEvaluator.java"
+   text-time="2013-11-25T03:39:04.218750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e442a386839ae887018332430a1f09b1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.687500Z"/>
+<entry
+   committed-rev="10172"
+   name="GreedyStepwise.java"
+   text-time="2013-11-25T03:39:04.265625Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="17f1a51747f333d2c63b0b5912ccff43"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.703125Z"/>
+<entry
+   committed-rev="8034"
+   name="UnsupervisedAttributeEvaluator.java"
+   text-time="2013-11-25T03:39:04.234375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5431da4fc617fa462285540acca4ef79"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.687500Z"/>
+<entry
+   committed-rev="10172"
+   name="BestFirst.java"
+   text-time="2013-11-25T03:39:04.281250Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="16bc78a5f3d92af63d6acb0d2f012b49"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.734375Z"/>
+<entry
+   committed-rev="8034"
+   name="UnsupervisedSubsetEvaluator.java"
+   text-time="2013-11-25T03:39:04.265625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="fa360f4f0ae0293be5f2824eacdf4911"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.718750Z"/>
+<entry
+   committed-rev="10172"
+   name="SymmetricalUncertAttributeEval.java"
+   text-time="2013-11-25T03:39:04.296875Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="23d94c73c56b757bdadc172d5e1b0304"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.734375Z"/>
+<entry
+   committed-rev="10172"
+   name="CheckAttributeSelection.java"
+   text-time="2013-11-25T03:39:04.328125Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="e1324367f1d323a481ee72028a7d6075"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.765625Z"/>
+<entry
+   committed-rev="8034"
+   name="StartSetHandler.java"
+   text-time="2013-11-25T03:39:04.312500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9aa21472523884ea4124023dac6adc0d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.750000Z"/>
+<entry
+   committed-rev="10172"
+   name="ReliefFAttributeEval.java"
+   text-time="2013-11-25T03:39:04.359375Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="c0c0cee4d7ca4ac65c508f4faad038ad"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.781250Z"/>
+<entry
+   committed-rev="10172"
+   name="GainRatioAttributeEval.java"
+   text-time="2013-11-25T03:39:04.406250Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="0d2920d847987e2514410609115654bd"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.046875Z"/>
+<entry
+   committed-rev="10172"
+   name="CfsSubsetEval.java"
+   text-time="2013-11-25T03:39:04.390625Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="99ebe9d64cc8f844d80396292dca9e99"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.046875Z"/>
+<entry
+   committed-rev="10172"
+   name="AttributeSelection.java"
+   text-time="2013-11-25T03:39:04.375000Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="cbb671c82a53cac20f14ca7b36ba5c7f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:03.796875Z"/>
+<entry
+   committed-rev="8034"
+   name="RankedOutputSearch.java"
+   text-time="2013-11-25T03:39:04.437500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b5f277fa13845341e0c5e1ea49792891"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.062500Z"/>
+<entry
+   committed-rev="8034"
+   name="ErrorBasedMeritEvaluator.java"
+   text-time="2013-11-25T03:39:04.453125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c9bceaf25c2ab74ba9a76eb583078b12"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.078125Z"/>
+<entry
+   committed-rev="10172"
+   name="CorrelationAttributeEval.java"
+   text-time="2013-11-25T03:39:04.500000Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="169e71f64481e4b2690683f22e12d380"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.078125Z"/>
+<entry
+   committed-rev="10172"
+   name="WrapperSubsetEval.java"
+   text-time="2013-11-25T03:39:04.515625Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="fad2d9a6e48967a096d5516fab60bf56"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.093750Z"/>
+<entry
+   committed-rev="10172"
+   name="Ranker.java"
+   text-time="2013-11-25T03:39:04.531250Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="49951e177f17c397089f58a9f24d6659"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.109375Z"/>
+<entry
+   committed-rev="10172"
+   name="InfoGainAttributeEval.java"
+   text-time="2013-11-25T03:39:04.546875Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="762b510bd18b799aa98c57941f29dbb3"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.125000Z"/>
+<entry
+   committed-rev="8034"
+   name="AttributeTransformer.java"
+   text-time="2013-11-25T03:39:04.562500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="3c3a383cc60087beda41f7ea2438022c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.125000Z"/>
+<entry
+   committed-rev="8034"
+   name="AttributeEvaluator.java"
+   text-time="2013-11-25T03:39:04.578125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7d7d7059807aed6e7a7de8186cb64501"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.140625Z"/>
+<entry
+   committed-rev="8034"
+   name="HoldOutSubsetEvaluator.java"
+   text-time="2013-11-25T03:39:04.593750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f6a2531c981b017fee53975e72b2fc98"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.140625Z"/>
+<entry
+   committed-rev="10172"
+   name="PrincipalComponents.java"
+   text-time="2013-11-25T03:39:04.609375Z"
+   committed-date="2013-11-15T03:31:33.177773Z"
+   checksum="3415420f69332b384cb3f9dfbba04a0f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.156250Z"/>
+<entry
+   committed-rev="8034"
+   name="SubsetEvaluator.java"
+   text-time="2013-11-25T03:39:04.625000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="34b924ee01965aab89b6bc9ce043c621"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.171875Z"/>
+<entry
+   committed-rev="8034"
+   name="ASSearch.java"
+   text-time="2013-11-25T03:39:04.640625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="00463a204b019237d6bfdb235b4e4fe8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.171875Z"/>
+<entry
+   committed-rev="8034"
+   name="ASEvaluation.java"
+   text-time="2013-11-25T03:39:04.656250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="22c8055fef30c0131d5ae778d3f48603"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:39:04.187500Z"/>
+</wc-entries>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8034"
+   name=""
+   committed-date="2012-02-15T01:12:10.572616Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/core/logging"
+   last-author="fracpete"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:56.453125Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="FileLogger.java"
+   text-time="2013-11-25T03:38:56.453125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="3eacac5721d17c00c44e8a7e025a9b25"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.406250Z"/>
+<entry
+   committed-rev="8034"
+   name="Logger.java"
+   text-time="2013-11-25T03:38:56.468750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="8ea2943d531a128a5893fa70fcf3e5df"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.421875Z"/>
+<entry
+   committed-rev="8034"
+   name="OutputLogger.java"
+   text-time="2013-11-25T03:38:56.500000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b6704129fc9035a451b814b9d8361ea1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.421875Z"/>
+<entry
+   committed-rev="8034"
+   name="ConsoleLogger.java"
+   text-time="2013-11-25T03:38:56.531250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="3f070719eeb05cb07258c0677b9cbecb"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.437500Z"/>
+<entry
+   committed-rev="6680"
+   name="Logging.props"
+   text-time="2013-11-25T03:38:56.546875Z"
+   committed-date="2010-07-20T04:22:48.676055Z"
+   checksum="c0606c79457653f139f5a2dd73caf6e0"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:56.437500Z"/>
+</wc-entries>

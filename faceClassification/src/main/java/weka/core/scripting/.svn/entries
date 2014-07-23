@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/core/scripting"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:52.375000Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="JythonObject.java"
+   text-time="2013-11-25T03:38:52.375000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b2b688212565213ab60d88360293d17b"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.312500Z"/>
+<entry
+   committed-rev="10203"
+   name="Groovy.java"
+   text-time="2013-11-25T03:38:52.390625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="54931a4b544db8e48a9c2acc45e9fcbb"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.328125Z"/>
+<entry
+   committed-rev="8034"
+   name="JythonSerializableObject.java"
+   text-time="2013-11-25T03:38:52.421875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="13aee6d23cbe0b8d61011a0d2291449e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.343750Z"/>
+<entry
+   committed-rev="10203"
+   name="Jython.java"
+   text-time="2013-11-25T03:38:52.437500Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="e5862bdc45f78fb15d77d827d6e6aa19"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:52.359375Z"/>
+</wc-entries>

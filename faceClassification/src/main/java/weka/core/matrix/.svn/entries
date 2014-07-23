@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10203"
+   name=""
+   committed-date="2013-11-18T04:20:10.142124Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/core/matrix"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:55.640625Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="ExponentialFormat.java"
+   text-time="2013-11-25T03:38:55.640625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="65fabdccffd8d273424d9e3bb609ae6c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.375000Z"/>
+<entry
+   committed-rev="5953"
+   name="QRDecomposition.java"
+   text-time="2013-11-25T03:38:55.656250Z"
+   committed-date="2009-09-09T21:18:45.470152Z"
+   checksum="0d6b80f8ebcabde44de609eec66ee00b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.390625Z"/>
+<entry
+   committed-rev="5953"
+   name="EigenvalueDecomposition.java"
+   text-time="2013-11-25T03:38:55.671875Z"
+   committed-date="2009-09-09T21:18:45.470152Z"
+   checksum="ec9628b90d5a640f5934b7bab9c978f6"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.406250Z"/>
+<entry
+   committed-rev="10203"
+   name="FlexibleDecimalFormat.java"
+   text-time="2013-11-25T03:38:55.718750Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="7fb49e4764909cd8fac0a35e85cd2f1e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.406250Z"/>
+<entry
+   committed-rev="10203"
+   name="Matrix.java"
+   text-time="2013-11-25T03:38:55.734375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="46358822f60b9e6c91ed79b5cd554104"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.421875Z"/>
+<entry
+   committed-rev="8034"
+   name="FloatingPointFormat.java"
+   text-time="2013-11-25T03:38:55.750000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="222d3aa79ca9f909e1943ca5d962060c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.437500Z"/>
+<entry
+   committed-rev="9768"
+   name="LinearRegression.java"
+   text-time="2013-11-25T03:38:55.765625Z"
+   committed-date="2013-06-18T08:47:23.903944Z"
+   checksum="5c5095151035b93a7f48dcdbf54c2579"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.437500Z"/>
+<entry
+   committed-rev="5953"
+   name="Maths.java"
+   text-time="2013-11-25T03:38:55.781250Z"
+   committed-date="2009-09-09T21:18:45.470152Z"
+   checksum="639beae0cd6b8b9f60f913517d0e5d55"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.531250Z"/>
+<entry
+   committed-rev="10203"
+   name="DoubleVector.java"
+   text-time="2013-11-25T03:38:55.796875Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="5b6be176d771f258490aede783ff806d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.546875Z"/>
+<entry
+   committed-rev="8034"
+   name="IntVector.java"
+   text-time="2013-11-25T03:38:55.812500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f95860869b5235bb29a9f16f18648a83"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.593750Z"/>
+<entry
+   committed-rev="5953"
+   name="LUDecomposition.java"
+   text-time="2013-11-25T03:38:55.812500Z"
+   committed-date="2009-09-09T21:18:45.470152Z"
+   checksum="011a9bd38dd59861c6f67828e7ef2651"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.609375Z"/>
+<entry
+   committed-rev="5953"
+   name="CholeskyDecomposition.java"
+   text-time="2013-11-25T03:38:55.828125Z"
+   committed-date="2009-09-09T21:18:45.470152Z"
+   checksum="a9cd2753e96fc6ee4bf11368aea34525"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.625000Z"/>
+<entry
+   committed-rev="5953"
+   name="SingularValueDecomposition.java"
+   text-time="2013-11-25T03:38:55.843750Z"
+   committed-date="2009-09-09T21:18:45.470152Z"
+   checksum="19becd39d4fd6de09846e2a49a9c9412"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:55.625000Z"/>
+</wc-entries>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8034"
+   name=""
+   committed-date="2012-02-15T01:12:10.572616Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/functions/neural"
+   last-author="fracpete"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:48.968750Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="NeuralConnection.java"
+   text-time="2013-11-25T03:38:48.968750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="75a06e52ddf32011ba6d20bc34916d62"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.921875Z"/>
+<entry
+   committed-rev="8034"
+   name="NeuralMethod.java"
+   text-time="2013-11-25T03:38:48.984375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="cf679d20bcaa25350cfad85f91dfe9fa"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.921875Z"/>
+<entry
+   committed-rev="8034"
+   name="LinearUnit.java"
+   text-time="2013-11-25T03:38:49.000000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4215f030a741ad816f35b0cebc5c37a7"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.937500Z"/>
+<entry
+   committed-rev="8034"
+   name="SigmoidUnit.java"
+   text-time="2013-11-25T03:38:49.015625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="499ca828e5e68bb4c43cab3c3cc19e38"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.937500Z"/>
+<entry
+   committed-rev="8034"
+   name="NeuralNode.java"
+   text-time="2013-11-25T03:38:49.031250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="72f5205e4adf223f32d9ce387c7072fa"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.953125Z"/>
+</wc-entries>

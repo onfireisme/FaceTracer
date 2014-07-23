@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10222"
+   name=""
+   committed-date="2013-11-22T03:46:55.173449Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/experiment"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:03.031250Z"
+   revision="10228"/>
+<entry
+   committed-rev="10203"
+   name="ExplicitTestsetResultProducer.java"
+   text-time="2013-11-25T03:38:03.046875Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="6219911a73c37d7a04440b56e5e0c1e4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.406250Z"/>
+<entry
+   committed-rev="10203"
+   name="CSVResultListener.java"
+   text-time="2013-11-25T03:38:03.062500Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="dabf05c32edac94e0ba877b6c1d696b0"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.421875Z"/>
+<entry
+   committed-rev="8034"
+   name="RemoteExperimentListener.java"
+   text-time="2013-11-25T03:38:03.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5faa9f5d9fafe05b0ba50182e34c9c72"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.546875Z"/>
+<entry
+   committed-rev="5837"
+   name="DatabaseUtils.props.mssqlserver2005"
+   text-time="2013-11-25T03:38:03.109375Z"
+   committed-date="2009-08-03T09:06:30.443730Z"
+   checksum="4ea29e684c2fffb1ae8fe37300e343d6"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.578125Z"/>
+<entry
+   committed-rev="8034"
+   name="remote.policy.example"
+   text-time="2013-11-25T03:38:03.125000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c83e66a7579834797b8a1006810ff0f6"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.687500Z"/>
+<entry
+   committed-rev="10203"
+   name="DensityBasedClustererSplitEvaluator.java"
+   text-time="2013-11-25T03:38:03.156250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="ce5664347aa59042949197db3208fef8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.703125Z"/>
+<entry
+   committed-rev="10203"
+   name="CostSensitiveClassifierSplitEvaluator.java"
+   text-time="2013-11-25T03:38:03.171875Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="a473eb3dbf6a628d17896bb3d77e4b94"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.734375Z"/>
+<entry
+   committed-rev="8034"
+   name="ResultMatrixSignificance.java"
+   text-time="2013-11-25T03:38:03.203125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7243addf59f2f14d669b79f22ec4293d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.796875Z"/>
+<entry
+   committed-rev="10203"
+   name="DatabaseResultProducer.java"
+   text-time="2013-11-25T03:38:03.218750Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="fa1605005bbbbb46eace96f9534e1f9a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.812500Z"/>
+<entry
+   committed-rev="5837"
+   name="DatabaseUtils.props"
+   text-time="2013-11-25T03:38:03.234375Z"
+   committed-date="2009-08-03T09:06:30.443730Z"
+   checksum="67a0814a9d0f2606492e72de56abf7de"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.828125Z"/>
+<entry
+   committed-rev="5837"
+   name="DatabaseUtils.props.msaccess"
+   text-time="2013-11-25T03:38:03.250000Z"
+   committed-date="2009-08-03T09:06:30.443730Z"
+   checksum="2b0f5b46346885c70b25118c2fa28957"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.859375Z"/>
+<entry
+   committed-rev="7848"
+   name="DatabaseUtils.props.postgresql"
+   text-time="2013-11-25T03:38:03.281250Z"
+   committed-date="2011-11-21T00:26:05.340469Z"
+   checksum="0fb4a1bb95335161c096c1a15cdd060e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.875000Z"/>
+<entry
+   committed-rev="10203"
+   name="DatabaseResultListener.java"
+   text-time="2013-11-25T03:38:03.296875Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="91eada4ff6fe5cf0152b4b23c85468cf"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.875000Z"/>
+<entry
+   committed-rev="8034"
+   name="remote.policy"
+   text-time="2013-11-25T03:38:03.312500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f6390ae8ac3e753efb4d012cf6fd8e15"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.890625Z"/>
+<entry
+   committed-rev="5837"
+   name="DatabaseUtils.props.hsql"
+   text-time="2013-11-25T03:38:03.328125Z"
+   committed-date="2009-08-03T09:06:30.443730Z"
+   checksum="580bc89cf78e1cd924b1cb884ed1e614"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.906250Z"/>
+<entry
+   committed-rev="10203"
+   name="LearningRateResultProducer.java"
+   text-time="2013-11-25T03:38:03.390625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="e92bc4e4589089ae12cba01f9a17534f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.921875Z"/>
+<entry
+   committed-rev="8034"
+   name="SplitEvaluator.java"
+   text-time="2013-11-25T03:38:03.375000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="6e400cf17c31182a2d80632f575e9f39"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.906250Z"/>
+<entry
+   committed-rev="10203"
+   name="PairedTTester.java"
+   text-time="2013-11-25T03:38:03.421875Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="a19101bed750d64d5fba2294bd262bcf"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.984375Z"/>
+<entry
+   committed-rev="10203"
+   name="RegressionSplitEvaluator.java"
+   text-time="2013-11-25T03:38:03.406250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="8f278f0254d54c1effa5b7a1c74600df"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:01.937500Z"/>
+<entry
+   committed-rev="10222"
+   name="Experiment.java"
+   text-time="2013-11-25T03:38:03.421875Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="dcfc3a90341efe44d8bd4d86755c380e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.140625Z"/>
+<entry
+   committed-rev="8034"
+   name="PairedStats.java"
+   text-time="2013-11-25T03:38:03.437500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e4cb2296ba2fbc662d3faa63ce4fb67d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.156250Z"/>
+<entry
+   committed-rev="8034"
+   name="ResultMatrixHTML.java"
+   text-time="2013-11-25T03:38:03.453125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="49fcaf335e8a77f83f86133bc48751d1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.187500Z"/>
+<entry
+   committed-rev="10204"
+   name="RemoteExperimentSubTask.java"
+   text-time="2013-11-25T03:38:03.468750Z"
+   committed-date="2013-11-18T08:36:28.617992Z"
+   checksum="877b5d510c457fa572496ac766ddf977"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.187500Z"/>
+<entry
+   committed-rev="8034"
+   name="OutputZipper.java"
+   text-time="2013-11-25T03:38:03.515625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="1bf2ffcd654756a0ccea7f3d9c6c42b2"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.234375Z"/>
+<entry
+   committed-rev="5837"
+   name="DatabaseUtils.props.sqlite3"
+   text-time="2013-11-25T03:38:03.500000Z"
+   committed-date="2009-08-03T09:06:30.443730Z"
+   checksum="e622a36544870b9ecc82dd0962ed9ccc"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.218750Z"/>
+<entry
+   committed-rev="10203"
+   name="PropertyNode.java"
+   text-time="2013-11-25T03:38:03.484375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="8365c5c2e39105a1de53d4f1dc58c323"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.203125Z"/>
+<entry
+   committed-rev="8034"
+   name="InstanceQueryAdapter.java"
+   text-time="2013-11-25T03:38:03.531250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="fc26b3dfefa3071a7026297608249b36"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.250000Z"/>
+<entry
+   committed-rev="10222"
+   name="RemoteExperiment.java"
+   text-time="2013-11-25T03:38:03.546875Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="5ac5e44812a0400da97a28b601d185fc"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.281250Z"/>
+<entry
+   committed-rev="10203"
+   name="RandomSplitResultProducer.java"
+   text-time="2013-11-25T03:38:03.562500Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="017e3c342b3d03a09ae28091005a6c99"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.296875Z"/>
+<entry
+   committed-rev="8034"
+   name="ResultMatrixLatex.java"
+   text-time="2013-11-25T03:38:03.578125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="1cb6821b60fa4d91030bc049540d6c02"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.312500Z"/>
+<entry
+   committed-rev="8034"
+   name="Task.java"
+   text-time="2013-11-25T03:38:03.593750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c73377e511e94c389097483830a5e9a9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.328125Z"/>
+<entry
+   committed-rev="10204"
+   name="ResultMatrix.java"
+   text-time="2013-11-25T03:38:03.609375Z"
+   committed-date="2013-11-18T08:36:28.617992Z"
+   checksum="60b94f3162460168cff3214611248ace"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.468750Z"/>
+<entry
+   committed-rev="10203"
+   name="AveragingResultProducer.java"
+   text-time="2013-11-25T03:38:03.609375Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="5a248480168d8f9f87f80b48620d6080"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.500000Z"/>
+<entry
+   committed-rev="8034"
+   name="Tester.java"
+   text-time="2013-11-25T03:38:03.625000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e7e3dee6fcc93d6f80d0914cfdb5be0a"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.515625Z"/>
+<entry
+   committed-rev="10203"
+   name="CrossValidationResultProducer.java"
+   text-time="2013-11-25T03:38:03.640625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="867f1f707f4b9cf860d20cdac1bc3185"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.562500Z"/>
+<entry
+   committed-rev="10203"
+   name="PairedCorrectedTTester.java"
+   text-time="2013-11-25T03:38:03.656250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="78f0d743f9f6b3b6fdcf7735949260fa"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.578125Z"/>
+<entry
+   committed-rev="5837"
+   name="DatabaseUtils.props.oracle"
+   text-time="2013-11-25T03:38:03.671875Z"
+   committed-date="2009-08-03T09:06:30.443730Z"
+   checksum="cca5afc3671a48d3590f4a68884a084a"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.593750Z"/>
+<entry
+   committed-rev="5837"
+   name="DatabaseUtils.props.mysql"
+   text-time="2013-11-25T03:38:03.687500Z"
+   committed-date="2009-08-03T09:06:30.443730Z"
+   checksum="a6130afde39114135cc4d1d73c5676fc"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.640625Z"/>
+<entry
+   committed-rev="8034"
+   name="Compute.java"
+   text-time="2013-11-25T03:38:03.703125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9153d6d6af8661224c6793a0caba22e4"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.656250Z"/>
+<entry
+   committed-rev="8034"
+   name="ResultMatrixGnuPlot.java"
+   text-time="2013-11-25T03:38:03.703125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b1de130cac8308bc42544a04166d71e1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.656250Z"/>
+<entry
+   committed-rev="5837"
+   name="DatabaseUtils.props.odbc"
+   text-time="2013-11-25T03:38:03.718750Z"
+   committed-date="2009-08-03T09:06:30.443730Z"
+   checksum="ae9ec218ac4ed34c73346ea67ca01086"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.671875Z"/>
+<entry
+   committed-rev="8034"
+   name="PairedStatsCorrected.java"
+   text-time="2013-11-25T03:38:03.734375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="46edc85ffce32bdc15212ca6175b85f8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.671875Z"/>
+<entry
+   committed-rev="8034"
+   name="ResultMatrixCSV.java"
+   text-time="2013-11-25T03:38:03.750000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="3e1e64ab4378d9e44242ac2fdb30bd26"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.687500Z"/>
+<entry
+   name="xml"
+   kind="dir"/>
+<entry
+   committed-rev="10204"
+   name="RemoteEngine.java"
+   text-time="2013-11-25T03:38:03.765625Z"
+   committed-date="2013-11-18T08:36:28.617992Z"
+   checksum="fd3c1f2eb6980e6d6326066b075bd32a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.765625Z"/>
+<entry
+   committed-rev="8034"
+   name="ResultProducer.java"
+   text-time="2013-11-25T03:38:03.781250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="bca69a2b50e237c875cad0eb81019bb9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.781250Z"/>
+<entry
+   committed-rev="8034"
+   name="TaskStatusInfo.java"
+   text-time="2013-11-25T03:38:03.828125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b9cc40acaa08506fa255fc3c0476c3d9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.781250Z"/>
+<entry
+   committed-rev="10203"
+   name="ClassifierSplitEvaluator.java"
+   text-time="2013-11-25T03:38:03.828125Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="0536aded03e56bf28e94bdc413f080c7"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.828125Z"/>
+<entry
+   committed-rev="10203"
+   name="CrossValidationSplitResultProducer.java"
+   text-time="2013-11-25T03:38:03.843750Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="002a796c39e9ce3ebc17b57288a15868"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.859375Z"/>
+<entry
+   committed-rev="8034"
+   name="ResultListener.java"
+   text-time="2013-11-25T03:38:03.859375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="af3bc6d3679d9b39188d3662bdc1a473"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.875000Z"/>
+<entry
+   committed-rev="10205"
+   name="DatabaseUtils.java"
+   text-time="2013-11-25T03:38:03.875000Z"
+   committed-date="2013-11-19T01:21:22.842890Z"
+   checksum="8857364dc22fd444d34ea7316d7c1819"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.906250Z"/>
+<entry
+   committed-rev="10203"
+   name="InstanceQuery.java"
+   text-time="2013-11-25T03:38:03.890625Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="a41f114ffba004c9333e37170749416b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.921875Z"/>
+<entry
+   committed-rev="10203"
+   name="InstancesResultListener.java"
+   text-time="2013-11-25T03:38:03.906250Z"
+   committed-date="2013-11-18T04:20:10.142124Z"
+   checksum="8e71e2203056f5ba8ed9ca58d3420cf0"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.968750Z"/>
+<entry
+   committed-rev="5837"
+   name="DatabaseUtils.props.mssqlserver"
+   text-time="2013-11-25T03:38:03.921875Z"
+   committed-date="2009-08-03T09:06:30.443730Z"
+   checksum="1421a8f00ceea1ace50cc2c8dc3315ee"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:02.984375Z"/>
+<entry
+   committed-rev="10204"
+   name="ResultMatrixPlainText.java"
+   text-time="2013-11-25T03:38:03.937500Z"
+   committed-date="2013-11-18T08:36:28.617992Z"
+   checksum="a10fd177caaa7c55ea6c3f3343c94910"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:03.000000Z"/>
+<entry
+   committed-rev="8034"
+   name="RemoteExperimentEvent.java"
+   text-time="2013-11-25T03:38:03.953125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c4b71e9b4b37ccba8e4dff1db55d697e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:03.015625Z"/>
+<entry
+   committed-rev="8034"
+   name="Stats.java"
+   text-time="2013-11-25T03:38:04.000000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="fd5681d731c7cca54c4746acb9b98db3"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:03.031250Z"/>
+</wc-entries>

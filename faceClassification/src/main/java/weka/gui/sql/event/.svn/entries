@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8034"
+   name=""
+   committed-date="2012-02-15T01:12:10.572616Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/sql/event"
+   last-author="fracpete"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:10.000000Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="ConnectionEvent.java"
+   text-time="2013-11-25T03:38:10.000000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f1255f67a6115dc043d00615231c138e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.906250Z"/>
+<entry
+   committed-rev="8034"
+   name="HistoryChangedListener.java"
+   text-time="2013-11-25T03:38:10.015625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="3966271d6f54a38700023686909c134f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.906250Z"/>
+<entry
+   committed-rev="8034"
+   name="ConnectionListener.java"
+   text-time="2013-11-25T03:38:10.062500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="601253533a619703b18ea6a960af5cae"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.921875Z"/>
+<entry
+   committed-rev="8034"
+   name="QueryExecuteEvent.java"
+   text-time="2013-11-25T03:38:10.078125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="2ce094b16e480f401bec8b01eb1121fb"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.953125Z"/>
+<entry
+   committed-rev="8034"
+   name="ResultChangedEvent.java"
+   text-time="2013-11-25T03:38:10.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="1a71a787b5f9cfdb0fceb289b5116a9e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.968750Z"/>
+<entry
+   committed-rev="8034"
+   name="HistoryChangedEvent.java"
+   text-time="2013-11-25T03:38:10.109375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="0d1c38f0bdadb632abc2caffade182d3"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.968750Z"/>
+<entry
+   committed-rev="8034"
+   name="QueryExecuteListener.java"
+   text-time="2013-11-25T03:38:10.125000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="66ce227eb0d9cc79ee6051baac59aff6"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.984375Z"/>
+<entry
+   committed-rev="8034"
+   name="ResultChangedListener.java"
+   text-time="2013-11-25T03:38:10.140625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7964cbb96b75db0a8901c8c0596f9cfc"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.984375Z"/>
+</wc-entries>

@@ -1,0 +1,11 @@
+@relation predictor
+@attribute hue_mean numeric
+@attribute saturation_mean numeric
+@attribute value_mean numeric
+@attribute hue_deviation numeric
+@attribute saturation_deviation numeric
+@attribute value_deviation numeric
+
+@attribute faceId string
+@data
+0.3874849219092478,0.42367700815821685,0.2822516429238021,0.1956938573806221,0.0188199037365577,0.05004442495673279,test

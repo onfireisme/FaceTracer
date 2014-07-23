@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10222"
+   name=""
+   committed-date="2013-11-22T03:46:55.173449Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/explorer"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:05.656250Z"
+   revision="10228"/>
+<entry
+   committed-rev="10222"
+   name="Explorer.java"
+   text-time="2013-11-25T03:38:05.734375Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="c5496d68a789fe3ec735ca6362a50f53"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.968750Z"/>
+<entry
+   committed-rev="8034"
+   name="DataGeneratorPanel.java"
+   text-time="2013-11-25T03:38:05.718750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ebe1246d5305783b02948b5f57116a72"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.968750Z"/>
+<entry
+   committed-rev="8034"
+   name="ClustererPanelLaunchHandlerPlugin.java"
+   text-time="2013-11-25T03:38:05.703125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="aaf188ad8cf85e9298e7ee40839f6eb4"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.921875Z"/>
+<entry
+   committed-rev="10216"
+   name="ClassifierPanel.java"
+   text-time="2013-11-25T03:38:05.781250Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="e90b2c603a94065e950de43c463c746b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:05.140625Z"/>
+<entry
+   committed-rev="9800"
+   name="PreprocessPanel.java"
+   text-time="2013-11-25T03:38:05.796875Z"
+   committed-date="2013-06-25T22:14:21.679861Z"
+   checksum="f7841411bf41d66a294f5655461a2e46"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:05.250000Z"/>
+<entry
+   committed-rev="10220"
+   name="AbstractPlotInstances.java"
+   text-time="2013-11-25T03:38:05.859375Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="fbe7868cbf776866e4ff2ec7c6cff98e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:05.593750Z"/>
+<entry
+   committed-rev="8034"
+   name="ClassifierPanelLaunchHandlerPlugin.java"
+   text-time="2013-11-25T03:38:05.906250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="950a7c395a2e9e7a75099078aa37c13a"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:05.656250Z"/>
+<entry
+   committed-rev="10222"
+   name="AssociationsPanel.java"
+   text-time="2013-11-25T03:38:05.671875Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="1fb773e316d897b7bd68597e9a69ed7f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.921875Z"/>
+<entry
+   committed-rev="7526"
+   name="Explorer.props"
+   text-time="2013-11-25T03:38:05.765625Z"
+   committed-date="2011-08-31T21:22:13.013529Z"
+   checksum="ce459c79c3f20d66dda23552c8b3ec5b"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.984375Z"/>
+<entry
+   committed-rev="10222"
+   name="ExplorerDefaults.java"
+   text-time="2013-11-25T03:38:05.828125Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="715e90a83841cf33aad0c4ed8718e15d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:05.562500Z"/>
+<entry
+   committed-rev="10222"
+   name="ClustererPanel.java"
+   text-time="2013-11-25T03:38:05.812500Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="75a4db8637d73c1e6f7c42bf5a0ce8c1"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:05.546875Z"/>
+<entry
+   committed-rev="10220"
+   name="ClassifierErrorsPlotInstances.java"
+   text-time="2013-11-25T03:38:05.796875Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="db2005d9298a2c335516676d046a7e88"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:05.265625Z"/>
+<entry
+   committed-rev="10222"
+   name="AttributeSelectionPanel.java"
+   text-time="2013-11-25T03:38:05.843750Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="35243191f41a59d43b3ab938e4f73a0d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:05.578125Z"/>
+<entry
+   committed-rev="8034"
+   name="VisualizePanel.java"
+   text-time="2013-11-25T03:38:05.890625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="d4ab6aa72951b5128c3d6be1c3c1ff95"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:05.640625Z"/>
+<entry
+   committed-rev="10222"
+   name="ClustererAssignmentsPlotInstances.java"
+   text-time="2013-11-25T03:38:05.875000Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="b967ad902f05f8e2cbd904e4dab497df"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:05.625000Z"/>
+</wc-entries>

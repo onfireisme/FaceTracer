@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10216"
+   name=""
+   committed-date="2013-11-20T05:08:33.523947Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/arffviewer"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:06.375000Z"
+   revision="10228"/>
+<entry
+   committed-rev="9484"
+   name="ArffViewer.java"
+   text-time="2013-11-25T03:38:06.375000Z"
+   committed-date="2013-01-17T21:29:05.746123Z"
+   checksum="679d4ea58ff58ca410a3e0e19fa183e3"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.171875Z"/>
+<entry
+   committed-rev="10216"
+   name="ArffViewerMainPanel.java"
+   text-time="2013-11-25T03:38:06.406250Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="1aa89f00d864ce5e43ff3b1096d5856d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.218750Z"/>
+<entry
+   committed-rev="10216"
+   name="ArffTable.java"
+   text-time="2013-11-25T03:38:06.421875Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="bf0a019a565fa243ade17456b3a6be13"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.312500Z"/>
+<entry
+   committed-rev="10216"
+   name="ArffTableModel.java"
+   text-time="2013-11-25T03:38:06.437500Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="f8941899d693c1e509acf9a0de18e23f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.328125Z"/>
+<entry
+   committed-rev="8604"
+   name="ArffSortedTableModel.java"
+   text-time="2013-11-25T03:38:06.453125Z"
+   committed-date="2012-04-26T03:32:13.479466Z"
+   checksum="beee24c88ba8f804c203307fcb8ea0ac"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.343750Z"/>
+<entry
+   committed-rev="8034"
+   name="ArffTableCellRenderer.java"
+   text-time="2013-11-25T03:38:06.468750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="40b7b417d3d0f8c79496b21c506c0f68"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.343750Z"/>
+<entry
+   committed-rev="10216"
+   name="ArffPanel.java"
+   text-time="2013-11-25T03:38:06.484375Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="a8c450867f32c458014baa91430ba544"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:06.359375Z"/>
+</wc-entries>

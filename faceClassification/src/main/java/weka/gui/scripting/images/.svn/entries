@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5349"
+   name=""
+   committed-date="2009-05-17T04:20:17.316077Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/scripting/images"
+   last-author="fracpete"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:07.109375Z"
+   revision="10228"/>
+<entry
+   committed-rev="5142"
+   name="groovy_small.png"
+   text-time="2013-11-25T03:38:07.125000Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="d261f74cb777a6ef9529fd0b09f2c647"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.062500Z"/>
+<entry
+   committed-rev="5142"
+   name="jython_small.png"
+   text-time="2013-11-25T03:38:07.140625Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="62b05790d0bfbba156230e9c9da25e32"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.062500Z"/>
+<entry
+   committed-rev="5142"
+   name="groovy_medium.png"
+   text-time="2013-11-25T03:38:07.156250Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="683c34d423a79ad7964f796747e201f0"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.078125Z"/>
+<entry
+   committed-rev="5142"
+   name="jython_medium.png"
+   text-time="2013-11-25T03:38:07.187500Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="d424807134dfa1cd19e44165fb821451"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.093750Z"/>
+</wc-entries>

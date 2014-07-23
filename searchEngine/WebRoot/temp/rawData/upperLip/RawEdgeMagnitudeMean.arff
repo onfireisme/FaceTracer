@@ -1,0 +1,37 @@
+@relation predictor
+@attribute 1pixel numeric
+@attribute 2pixel numeric
+@attribute 3pixel numeric
+@attribute 4pixel numeric
+@attribute 5pixel numeric
+@attribute 6pixel numeric
+@attribute 7pixel numeric
+@attribute 8pixel numeric
+@attribute 9pixel numeric
+@attribute 10pixel numeric
+@attribute 11pixel numeric
+@attribute 12pixel numeric
+@attribute 13pixel numeric
+@attribute 14pixel numeric
+@attribute 15pixel numeric
+@attribute 16pixel numeric
+@attribute 17pixel numeric
+@attribute 18pixel numeric
+@attribute 19pixel numeric
+@attribute 20pixel numeric
+@attribute 21pixel numeric
+@attribute 22pixel numeric
+@attribute 23pixel numeric
+@attribute 24pixel numeric
+@attribute 25pixel numeric
+@attribute 26pixel numeric
+@attribute 27pixel numeric
+@attribute 28pixel numeric
+@attribute 29pixel numeric
+@attribute 30pixel numeric
+@attribute 31pixel numeric
+@attribute 32pixel numeric
+@attribute 33pixel numeric
+@attribute faceId string
+@data
+1.6803151517932287,1.197533804015791,0.43040628830371735,1.358715501421504,0.9590932951210616,1.1881622383634949,0.2825755719877722,0.7851330613253734,0.5900351166966121,1.4791420947385467,1.5763563825724252,0.9405989629151845,0.2397733237802654,1.6457449728778237,1.5834320799972454,1.3669182568429867,1.0973250314168483,0.5117661269957505,0.680532095149418,1.0797197445214952,0.9405989629151845,1.023532253991501,0.864515013378176,1.3992484944572898,1.4693929743364156,0.8846014628437617,0.8773505088867554,0.7992444126008847,1.3669182568429867,0.7992444126008847,0.8091732953147778,0.25274327509821765,0.8401575758966143,test

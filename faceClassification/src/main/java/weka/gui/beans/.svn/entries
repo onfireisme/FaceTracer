@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10221"
+   name=""
+   committed-date="2013-11-21T23:10:09.251553Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/beans"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:33.734375Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="HeadlessEventCollector.java"
+   text-time="2013-11-25T03:38:33.734375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b42f1a04a93a0f72529384cc3440fbfb"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.171875Z"/>
+<entry
+   committed-rev="10216"
+   name="ChartEvent.java"
+   text-time="2013-11-25T03:38:33.750000Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="92a86a02a8060432a13356c1d6b05b81"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.187500Z"/>
+<entry
+   committed-rev="10216"
+   name="AbstractTrainAndTestSetProducer.java"
+   text-time="2013-11-25T03:38:33.765625Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="5c3dd91445c12d352faa1387812c7efd"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.187500Z"/>
+<entry
+   committed-rev="8034"
+   name="AbstractTrainAndTestSetProducerBeanInfo.java"
+   text-time="2013-11-25T03:38:33.781250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7ec2113ccd50d931b857465007eadb21"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.203125Z"/>
+<entry
+   committed-rev="10216"
+   name="TextViewer.java"
+   text-time="2013-11-25T03:38:33.796875Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="8b3684a78b842b44f1669bbffa8a1b82"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.218750Z"/>
+<entry
+   committed-rev="8034"
+   name="VisualizableErrorEvent.java"
+   text-time="2013-11-25T03:38:33.812500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="cd8c8a6cb880af80dcb9768c589c95f2"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.218750Z"/>
+<entry
+   committed-rev="8034"
+   name="AbstractOffscreenChartRenderer.java"
+   text-time="2013-11-25T03:38:33.828125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4a71e6ff5e754ec32e3f444e30ee6499"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.234375Z"/>
+<entry
+   committed-rev="8034"
+   name="ImageSaverCustomizer.java"
+   text-time="2013-11-25T03:38:33.843750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a675ce6b6af1533d4d9c62f4d1cc34f2"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.234375Z"/>
+<entry
+   committed-rev="9118"
+   name="FileEnvironmentField.java"
+   text-time="2013-11-25T03:38:33.859375Z"
+   committed-date="2012-09-18T09:36:15.993513Z"
+   checksum="edcdb5945d3a49832ff22317006cfea9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.250000Z"/>
+<entry
+   committed-rev="10220"
+   name="Clusterer.java"
+   text-time="2013-11-25T03:38:33.859375Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="72e5b42e81d1ff40cf8f9b4b74797361"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.265625Z"/>
+<entry
+   committed-rev="8034"
+   name="StartUpListener.java"
+   text-time="2013-11-25T03:38:33.875000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="151cf3a93a0fc79615a94920e3bd56bf"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.265625Z"/>
+<entry
+   committed-rev="8034"
+   name="TextViewerBeanInfo.java"
+   text-time="2013-11-25T03:38:33.890625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="47b253d7df625432ce6c26e9d249957e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.281250Z"/>
+<entry
+   committed-rev="8034"
+   name="VisualizableErrorListener.java"
+   text-time="2013-11-25T03:38:33.937500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9b12c6edc12754e5e8f82c80fa97775e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.312500Z"/>
+<entry
+   committed-rev="9238"
+   name="TextSaverCustomizer.java"
+   text-time="2013-11-25T03:38:33.921875Z"
+   committed-date="2012-10-23T10:57:33.189146Z"
+   checksum="1a6b483e655a448db424c1cb59f13d0c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.296875Z"/>
+<entry
+   committed-rev="8034"
+   name="ClustererBeanInfo.java"
+   text-time="2013-11-25T03:38:33.906250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f24c5c4dad7cfb972bf71efbb75c7c52"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.281250Z"/>
+<entry
+   committed-rev="10216"
+   name="TestSetMaker.java"
+   text-time="2013-11-25T03:38:33.968750Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="7742f9885b27a990ce5a8ef847146b9d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.312500Z"/>
+<entry
+   committed-rev="8034"
+   name="BatchClustererEvent.java"
+   text-time="2013-11-25T03:38:33.984375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="402ff8389eb2a54df5a717f57dd5884f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.359375Z"/>
+<entry
+   committed-rev="8034"
+   name="TestSetMakerBeanInfo.java"
+   text-time="2013-11-25T03:38:34.000000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5bb3a61ae08046e5041b29a6253da8d6"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.375000Z"/>
+<entry
+   committed-rev="10220"
+   name="FlowByExpression.java"
+   text-time="2013-11-25T03:38:34.015625Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="a7016ad0625a76e3dc24f93690a1ef76"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.468750Z"/>
+<entry
+   committed-rev="10216"
+   name="AbstractTestSetProducer.java"
+   text-time="2013-11-25T03:38:34.046875Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="a2bb98e553a1ed544c200a6caeeb326e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.500000Z"/>
+<entry
+   committed-rev="8997"
+   name="SubstringReplacerCustomizer.java"
+   text-time="2013-11-25T03:38:34.031250Z"
+   committed-date="2012-07-09T03:30:01.572815Z"
+   checksum="bf66e02df4a0b8d4f42d57b774938802"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.484375Z"/>
+<entry
+   committed-rev="9129"
+   name="FlowByExpressionBeanInfo.java"
+   text-time="2013-11-25T03:38:34.062500Z"
+   committed-date="2012-09-18T23:33:33.980426Z"
+   checksum="9c924538c01ca09b9bf4c57d1ec4c3c8"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.500000Z"/>
+<entry
+   committed-rev="10220"
+   name="Filter.java"
+   text-time="2013-11-25T03:38:34.109375Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="bd1e17dc14e93815dc920593bff7010c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.531250Z"/>
+<entry
+   committed-rev="8034"
+   name="AbstractTestSetProducerBeanInfo.java"
+   text-time="2013-11-25T03:38:34.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="41abd6089f4f4fa061c11d039cf83f87"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.515625Z"/>
+<entry
+   committed-rev="8034"
+   name="ClassValuePickerCustomizer.java"
+   text-time="2013-11-25T03:38:34.078125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="bcd416e8a40035d8c29010ed07ed69cf"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.515625Z"/>
+<entry
+   committed-rev="8034"
+   name="ClassAssignerCustomizer.java"
+   text-time="2013-11-25T03:38:34.125000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5869cddb142f02679494c3ca2c7d149c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.546875Z"/>
+<entry
+   committed-rev="8034"
+   name="FilterBeanInfo.java"
+   text-time="2013-11-25T03:38:34.140625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="1c9d426f86b5eb514cf3fb94756dfe1f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.562500Z"/>
+<entry
+   committed-rev="8034"
+   name="DataSetEvent.java"
+   text-time="2013-11-25T03:38:34.125000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f263615406f89df49d36e4966c2095a5"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.562500Z"/>
+<entry
+   committed-rev="10220"
+   name="ClassifierPerformanceEvaluator.java"
+   text-time="2013-11-25T03:38:34.156250Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="c5a543b3d4e702a3c36693df252c9ca1"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.781250Z"/>
+<entry
+   committed-rev="10216"
+   name="BeanVisual.java"
+   text-time="2013-11-25T03:38:34.171875Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="96f71bb86a46748a65322915f26ee9a3"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.796875Z"/>
+<entry
+   committed-rev="10220"
+   name="IncrementalClassifierEvaluator.java"
+   text-time="2013-11-25T03:38:34.187500Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="319878117f7d111da48b94aac46e4554"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.812500Z"/>
+<entry
+   committed-rev="8034"
+   name="ModelPerformanceChartCustomizer.java"
+   text-time="2013-11-25T03:38:34.203125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ff606a95281b51dec45dcc6b0cb919af"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.812500Z"/>
+<entry
+   committed-rev="8034"
+   name="BeanCustomizer.java"
+   text-time="2013-11-25T03:38:34.218750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="6afd5361a2c7ee50bc6c8a6167d909b6"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.828125Z"/>
+<entry
+   committed-rev="8034"
+   name="IncrementalClassifierEvaluatorBeanInfo.java"
+   text-time="2013-11-25T03:38:34.234375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9b534271c3318fca4a4eea01d74c970e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.843750Z"/>
+<entry
+   committed-rev="9455"
+   name="ClassifierPerformanceEvaluatorBeanInfo.java"
+   text-time="2013-11-25T03:38:34.250000Z"
+   committed-date="2013-01-15T08:09:06.902692Z"
+   checksum="a0e3d254810e5498b736d142b6465b7f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.843750Z"/>
+<entry
+   committed-rev="8034"
+   name="TrainingSetProducer.java"
+   text-time="2013-11-25T03:38:34.265625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="2cb0e7f29591114c7dfbf692457db19f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.859375Z"/>
+<entry
+   committed-rev="8034"
+   name="Visible.java"
+   text-time="2013-11-25T03:38:34.281250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="33f083438dfcd50d1a29a9997b6f4f95"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.859375Z"/>
+<entry
+   committed-rev="10220"
+   name="ClassValuePicker.java"
+   text-time="2013-11-25T03:38:34.343750Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="6fe6747fcd5efc3aeb342aae1f4d49af"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.875000Z"/>
+<entry
+   committed-rev="10221"
+   name="FlowRunner.java"
+   text-time="2013-11-25T03:38:34.343750Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="ab2935e441d9eae9b5316d6860d23ece"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.890625Z"/>
+<entry
+   committed-rev="8034"
+   name="ClassValuePickerBeanInfo.java"
+   text-time="2013-11-25T03:38:34.359375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="d70c3ad8c84cad84a5a16101b27d5b13"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.906250Z"/>
+<entry
+   committed-rev="10221"
+   name="ModelPerformanceChart.java"
+   text-time="2013-11-25T03:38:34.375000Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="4688e57259a19d268e2bbb927fd01b3b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.906250Z"/>
+<entry
+   committed-rev="8034"
+   name="SaverCustomizer.java"
+   text-time="2013-11-25T03:38:34.390625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7e7b65e3aeb60fd6a37c84c572bb0d9f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.921875Z"/>
+<entry
+   committed-rev="8034"
+   name="ModelPerformanceChartBeanInfo.java"
+   text-time="2013-11-25T03:38:34.406250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="afa4b653972427ebc7f3d30db45ae2b1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.937500Z"/>
+<entry
+   committed-rev="8034"
+   name="AttributeSummarizerCustomizer.java"
+   text-time="2013-11-25T03:38:34.421875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="08e530fa193e3e3efbd41979cde64e27"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.937500Z"/>
+<entry
+   committed-rev="9239"
+   name="Beans.props"
+   text-time="2013-11-25T03:38:34.437500Z"
+   committed-date="2012-10-23T11:01:51.022424Z"
+   checksum="95a2566f92149ccd03558e140d3afbcc"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.953125Z"/>
+<entry
+   committed-rev="9576"
+   name="Sorter.java"
+   text-time="2013-11-25T03:38:34.453125Z"
+   committed-date="2013-02-22T02:33:42.641349Z"
+   checksum="d1f8c47164a3b2c6e970fcddc446e743"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.156250Z"/>
+<entry
+   committed-rev="10216"
+   name="PredictionAppender.java"
+   text-time="2013-11-25T03:38:34.468750Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="4f02989cb757b65436f3d4e51a67b123"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.171875Z"/>
+<entry
+   committed-rev="10221"
+   name="Saver.java"
+   text-time="2013-11-25T03:38:34.484375Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="a0c865733401bc6b6a693c91d2f13123"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.218750Z"/>
+<entry
+   committed-rev="8051"
+   name="SorterBeanInfo.java"
+   text-time="2013-11-25T03:38:34.500000Z"
+   committed-date="2012-02-18T11:17:19.257705Z"
+   checksum="71857906f7f4e885a81edfd8ba5a4737"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.234375Z"/>
+<entry
+   committed-rev="8034"
+   name="PredictionAppenderBeanInfo.java"
+   text-time="2013-11-25T03:38:34.515625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="aacec73b081f88106f08dc1666b77b47"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.234375Z"/>
+<entry
+   committed-rev="8034"
+   name="SaverBeanInfo.java"
+   text-time="2013-11-25T03:38:34.531250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f27e6ee7168e51cc18358d4fa0a1928e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.250000Z"/>
+<entry
+   committed-rev="8034"
+   name="AbstractEvaluator.java"
+   text-time="2013-11-25T03:38:34.546875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9b5eae3ee28d4dd5a19d35262a1539ea"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.312500Z"/>
+<entry
+   committed-rev="8034"
+   name="TextEvent.java"
+   text-time="2013-11-25T03:38:34.546875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ef2364341af91e7b207ddebf1056c910"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.312500Z"/>
+<entry
+   committed-rev="10216"
+   name="DataVisualizer.java"
+   text-time="2013-11-25T03:38:34.562500Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="687f5e4ec1111ee1c3092bdbe040fc81"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.328125Z"/>
+<entry
+   committed-rev="8034"
+   name="DataVisualizerBeanInfo.java"
+   text-time="2013-11-25T03:38:34.593750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="1c838723ccb735e26c59e451e3d9b4b4"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.343750Z"/>
+<entry
+   committed-rev="8034"
+   name="TrainingSetEvent.java"
+   text-time="2013-11-25T03:38:34.609375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9e83f56d9158d44367dd2bc5143ec995"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.343750Z"/>
+<entry
+   committed-rev="8034"
+   name="DataSource.java"
+   text-time="2013-11-25T03:38:34.625000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="701c51b3cce058647565274b78addbd6"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.359375Z"/>
+<entry
+   committed-rev="8034"
+   name="TextListener.java"
+   text-time="2013-11-25T03:38:34.640625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9fce0f1b1f9f41fea7db0eeb3fa85712"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:14.375000Z"/>
+<entry
+   name="icons"
+   kind="dir"/>
+<entry
+   committed-rev="8034"
+   name="BatchClassifierListener.java"
+   text-time="2013-11-25T03:38:34.656250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f604261ddfae37a7751da1c964095a69"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.312500Z"/>
+<entry
+   committed-rev="8995"
+   name="SubstringLabelerCustomizer.java"
+   text-time="2013-11-25T03:38:34.671875Z"
+   committed-date="2012-07-09T03:28:06.395714Z"
+   checksum="1dbf966a436c18fe9fb618429336543d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.328125Z"/>
+<entry
+   committed-rev="8034"
+   name="TestSetProducer.java"
+   text-time="2013-11-25T03:38:34.687500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="26261809e807f9f74f3a09279b6db1a0"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.328125Z"/>
+<entry
+   committed-rev="10221"
+   name="Loader.java"
+   text-time="2013-11-25T03:38:34.703125Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="1718fa79451f9eb71114928f2626e601"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.343750Z"/>
+<entry
+   committed-rev="10216"
+   name="Associator.java"
+   text-time="2013-11-25T03:38:34.718750Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="283341dde1a75912c4e5753842a1a65a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.359375Z"/>
+<entry
+   committed-rev="8034"
+   name="LoaderBeanInfo.java"
+   text-time="2013-11-25T03:38:34.734375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="59ca02d9a94e958ab6686b38ccb0a37c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.375000Z"/>
+<entry
+   committed-rev="10216"
+   name="UserRequestAcceptor.java"
+   text-time="2013-11-25T03:38:34.718750Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="68bb40be44b04508f851569d683a543f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.359375Z"/>
+<entry
+   committed-rev="8034"
+   name="EventConstraints.java"
+   text-time="2013-11-25T03:38:34.765625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b7af61bb3a4573ef2d0c3c6f57e2bbf1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.390625Z"/>
+<entry
+   committed-rev="8034"
+   name="AssociatorBeanInfo.java"
+   text-time="2013-11-25T03:38:34.750000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4c83f15b02847974e4c94c7ed6f48111"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.375000Z"/>
+<entry
+   committed-rev="9467"
+   name="FilterCustomizer.java"
+   text-time="2013-11-25T03:38:34.781250Z"
+   committed-date="2013-01-16T01:37:15.144679Z"
+   checksum="9a7539e41a28819c6ed2281743a0b3dc"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.390625Z"/>
+<entry
+   committed-rev="8034"
+   name="LogWriter.java"
+   text-time="2013-11-25T03:38:34.828125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="6d18fa834be34ea95477ae25c02dd13c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.421875Z"/>
+<entry
+   committed-rev="10220"
+   name="IncrementalClassifierEvaluatorCustomizer.java"
+   text-time="2013-11-25T03:38:34.812500Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="71f3f0784ccb4159fd4ffd5a4e81dbbb"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.421875Z"/>
+<entry
+   committed-rev="9320"
+   name="ClassifierPerformanceEvaluatorCustomizer.java"
+   text-time="2013-11-25T03:38:34.796875Z"
+   committed-date="2012-11-13T20:20:23.998050Z"
+   checksum="f6e8293bc0cff7ac59d059b5fe72dbc6"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.406250Z"/>
+<entry
+   committed-rev="8034"
+   name="BatchClustererListener.java"
+   text-time="2013-11-25T03:38:34.843750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="787b2086c86db3d02d7a1579f15ecad1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.437500Z"/>
+<entry
+   committed-rev="8034"
+   name="Startable.java"
+   text-time="2013-11-25T03:38:34.859375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5da3fccbf0d369ce575f84707444c26e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.437500Z"/>
+<entry
+   committed-rev="8034"
+   name="ImageSaver.java"
+   text-time="2013-11-25T03:38:34.875000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ce8060ed96cf614c08cfcd436f9c820e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.453125Z"/>
+<entry
+   committed-rev="8034"
+   name="ImageSaverBeanInfo.java"
+   text-time="2013-11-25T03:38:34.875000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="62ac8eb11878f95fc37c0a0ae2551210"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.468750Z"/>
+<entry
+   committed-rev="10220"
+   name="CrossValidationFoldMaker.java"
+   text-time="2013-11-25T03:38:34.906250Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="ef9b1ff23b578fa5e5d32f620d23a5a6"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.484375Z"/>
+<entry
+   committed-rev="8034"
+   name="CustomizerClosingListener.java"
+   text-time="2013-11-25T03:38:34.890625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="bde46e79e64ff3755c83c41cdbcb6756"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.468750Z"/>
+<entry
+   committed-rev="8034"
+   name="CrossValidationFoldMakerBeanInfo.java"
+   text-time="2013-11-25T03:38:34.921875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="96f28a31656e496ceaf44e84d33e7917"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.500000Z"/>
+<entry
+   committed-rev="8034"
+   name="ThresholdDataListener.java"
+   text-time="2013-11-25T03:38:34.937500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="6a9b30719fc21bf2f0d5cad3992bb2fb"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.500000Z"/>
+<entry
+   committed-rev="8034"
+   name="TrainingSetListener.java"
+   text-time="2013-11-25T03:38:34.953125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="bd57cb562f32d701fb9fe7129a4eb0a5"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.515625Z"/>
+<entry
+   committed-rev="8034"
+   name="DataSink.java"
+   text-time="2013-11-25T03:38:34.984375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a4628597a3cf5ed61fbfbf4bcb0a0d5e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.531250Z"/>
+<entry
+   committed-rev="10149"
+   name="Appender.java"
+   text-time="2013-11-25T03:38:34.968750Z"
+   committed-date="2013-11-13T03:27:44.296215Z"
+   checksum="6e20e8467b9c44ed779a8438b940cf61"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.531250Z"/>
+<entry
+   committed-rev="8034"
+   name="GOECustomizer.java"
+   text-time="2013-11-25T03:38:35.000000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="87ab1734522018f9108f08f13a1ebc41"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.546875Z"/>
+<entry
+   committed-rev="8034"
+   name="DataSourceListener.java"
+   text-time="2013-11-25T03:38:35.031250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f59e7541990cac061624838b6230b87c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.562500Z"/>
+<entry
+   committed-rev="10150"
+   name="AppenderBeanInfo.java"
+   text-time="2013-11-25T03:38:35.015625Z"
+   committed-date="2013-11-13T03:27:56.320374Z"
+   checksum="462382ea6f5d46272431694288c2f852"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.562500Z"/>
+<entry
+   committed-rev="8034"
+   name="Note.java"
+   text-time="2013-11-25T03:38:35.031250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="19e371df7907bd8c72bfb5175d128b7f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.578125Z"/>
+<entry
+   committed-rev="8034"
+   name="NoteBeanInfo.java"
+   text-time="2013-11-25T03:38:35.109375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="aff03bbe2c13cb656a04acf263ff87d7"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.609375Z"/>
+<entry
+   committed-rev="8034"
+   name="GraphListener.java"
+   text-time="2013-11-25T03:38:35.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="fb2767ae1a6e31797bb92c678d2f880c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.593750Z"/>
+<entry
+   committed-rev="10216"
+   name="TrainingSetMaker.java"
+   text-time="2013-11-25T03:38:35.046875Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="5922ccd710b8e151961c53cc44ce14b8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.593750Z"/>
+<entry
+   committed-rev="8034"
+   name="TrainingSetMakerBeanInfo.java"
+   text-time="2013-11-25T03:38:35.125000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="66940470b13c74c6e9747bf7cb8aaff1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.609375Z"/>
+<entry
+   committed-rev="8034"
+   name="ConfigurationProducer.java"
+   text-time="2013-11-25T03:38:35.140625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="96c4e249090b8775979fe65261629f28"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.625000Z"/>
+<entry
+   committed-rev="10220"
+   name="ClustererPerformanceEvaluator.java"
+   text-time="2013-11-25T03:38:35.156250Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="e7578b34ac5751c9f5422bd9994d545c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.640625Z"/>
+<entry
+   committed-rev="8034"
+   name="ClustererPerformanceEvaluatorBeanInfo.java"
+   text-time="2013-11-25T03:38:35.171875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="d5bc9bfac91c110fb6024b6504277126"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.640625Z"/>
+<entry
+   committed-rev="8034"
+   name="ConnectionNotificationConsumer.java"
+   text-time="2013-11-25T03:38:35.187500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7f4334c5ac75255df27b3079388be3c5"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.656250Z"/>
+<entry
+   committed-rev="9263"
+   name="BatchClassifierEvent.java"
+   text-time="2013-11-25T03:38:35.234375Z"
+   committed-date="2012-10-31T01:51:05.904954Z"
+   checksum="23eb260d7597537b1f0b5c18b0e931a0"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.671875Z"/>
+<entry
+   committed-rev="8034"
+   name="WekaWrapper.java"
+   text-time="2013-11-25T03:38:35.203125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ce0cc9ede436b8fcffa44adb7075f39e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.656250Z"/>
+<entry
+   committed-rev="10221"
+   name="SQLViewerPerspective.java"
+   text-time="2013-11-25T03:38:35.265625Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="46df41680baeaba49e0e8dacd6858db9"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.687500Z"/>
+<entry
+   committed-rev="8034"
+   name="WekaOffscreenChartRenderer.java"
+   text-time="2013-11-25T03:38:35.250000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ce617f71a11c7e65cd337d4c6e290a46"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.671875Z"/>
+<entry
+   committed-rev="8034"
+   name="KFStep.java"
+   text-time="2013-11-25T03:38:35.281250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="d9a680d7ac26e6e0c3b22a2f6b2dd1d0"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.703125Z"/>
+<entry
+   committed-rev="8034"
+   name="BatchAssociationRulesListener.java"
+   text-time="2013-11-25T03:38:35.296875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="8e34539ce89fa2df3d467a21626613d2"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.703125Z"/>
+<entry
+   committed-rev="10221"
+   name="LogPanel.java"
+   text-time="2013-11-25T03:38:35.312500Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="76905b897b5ca36f56d779c4cff210d8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.734375Z"/>
+<entry
+   committed-rev="8034"
+   name="TestSetListener.java"
+   text-time="2013-11-25T03:38:35.312500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e5491fab09af4c7d0b12568e4727c692"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.718750Z"/>
+<entry
+   committed-rev="8034"
+   name="GraphEvent.java"
+   text-time="2013-11-25T03:38:35.328125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9141357a14db4dce845d9d4848734343"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.734375Z"/>
+<entry
+   committed-rev="8034"
+   name="StructureProducer.java"
+   text-time="2013-11-25T03:38:35.343750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="82d76f7263546cdd4e9a1ad633ec377b"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.750000Z"/>
+<entry
+   committed-rev="9205"
+   name="InstanceEvent.java"
+   text-time="2013-11-25T03:38:35.359375Z"
+   committed-date="2012-10-18T09:53:58.181602Z"
+   checksum="5a230da232e3eed27bd871dfa9a2e5c9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.750000Z"/>
+<entry
+   committed-rev="8034"
+   name="KnowledgeFlow.java"
+   text-time="2013-11-25T03:38:35.406250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="55148309b25017b3510f5c077985ff3d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.828125Z"/>
+<entry
+   committed-rev="9129"
+   name="FlowByExpressionCustomizer.java"
+   text-time="2013-11-25T03:38:35.390625Z"
+   committed-date="2012-09-18T23:33:33.980426Z"
+   checksum="cb06ec40d03f16618e88d59e3e0dc9e9"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.812500Z"/>
+<entry
+   committed-rev="10216"
+   name="SubstringLabeler.java"
+   text-time="2013-11-25T03:38:35.375000Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="b79153d7d33a0f1a1985116cfe75936a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:29.765625Z"/>
+<entry
+   committed-rev="10221"
+   name="KnowledgeFlowApp.java"
+   text-time="2013-11-25T03:38:35.437500Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="aa0b86c2bbfc203137761885a64d6c0d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.515625Z"/>
+<entry
+   committed-rev="10220"
+   name="EnvironmentField.java"
+   text-time="2013-11-25T03:38:35.421875Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="67d213e33454674d1c2a5d12f38c944b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:30.140625Z"/>
+<entry
+   committed-rev="8034"
+   name="ConfigurationEvent.java"
+   text-time="2013-11-25T03:38:35.484375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="590cf7d55e4118e47cefb75b8d85347e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.843750Z"/>
+<entry
+   committed-rev="8034"
+   name="SubstringLabelerBeanInfo.java"
+   text-time="2013-11-25T03:38:35.468750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="17e4cdf336f750357be2617354555796"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.828125Z"/>
+<entry
+   committed-rev="10216"
+   name="TrainTestSplitMaker.java"
+   text-time="2013-11-25T03:38:35.453125Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="7236d1e393088a1e20c4871ea521c835"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.812500Z"/>
+<entry
+   committed-rev="8034"
+   name="InstanceListener.java"
+   text-time="2013-11-25T03:38:35.500000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="1f7040929292aaa4ca9af34a2008f393"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.859375Z"/>
+<entry
+   committed-rev="8034"
+   name="TrainTestSplitMakerBeanInfo.java"
+   text-time="2013-11-25T03:38:35.515625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="580689a7565ee7068204385c659acddf"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.875000Z"/>
+<entry
+   committed-rev="8034"
+   name="IncrementalClassifierListener.java"
+   text-time="2013-11-25T03:38:35.531250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="770716e7b3619304614896631cf02bb5"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.890625Z"/>
+<entry
+   committed-rev="10216"
+   name="AbstractDataSource.java"
+   text-time="2013-11-25T03:38:35.562500Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="0b2fdaf1e2638ed4bb17a15661315908"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.921875Z"/>
+<entry
+   committed-rev="8034"
+   name="CrossValidationFoldMakerCustomizer.java"
+   text-time="2013-11-25T03:38:35.546875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7052d66040b6aa4b57b8e8c74fddb39e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.906250Z"/>
+<entry
+   committed-rev="8034"
+   name="AbstractDataSourceBeanInfo.java"
+   text-time="2013-11-25T03:38:35.562500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="31cf5adbf752f10396fd467b3df02947"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.953125Z"/>
+<entry
+   committed-rev="8034"
+   name="ShadowBorder.java"
+   text-time="2013-11-25T03:38:35.593750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ef4cd2e6bb04e68b2456c89175a25f7e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.968750Z"/>
+<entry
+   committed-rev="8034"
+   name="DataFormatListener.java"
+   text-time="2013-11-25T03:38:35.625000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c3ba60b1c1c6df1a2be00a4d4526a839"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.984375Z"/>
+<entry
+   committed-rev="8034"
+   name="ThresholdDataEvent.java"
+   text-time="2013-11-25T03:38:35.609375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="6866c361b3596cd37235f1f231ac9e2e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:31.968750Z"/>
+<entry
+   committed-rev="8034"
+   name="NoteCustomizer.java"
+   text-time="2013-11-25T03:38:35.640625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="08786a264deaeb123f4fb14cd78c3c40"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.000000Z"/>
+<entry
+   committed-rev="8034"
+   name="BatchAssociationRulesEvent.java"
+   text-time="2013-11-25T03:38:35.656250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5ed83941f7748acef0c73942a07c1f73"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.000000Z"/>
+<entry
+   committed-rev="9219"
+   name="SubstringReplacer.java"
+   text-time="2013-11-25T03:38:35.671875Z"
+   committed-date="2012-10-22T07:59:12.023604Z"
+   checksum="4cfb2ec6671bae30c535772581d2d476"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.015625Z"/>
+<entry
+   committed-rev="8034"
+   name="SubstringReplacerBeanInfo.java"
+   text-time="2013-11-25T03:38:35.687500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="87a105da8107f6c642187e61adfc0392"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.015625Z"/>
+<entry
+   committed-rev="8051"
+   name="SorterCustomizer.java"
+   text-time="2013-11-25T03:38:35.703125Z"
+   committed-date="2012-02-18T11:17:19.257705Z"
+   checksum="159c0ad00d886d6b0d06a7162c8ed9aa"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.031250Z"/>
+<entry
+   committed-rev="7244"
+   name="README_KnowledgeFlow"
+   text-time="2013-11-25T03:38:35.718750Z"
+   committed-date="2011-06-18T08:39:54.455094Z"
+   checksum="71a27f74039c70e32d8c5de5dcf07330"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.046875Z"/>
+<entry
+   committed-rev="8034"
+   name="StripChartCustomizer.java"
+   text-time="2013-11-25T03:38:35.734375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="3ee732f30ea14c1317fa65930e860bba"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.046875Z"/>
+<entry
+   committed-rev="9213"
+   name="ClassifierCustomizer.java"
+   text-time="2013-11-25T03:38:35.750000Z"
+   committed-date="2012-10-21T01:00:08.519255Z"
+   checksum="548f609152a7897cd26963a01ff56c64"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.062500Z"/>
+<entry
+   committed-rev="10216"
+   name="SerializedModelSaver.java"
+   text-time="2013-11-25T03:38:35.765625Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="9a412e6f51a4c6e9669472a5b874523b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.078125Z"/>
+<entry
+   committed-rev="8034"
+   name="ConfigurationListener.java"
+   text-time="2013-11-25T03:38:35.781250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="8ac109720ea7cdd71bb4800aa2b69205"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.078125Z"/>
+<entry
+   committed-rev="8034"
+   name="SerializedModelSaverBeanInfo.java"
+   text-time="2013-11-25T03:38:35.796875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="691ccd97ba3cd35e3bfb39e61a533365"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.093750Z"/>
+<entry
+   committed-rev="10216"
+   name="AttributeSummarizer.java"
+   text-time="2013-11-25T03:38:35.812500Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="f1ed4e6d2ce08e4ad56a8b4018e631d9"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.109375Z"/>
+<entry
+   committed-rev="8034"
+   name="AbstractDataSink.java"
+   text-time="2013-11-25T03:38:35.812500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="361f31f8cd7cd3513d9a566b3a001ff7"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.140625Z"/>
+<entry
+   committed-rev="8034"
+   name="OffscreenChartRenderer.java"
+   text-time="2013-11-25T03:38:35.828125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b630d8a552c93a1c24a780749ab86466"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.140625Z"/>
+<entry
+   committed-rev="8034"
+   name="ImageEvent.java"
+   text-time="2013-11-25T03:38:35.843750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="0306405260226dd72a4eb7d59f48e19f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.156250Z"/>
+<entry
+   committed-rev="8034"
+   name="AttributeSummarizerBeanInfo.java"
+   text-time="2013-11-25T03:38:35.859375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="179f464c49d1c5f28cbd7cb8e9c1639f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.171875Z"/>
+<entry
+   committed-rev="8034"
+   name="AbstractDataSinkBeanInfo.java"
+   text-time="2013-11-25T03:38:35.875000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="13c18bdfe921e0385231918dbd49ea2d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.171875Z"/>
+<entry
+   committed-rev="10220"
+   name="Classifier.java"
+   text-time="2013-11-25T03:38:35.890625Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="be3c58ff79d1049c4d3b5b1912198732"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.234375Z"/>
+<entry
+   committed-rev="9243"
+   name="StreamThroughput.java"
+   text-time="2013-11-25T03:38:35.906250Z"
+   committed-date="2012-10-23T23:17:16.945626Z"
+   checksum="5167f6f71e4147b80baff5f7cef7c70d"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.250000Z"/>
+<entry
+   committed-rev="8034"
+   name="ClassifierBeanInfo.java"
+   text-time="2013-11-25T03:38:35.921875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="8750a838c0e5c7f0a44d46663eb2cfd0"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.250000Z"/>
+<entry
+   committed-rev="10221"
+   name="BeanInstance.java"
+   text-time="2013-11-25T03:38:35.937500Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="faebf05042dab3690d1df95a4ac29f51"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.359375Z"/>
+<entry
+   committed-rev="10221"
+   name="LoaderCustomizer.java"
+   text-time="2013-11-25T03:38:35.953125Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="4d0429fc0c8ab0fe5866010883dc1272"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.375000Z"/>
+<entry
+   committed-rev="8034"
+   name="TrainTestSplitMakerCustomizer.java"
+   text-time="2013-11-25T03:38:35.968750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="c3c731ce4a6d2563575a521275d5f0c4"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.390625Z"/>
+<entry
+   committed-rev="10220"
+   name="InstanceStreamToBatchMaker.java"
+   text-time="2013-11-25T03:38:35.984375Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="a6574a3b84e4476f1bf688c20c530647"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.390625Z"/>
+<entry
+   committed-rev="8034"
+   name="InstanceStreamToBatchMakerBeanInfo.java"
+   text-time="2013-11-25T03:38:36.000000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="79c37f2e810fd38795cac1846338aa55"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.406250Z"/>
+<entry
+   committed-rev="8034"
+   name="IncrementalClassifierEvent.java"
+   text-time="2013-11-25T03:38:36.015625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="1f7493edefb5e1e72f7fccfe132309e0"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.421875Z"/>
+<entry
+   committed-rev="8034"
+   name="BeanCommon.java"
+   text-time="2013-11-25T03:38:36.031250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a4f0c76572cf99bb17fda5119a68127c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.421875Z"/>
+<entry
+   committed-rev="10221"
+   name="BeanConnection.java"
+   text-time="2013-11-25T03:38:36.046875Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="e2f85711bfa1966ff9b1fc3b62d3f5af"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.468750Z"/>
+<entry
+   committed-rev="9250"
+   name="TextSaver.java"
+   text-time="2013-11-25T03:38:36.046875Z"
+   committed-date="2012-10-25T03:33:33.910439Z"
+   checksum="815d12325144fa643aaa6e75a680c049"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.500000Z"/>
+<entry
+   committed-rev="9238"
+   name="TextSaverBeanInfo.java"
+   text-time="2013-11-25T03:38:36.062500Z"
+   committed-date="2012-10-23T10:57:33.189146Z"
+   checksum="f225c3d3b213e183539075b64970b8ba"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.500000Z"/>
+<entry
+   committed-rev="10216"
+   name="ScatterPlotMatrix.java"
+   text-time="2013-11-25T03:38:36.078125Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="65977aacd2d8da9398a65cccd2bf53fe"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.515625Z"/>
+<entry
+   committed-rev="8034"
+   name="CustomizerCloseRequester.java"
+   text-time="2013-11-25T03:38:36.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f4333f5c1d0234aded12e13317413bcb"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.531250Z"/>
+<entry
+   committed-rev="8034"
+   name="ScatterPlotMatrixBeanInfo.java"
+   text-time="2013-11-25T03:38:36.109375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="07e74340f597d30450c488e05b687aa8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.546875Z"/>
+<entry
+   committed-rev="8034"
+   name="TestSetEvent.java"
+   text-time="2013-11-25T03:38:36.125000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9971fb4f335381469d8a66a5cf369edd"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.562500Z"/>
+<entry
+   committed-rev="10220"
+   name="ClassAssigner.java"
+   text-time="2013-11-25T03:38:36.140625Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="d2ce2ba1e84cfe050c041c5bfb857eb8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.562500Z"/>
+<entry
+   committed-rev="8034"
+   name="SerializedModelSaverCustomizer.java"
+   text-time="2013-11-25T03:38:36.156250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5835e3c760db9b6c055f916c1f097168"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.609375Z"/>
+<entry
+   committed-rev="8034"
+   name="ClassAssignerBeanInfo.java"
+   text-time="2013-11-25T03:38:36.171875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="793c0cf125ca9aa6d9d274b1e7c461ed"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.625000Z"/>
+<entry
+   committed-rev="8034"
+   name="PredictionAppenderCustomizer.java"
+   text-time="2013-11-25T03:38:36.187500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="fd1709795f08d34d39783a8276dcb5ab"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.640625Z"/>
+<entry
+   committed-rev="8034"
+   name="ChartListener.java"
+   text-time="2013-11-25T03:38:36.187500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5ce9664fd91ce2cf6bf717e22aed9dc7"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.640625Z"/>
+<entry
+   committed-rev="10220"
+   name="CostBenefitAnalysis.java"
+   text-time="2013-11-25T03:38:36.234375Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="495cac43b1b7990a74b7130034c8c9a5"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.703125Z"/>
+<entry
+   committed-rev="8046"
+   name="CostBenefitAnalysisBeanInfo.java"
+   text-time="2013-11-25T03:38:36.250000Z"
+   committed-date="2012-02-16T14:56:47.341446Z"
+   checksum="ba954694a6f6f113b64295ff543d1b92"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.718750Z"/>
+<entry
+   committed-rev="10221"
+   name="MetaBean.java"
+   text-time="2013-11-25T03:38:36.250000Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="1294bed297937aed90754e5a048cc5c3"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.734375Z"/>
+<entry
+   committed-rev="8034"
+   name="DataVisualizerCustomizer.java"
+   text-time="2013-11-25T03:38:36.265625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a2965a0c8dbdb0c90c927ad99559f1b4"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:32.750000Z"/>
+<entry
+   name="templates"
+   kind="dir"/>
+<entry
+   committed-rev="10216"
+   name="AbstractTrainingSetProducer.java"
+   text-time="2013-11-25T03:38:36.281250Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="259f628f0902c86405e47d12e35521db"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.546875Z"/>
+<entry
+   name="xml"
+   kind="dir"/>
+<entry
+   committed-rev="8034"
+   name="AbstractTrainingSetProducerBeanInfo.java"
+   text-time="2013-11-25T03:38:36.296875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="087e21f852843a2123878e3450c8754a"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.640625Z"/>
+<entry
+   committed-rev="10220"
+   name="GraphViewer.java"
+   text-time="2013-11-25T03:38:36.343750Z"
+   committed-date="2013-11-21T04:11:13.277684Z"
+   checksum="5fef2a05cd58528fcdd5797613a0b1a1"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.656250Z"/>
+<entry
+   committed-rev="10216"
+   name="StripChart.java"
+   text-time="2013-11-25T03:38:36.359375Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="34ab4aa5bc753213d536651f57bda852"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.671875Z"/>
+<entry
+   committed-rev="8034"
+   name="GraphViewerBeanInfo.java"
+   text-time="2013-11-25T03:38:36.359375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7f71f11bcc2dfecccbe643839eef976a"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.671875Z"/>
+<entry
+   committed-rev="8034"
+   name="StripChartBeanInfo.java"
+   text-time="2013-11-25T03:38:36.375000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="d9ec17f5387ad98a36a48c30a9e81603"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.687500Z"/>
+<entry
+   committed-rev="8034"
+   name="ImageListener.java"
+   text-time="2013-11-25T03:38:36.390625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="d8178df5b723152526fe97e49d665389"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.687500Z"/>
+<entry
+   committed-rev="10221"
+   name="PluginManager.java"
+   text-time="2013-11-25T03:38:36.406250Z"
+   committed-date="2013-11-21T23:10:09.251553Z"
+   checksum="760cc8c2e270e753a5804db17ccf834d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.703125Z"/>
+<entry
+   committed-rev="8034"
+   name="AssociatorCustomizer.java"
+   text-time="2013-11-25T03:38:36.453125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4665bed0428ad245e609edafeb208ce0"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.718750Z"/>
+<entry
+   committed-rev="8034"
+   name="ClustererCustomizer.java"
+   text-time="2013-11-25T03:38:36.468750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="84404155d118964cece3c82ea325f5c0"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:33.718750Z"/>
+</wc-entries>

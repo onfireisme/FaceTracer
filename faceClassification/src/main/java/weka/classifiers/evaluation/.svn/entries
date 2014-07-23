@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10169"
+   name=""
+   committed-date="2013-11-14T22:05:52.302840Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/evaluation"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:47.921875Z"
+   revision="10228"/>
+<entry
+   committed-rev="9320"
+   name="InformationRetrievalEvaluationMetric.java"
+   text-time="2013-11-25T03:38:47.953125Z"
+   committed-date="2012-11-13T20:20:23.998050Z"
+   checksum="9cbbc7dbfd1ac9b6de51900df5c4a310"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.078125Z"/>
+<entry
+   committed-rev="9320"
+   name="AbstractEvaluationMetric.java"
+   text-time="2013-11-25T03:38:47.937500Z"
+   committed-date="2012-11-13T20:20:23.998050Z"
+   checksum="af89d2a5cc8bb5bb5cb6dc3b339b4fd7"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.062500Z"/>
+<entry
+   committed-rev="8034"
+   name="Prediction.java"
+   text-time="2013-11-25T03:38:47.968750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="3ee358e7a626d6dedd7311c7302e76aa"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.093750Z"/>
+<entry
+   committed-rev="10153"
+   name="ThresholdCurve.java"
+   text-time="2013-11-25T03:38:47.984375Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="09cdbf84b1870094e93b0e068a1ffdeb"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.093750Z"/>
+<entry
+   committed-rev="10153"
+   name="AggregateableEvaluation.java"
+   text-time="2013-11-25T03:38:47.984375Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="a1ec6d20fcefacfe242b58fa37b24436"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.109375Z"/>
+<entry
+   committed-rev="10153"
+   name="Evaluation.java"
+   text-time="2013-11-25T03:38:48.000000Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="b2fc7377e5371f3b29b657da1f97e1d7"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.312500Z"/>
+<entry
+   committed-rev="10169"
+   name="CostCurve.java"
+   text-time="2013-11-25T03:38:48.015625Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="79e73c194d83fc199202ee56a528cd37"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.328125Z"/>
+<entry
+   committed-rev="8034"
+   name="NominalPrediction.java"
+   text-time="2013-11-25T03:38:48.046875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="6b47c97ff829beba9abc3725ce63a383"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.343750Z"/>
+<entry
+   committed-rev="10169"
+   name="TwoClassStats.java"
+   text-time="2013-11-25T03:38:48.031250Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="20680f32b27253cd5f37056a2896c682"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.328125Z"/>
+<entry
+   committed-rev="9320"
+   name="IntervalBasedEvaluationMetric.java"
+   text-time="2013-11-25T03:38:48.062500Z"
+   committed-date="2012-11-13T20:20:23.998050Z"
+   checksum="2360a28099816e625939985a56facad7"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.359375Z"/>
+<entry
+   name="output"
+   kind="dir"/>
+<entry
+   committed-rev="10153"
+   name="MarginCurve.java"
+   text-time="2013-11-25T03:38:48.078125Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="893de7048178e807f8e4a27c6e17bee2"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.812500Z"/>
+<entry
+   committed-rev="8034"
+   name="NumericPrediction.java"
+   text-time="2013-11-25T03:38:48.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ad2dc92c803580d046dcf15823bf5ec7"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.828125Z"/>
+<entry
+   committed-rev="10142"
+   name="RegressionAnalysis.java"
+   text-time="2013-11-25T03:38:48.109375Z"
+   committed-date="2013-11-12T04:55:41.307337Z"
+   checksum="5194559d1dd895c45c98d1dde78ab20e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.843750Z"/>
+<entry
+   committed-rev="10153"
+   name="EvaluationUtils.java"
+   text-time="2013-11-25T03:38:48.125000Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="793180221b750282e2aeef3c7c0e42e5"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.859375Z"/>
+<entry
+   committed-rev="9320"
+   name="InformationTheoreticEvaluationMetric.java"
+   text-time="2013-11-25T03:38:48.140625Z"
+   committed-date="2012-11-13T20:20:23.998050Z"
+   checksum="35798e717c42edc9f2ce60ce3cbd40f3"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.875000Z"/>
+<entry
+   committed-rev="10169"
+   name="ConfusionMatrix.java"
+   text-time="2013-11-25T03:38:48.156250Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="3899a5644805ea46ac9229f48c072dbe"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.875000Z"/>
+<entry
+   committed-rev="9320"
+   name="StandardEvaluationMetric.java"
+   text-time="2013-11-25T03:38:48.203125Z"
+   committed-date="2012-11-13T20:20:23.998050Z"
+   checksum="dc99b1dbb994ab66d8454d00337a8a9c"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:47.921875Z"/>
+</wc-entries>

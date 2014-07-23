@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10169"
+   name=""
+   committed-date="2013-11-14T22:05:52.302840Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/trees/lmt"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:40.562500Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="ResidualModelSelection.java"
+   text-time="2013-11-25T03:38:40.578125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="8b3b4232d165edd133b3b540dad60ac9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.515625Z"/>
+<entry
+   committed-rev="10169"
+   name="LMTNode.java"
+   text-time="2013-11-25T03:38:40.593750Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="9fff7f9f6829417cb04eeeacec3edf57"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.531250Z"/>
+<entry
+   committed-rev="8034"
+   name="ResidualSplit.java"
+   text-time="2013-11-25T03:38:40.625000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="969f2137038157eacf62aed20d8307f7"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.546875Z"/>
+<entry
+   committed-rev="10169"
+   name="LogisticBase.java"
+   text-time="2013-11-25T03:38:40.640625Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="70c173aae575758bf915ee6be18ac641"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.562500Z"/>
+</wc-entries>

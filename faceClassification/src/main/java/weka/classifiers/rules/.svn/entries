@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10153"
+   name=""
+   committed-date="2013-11-13T04:54:56.461744Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/rules"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:46.640625Z"
+   revision="10228"/>
+<entry
+   committed-rev="10153"
+   name="ZeroR.java"
+   text-time="2013-11-25T03:38:46.656250Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="03df7add5677f31f9b11a5e75f3a7ef8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.796875Z"/>
+<entry
+   committed-rev="8034"
+   name="DecisionTableHashKey.java"
+   text-time="2013-11-25T03:38:46.656250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="f0dca5e5447c4abf52bea63a11afcfee"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:45.812500Z"/>
+<entry
+   committed-rev="10153"
+   name="OneR.java"
+   text-time="2013-11-25T03:38:46.671875Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="5322d408d9d630aba75c3f7c63303a80"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.062500Z"/>
+<entry
+   committed-rev="10153"
+   name="JRip.java"
+   text-time="2013-11-25T03:38:46.687500Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="ae9ff9d0938093665ebc7b60bbb241b6"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.109375Z"/>
+<entry
+   committed-rev="10153"
+   name="DecisionTable.java"
+   text-time="2013-11-25T03:38:46.703125Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="b10af41fab085233f71c3520f48fea04"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.140625Z"/>
+<entry
+   name="part"
+   kind="dir"/>
+<entry
+   committed-rev="10153"
+   name="PART.java"
+   text-time="2013-11-25T03:38:46.718750Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="c5c165351237aa64955ccc123ee8b96d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.140625Z"/>
+<entry
+   committed-rev="10153"
+   name="RuleStats.java"
+   text-time="2013-11-25T03:38:46.734375Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="cd81f4b5b28976a273fbd99d6d7e4c58"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.390625Z"/>
+<entry
+   committed-rev="8034"
+   name="Rule.java"
+   text-time="2013-11-25T03:38:46.750000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e0bdf4f5c988d806fbc87a7b7530225f"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.625000Z"/>
+<entry
+   committed-rev="8034"
+   name="M5Rules.java"
+   text-time="2013-11-25T03:38:46.765625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9932f1dab05be2b0df01e7ca68a2c39d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:46.640625Z"/>
+</wc-entries>

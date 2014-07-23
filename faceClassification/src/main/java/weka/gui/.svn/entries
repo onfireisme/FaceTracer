@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10224"
+   name=""
+   committed-date="2013-11-24T21:12:57.370030Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:37.171875Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="LogPanel.java"
+   text-time="2013-11-25T03:38:37.171875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="fc67bf2c0b0e08df225e146e8bcbb4d8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.828125Z"/>
+<entry
+   committed-rev="10216"
+   name="SimpleCLIPanel.java"
+   text-time="2013-11-25T03:38:37.187500Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="dde3386e9c65d0eea1d09c84ec1630a4"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.843750Z"/>
+<entry
+   committed-rev="8034"
+   name="ComponentHelper.java"
+   text-time="2013-11-25T03:38:37.203125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="fb8386f8fd06730a10eaac660cc8af6b"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.859375Z"/>
+<entry
+   committed-rev="8034"
+   name="GenericPropertiesCreator.excludes"
+   text-time="2013-11-25T03:38:37.218750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="73809b99d0b9bdc47a56dc2aff8a2191"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.859375Z"/>
+<entry
+   committed-rev="8034"
+   name="MainMenuExtension.java"
+   text-time="2013-11-25T03:38:37.234375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="3c9aed014f1c8dc95ff2f947614d7a2d"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.875000Z"/>
+<entry
+   committed-rev="657"
+   name="weka_animated.gif"
+   text-time="2013-11-25T03:38:37.250000Z"
+   committed-date="2000-04-27T23:05:20.000000Z"
+   checksum="a61a39127a807a74021fe4a0d9063578"
+   last-author="trigg"
+   kind="file"
+   prop-time="2013-11-25T03:38:04.875000Z"/>
+<entry
+   name="arffviewer"
+   kind="dir"/>
+<entry
+   name="explorer"
+   kind="dir"/>
+<entry
+   committed-rev="10216"
+   name="ResultHistoryPanel.java"
+   text-time="2013-11-25T03:38:37.250000Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="d794c04b128365f22410e1d94b8ffacd"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:05.984375Z"/>
+<entry
+   name="boundaryvisualizer"
+   kind="dir"/>
+<entry
+   name="scripting"
+   kind="dir"/>
+<entry
+   committed-rev="10216"
+   name="ExtensionFileFilter.java"
+   text-time="2013-11-25T03:38:37.265625Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="fe3f975acd9bd5aacbcd9448318d103a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.484375Z"/>
+<entry
+   committed-rev="10216"
+   name="SplashWindow.java"
+   text-time="2013-11-25T03:38:37.281250Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="d1df7857a0f81201d81b3e174c0df9ed"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.484375Z"/>
+<entry
+   name="filters"
+   kind="dir"/>
+<entry
+   committed-rev="8034"
+   name="SaveBuffer.java"
+   text-time="2013-11-25T03:38:37.296875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4f4e26ca68c6610d383f027443520120"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.562500Z"/>
+<entry
+   name="visualize"
+   kind="dir"/>
+<entry
+   committed-rev="9117"
+   name="GenericPropertiesCreator.props"
+   text-time="2013-11-25T03:38:37.312500Z"
+   committed-date="2012-09-18T05:04:06.579368Z"
+   checksum="b7d2f46c6204f1438e30e1343e5b7009"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:07.562500Z"/>
+<entry
+   committed-rev="9117"
+   name="GenericObjectEditor.props"
+   text-time="2013-11-25T03:38:37.328125Z"
+   committed-date="2012-09-18T05:04:06.579368Z"
+   checksum="25d9ac716ebfcaf3a6e1b5649d414e18"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.750000Z"/>
+<entry
+   committed-rev="10216"
+   name="GenericObjectEditorHistory.java"
+   text-time="2013-11-25T03:38:37.343750Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="26135abe56896b9077e7160cd33523df"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.750000Z"/>
+<entry
+   committed-rev="10216"
+   name="PropertySheetPanel.java"
+   text-time="2013-11-25T03:38:37.359375Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="475681f0038f0cb23b2e1217a490360a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.765625Z"/>
+<entry
+   committed-rev="673"
+   name="weka3.gif"
+   text-time="2013-11-25T03:38:37.375000Z"
+   committed-date="2000-05-14T23:39:45.000000Z"
+   checksum="434b57a1d34262ed1bd014c89dd2eb5e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.781250Z"/>
+<entry
+   committed-rev="330"
+   name="weka_icon.jpg"
+   text-time="2013-11-25T03:38:37.375000Z"
+   committed-date="1999-11-18T00:50:58.000000Z"
+   checksum="5810c5880268ff9b1a433fdb03dedfa6"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:08.796875Z"/>
+<entry
+   name="graphvisualizer"
+   kind="dir"/>
+<entry
+   committed-rev="9117"
+   name="GUIEditors.props"
+   text-time="2013-11-25T03:38:37.390625Z"
+   committed-date="2012-09-18T05:04:06.579368Z"
+   checksum="a76901a3c4dde750f3e00d1932691252"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.718750Z"/>
+<entry
+   committed-rev="10216"
+   name="JTableHelper.java"
+   text-time="2013-11-25T03:38:37.437500Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="5ce6901b03a3bd9c860739e42bfe38ba"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.750000Z"/>
+<entry
+   committed-rev="10216"
+   name="AttributeSummaryPanel.java"
+   text-time="2013-11-25T03:38:37.421875Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="5ccbec8f6456f14b20e782fd5d57ed2d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.734375Z"/>
+<entry
+   committed-rev="9320"
+   name="EvaluationMetricSelectionDialog.java"
+   text-time="2013-11-25T03:38:37.406250Z"
+   committed-date="2012-11-13T20:20:23.998050Z"
+   checksum="d1f5d45021dbdd6e65c148d93bd07d51"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.734375Z"/>
+<entry
+   committed-rev="8034"
+   name="SimpleCLI.props"
+   text-time="2013-11-25T03:38:37.453125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="986c011a8763818f7e961e31b5b0f414"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.765625Z"/>
+<entry
+   committed-rev="8034"
+   name="PropertyDialog.java"
+   text-time="2013-11-25T03:38:37.468750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="cb13a68591ad1cbd82f3cdca70eb903c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.765625Z"/>
+<entry
+   committed-rev="10216"
+   name="PropertySelectorDialog.java"
+   text-time="2013-11-25T03:38:37.484375Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="5b59c444d4f39099fea048ec5575971c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.781250Z"/>
+<entry
+   committed-rev="4174"
+   name="weka_icon.icns"
+   text-time="2013-11-25T03:38:37.515625Z"
+   committed-date="2007-12-13T02:45:22.000000Z"
+   checksum="d6b6dd256906f21a607b4c3dcda56298"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.796875Z"/>
+<entry
+   committed-rev="10216"
+   name="GenericObjectEditor.java"
+   text-time="2013-11-25T03:38:37.500000Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="1711c059d32b0097fa4e5b0e538ca639"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.796875Z"/>
+<entry
+   committed-rev="8034"
+   name="CustomPanelSupplier.java"
+   text-time="2013-11-25T03:38:37.531250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="33d7f63b31406a0cf008e22b41c29a51"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.812500Z"/>
+<entry
+   committed-rev="10216"
+   name="AttributeListPanel.java"
+   text-time="2013-11-25T03:38:37.562500Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="7c6295662bf2027cdf4dd8ad19142901"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.500000Z"/>
+<entry
+   name="sql"
+   kind="dir"/>
+<entry
+   committed-rev="10216"
+   name="BrowserHelper.java"
+   text-time="2013-11-25T03:38:37.593750Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="5556ff9fd8b2788e615c755de782cbbc"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.531250Z"/>
+<entry
+   committed-rev="7051"
+   name="weka_icon_new.icns"
+   text-time="2013-11-25T03:38:37.578125Z"
+   committed-date="2011-01-18T19:43:41.623253Z"
+   checksum="e55631519a86afab5c221df69e8c462a"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.515625Z"/>
+<entry
+   committed-rev="8034"
+   name="FileEditor.java"
+   text-time="2013-11-25T03:38:37.625000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="b163c8a78de8be6b84eb650e54b7f9ee"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.546875Z"/>
+<entry
+   committed-rev="7189"
+   name="weka_icon_new_48.png"
+   text-time="2013-11-25T03:38:37.609375Z"
+   committed-date="2011-06-13T03:32:01.698831Z"
+   checksum="c3a99141523820b27a71d3676579a0f8"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.531250Z"/>
+<entry
+   committed-rev="8034"
+   name="SysErrLog.java"
+   text-time="2013-11-25T03:38:37.656250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="433261860e0913a32dfd0763da394cad"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.578125Z"/>
+<entry
+   committed-rev="10216"
+   name="SortedTableModel.java"
+   text-time="2013-11-25T03:38:37.640625Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="572757ab25282832d22c1b58f93f384a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.562500Z"/>
+<entry
+   committed-rev="10216"
+   name="AttributeSelectionPanel.java"
+   text-time="2013-11-25T03:38:37.625000Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="ce90e84cde6eb9c2c9141d7ddcd25935"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:10.546875Z"/>
+<entry
+   name="experiment"
+   kind="dir"/>
+<entry
+   committed-rev="8034"
+   name="TaskLogger.java"
+   text-time="2013-11-25T03:38:37.671875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9fab3815d11f6fa406062665f75c3223"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.218750Z"/>
+<entry
+   committed-rev="10216"
+   name="CostMatrixEditor.java"
+   text-time="2013-11-25T03:38:37.687500Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="bbcb91ea03ca1f680aa5dd79aff9507b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.234375Z"/>
+<entry
+   committed-rev="10216"
+   name="AttributeVisualizationPanel.java"
+   text-time="2013-11-25T03:38:37.703125Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="be7ed3826b4cb2f6ae353fa87b130430"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.250000Z"/>
+<entry
+   committed-rev="8034"
+   name="Loader.java"
+   text-time="2013-11-25T03:38:37.718750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="fbf62db7f57a6abed45e57c6a83b2d73"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.265625Z"/>
+<entry
+   committed-rev="8034"
+   name="SimpleDateFormatEditor.java"
+   text-time="2013-11-25T03:38:37.750000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9e68bc20198ad6ae197dc59d11be2032"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.281250Z"/>
+<entry
+   committed-rev="10216"
+   name="GUIChooser.java"
+   text-time="2013-11-25T03:38:37.734375Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="9b689651baae6468495ba82969607693"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.281250Z"/>
+<entry
+   committed-rev="10216"
+   name="LogWindow.java"
+   text-time="2013-11-25T03:38:37.781250Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="7d392aa38e7803dfcacbdc0d1b153832"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.312500Z"/>
+<entry
+   committed-rev="10216"
+   name="GenericPropertiesCreator.java"
+   text-time="2013-11-25T03:38:37.765625Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="72bfef754f6fe9d989d12c044df6c667"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.296875Z"/>
+<entry
+   committed-rev="7051"
+   name="weka_icon_new.png"
+   text-time="2013-11-25T03:38:37.796875Z"
+   committed-date="2011-01-18T19:43:41.623253Z"
+   checksum="ba5f6444bb5f33f42e8f0dd3452ccb1f"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.593750Z"/>
+<entry
+   committed-rev="10216"
+   name="MemoryUsagePanel.java"
+   text-time="2013-11-25T03:38:37.812500Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="f3e79548de8591bd1635ca73329bcf9b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.656250Z"/>
+<entry
+   committed-rev="8034"
+   name="ViewerDialog.java"
+   text-time="2013-11-25T03:38:37.843750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e4e94c9520eefa48edd4b742a7dba7ba"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.671875Z"/>
+<entry
+   committed-rev="8034"
+   name="SimpleCLI.java"
+   text-time="2013-11-25T03:38:37.828125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="5aa3fc378fff1cfaa1ad62727ba6345e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.656250Z"/>
+<entry
+   committed-rev="8034"
+   name="WekaTaskMonitor.java"
+   text-time="2013-11-25T03:38:37.875000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4fbb7cb2782876d2767fded152cca757"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.703125Z"/>
+<entry
+   committed-rev="8034"
+   name="PropertyValueSelector.java"
+   text-time="2013-11-25T03:38:37.859375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="2c3f01e16d4de90143f4376c547c7323"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.687500Z"/>
+<entry
+   committed-rev="10216"
+   name="GenericArrayEditor.java"
+   text-time="2013-11-25T03:38:37.843750Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="dfb7006f79b7eda048a4dc7f11a04b58"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.687500Z"/>
+<entry
+   committed-rev="8034"
+   name="LookAndFeel.java"
+   text-time="2013-11-25T03:38:37.890625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="99e2e6483c433ef376727c26a0029e87"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.703125Z"/>
+<entry
+   committed-rev="9832"
+   name="SetInstancesPanel.java"
+   text-time="2013-11-25T03:38:37.906250Z"
+   committed-date="2013-06-28T10:22:32.843437Z"
+   checksum="6703907b6611d2c1808f3eb021d3d235"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:11.718750Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="8034"
+   name="JListHelper.java"
+   text-time="2013-11-25T03:38:37.921875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="89b744a9b0501cca044df39a85e83ec9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.671875Z"/>
+<entry
+   committed-rev="10216"
+   name="PackageManager.java"
+   text-time="2013-11-25T03:38:37.937500Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="e2de912324805a82f9c577f2c0b1d1b5"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.687500Z"/>
+<entry
+   committed-rev="8034"
+   name="PropertyText.java"
+   text-time="2013-11-25T03:38:37.953125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="7e4560295eba235d4cf4f51df26bd2d8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.687500Z"/>
+<entry
+   committed-rev="6623"
+   name="ETable.java"
+   text-time="2013-11-25T03:38:37.953125Z"
+   committed-date="2010-07-04T23:03:54.292980Z"
+   checksum="c83e62843cde932bb299d699203216c1"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.703125Z"/>
+<entry
+   committed-rev="8034"
+   name="ListSelectorDialog.java"
+   text-time="2013-11-25T03:38:37.968750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="e7e0739bc845868fc9f3bb3af7e530ea"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.718750Z"/>
+<entry
+   name="treevisualizer"
+   kind="dir"/>
+<entry
+   committed-rev="10216"
+   name="HierarchyPropertyParser.java"
+   text-time="2013-11-25T03:38:37.984375Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="be349d89458d91f3dc586a442bfec797"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.109375Z"/>
+<entry
+   committed-rev="657"
+   name="weka_icon.png"
+   text-time="2013-11-25T03:38:38.000000Z"
+   committed-date="2000-04-27T23:05:20.000000Z"
+   checksum="c7336eb03aefa41da3909cbfa0d9ec47"
+   last-author="trigg"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.109375Z"/>
+<entry
+   committed-rev="9442"
+   name="PropertyPanel.java"
+   text-time="2013-11-25T03:38:38.015625Z"
+   committed-date="2013-01-13T21:13:38.165882Z"
+   checksum="ea3bc72a69871dee3ab7f295a3eedc98"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.125000Z"/>
+<entry
+   committed-rev="8034"
+   name="DatabaseConnectionDialog.java"
+   text-time="2013-11-25T03:38:38.031250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="650453d0d3bd7eb199ebf3baa9d922af"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.140625Z"/>
+<entry
+   committed-rev="8034"
+   name="LookAndFeel.props"
+   text-time="2013-11-25T03:38:38.062500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="d7de400b0d1267d1643ce3d0c1644644"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:13.140625Z"/>
+<entry
+   name="beans"
+   kind="dir"/>
+<entry
+   name="hierarchyvisualizer"
+   kind="dir"/>
+<entry
+   committed-rev="8034"
+   name="ReaderToTextPane.java"
+   text-time="2013-11-25T03:38:38.078125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="6d1ac780bf305712caf0f43cb34d768e"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.765625Z"/>
+<entry
+   committed-rev="8034"
+   name="MemoryUsage.props"
+   text-time="2013-11-25T03:38:38.093750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="9ec18d8b1c511d8269590a73a2837131"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.781250Z"/>
+<entry
+   committed-rev="8034"
+   name="Logger.java"
+   text-time="2013-11-25T03:38:38.109375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="97d17d8ad57b5edfa7112a0676cdcc11"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.796875Z"/>
+<entry
+   committed-rev="10219"
+   name="CheckBoxList.java"
+   text-time="2013-11-25T03:38:38.125000Z"
+   committed-date="2013-11-20T21:50:02.689904Z"
+   checksum="f0cdae45be84f4731a00c97a1876bd67"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.796875Z"/>
+<entry
+   committed-rev="657"
+   name="weka_icon.gif"
+   text-time="2013-11-25T03:38:38.140625Z"
+   committed-date="2000-04-27T23:05:20.000000Z"
+   checksum="25294ba2142300a49fa00fb86fbd6fe1"
+   last-author="trigg"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.812500Z"/>
+<entry
+   committed-rev="10216"
+   name="Main.java"
+   text-time="2013-11-25T03:38:38.171875Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="dd36c2c429825e71de76fa933faf18bc"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.828125Z"/>
+<entry
+   committed-rev="9348"
+   name="InstancesSummaryPanel.java"
+   text-time="2013-11-25T03:38:38.171875Z"
+   committed-date="2012-11-25T06:50:33.218933Z"
+   checksum="2fbac57279d8b1f41701fc35f866888e"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.843750Z"/>
+<entry
+   committed-rev="657"
+   name="weka_stationary.gif"
+   text-time="2013-11-25T03:38:38.187500Z"
+   committed-date="2000-04-27T23:05:20.000000Z"
+   checksum="8b6e73319ea47743d624e877f1cafbe2"
+   last-author="trigg"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.843750Z"/>
+<entry
+   committed-rev="5142"
+   name="DocumentPrinting.java"
+   text-time="2013-11-25T03:38:38.203125Z"
+   committed-date="2009-03-05T03:27:23.999896Z"
+   checksum="57710e52d3fcdedc3ac218e66dc1b8ca"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.859375Z"/>
+<entry
+   committed-rev="10216"
+   name="ConverterFileChooser.java"
+   text-time="2013-11-25T03:38:38.218750Z"
+   committed-date="2013-11-20T05:08:33.523947Z"
+   checksum="8b3d69497fd2a0b3476318c6593bccd5"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.875000Z"/>
+<entry
+   committed-rev="8034"
+   name="SelectedTagEditor.java"
+   text-time="2013-11-25T03:38:38.265625Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a19f744922b53fa56a017be92a67e90c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:36.875000Z"/>
+<entry
+   name="streams"
+   kind="dir"/>
+</wc-entries>

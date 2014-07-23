@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10141"
+   name=""
+   committed-date="2013-11-12T04:08:39.640400Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/meta"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:41.578125Z"
+   revision="10228"/>
+<entry
+   committed-rev="10141"
+   name="FilteredClassifier.java"
+   text-time="2013-11-25T03:38:41.625000Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="565d51502a6f662f3246255ea090c473"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.859375Z"/>
+<entry
+   committed-rev="10141"
+   name="Stacking.java"
+   text-time="2013-11-25T03:38:41.609375Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="a1690cf4c3a0a1ea0a59ac14cf6ad578"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.859375Z"/>
+<entry
+   committed-rev="10141"
+   name="RandomSubSpace.java"
+   text-time="2013-11-25T03:38:41.656250Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="d744f441bc05dcfb703188b600b62b3d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.875000Z"/>
+<entry
+   committed-rev="10141"
+   name="CostSensitiveClassifier.java"
+   text-time="2013-11-25T03:38:41.687500Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="92cdff003c7d41b5f1b17ec6d9ed1cae"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.890625Z"/>
+<entry
+   committed-rev="9248"
+   name="MultiClassClassifierUpdateable.java"
+   text-time="2013-11-25T03:38:41.703125Z"
+   committed-date="2012-10-24T10:27:06.649711Z"
+   checksum="18323c4fa13f092d8b066500c2b58349"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.906250Z"/>
+<entry
+   committed-rev="10141"
+   name="Vote.java"
+   text-time="2013-11-25T03:38:41.734375Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="e5dfad5d23b868c88e9b3213b2e2aeee"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.078125Z"/>
+<entry
+   committed-rev="10141"
+   name="MultiScheme.java"
+   text-time="2013-11-25T03:38:41.781250Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="a289e9158b9db3eb2c24507a9dc9f317"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.203125Z"/>
+<entry
+   committed-rev="10141"
+   name="CVParameterSelection.java"
+   text-time="2013-11-25T03:38:41.750000Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="6d74530abff5900cccd1d991b4373b0c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.109375Z"/>
+<entry
+   committed-rev="10141"
+   name="AttributeSelectedClassifier.java"
+   text-time="2013-11-25T03:38:41.796875Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="e9f77678036c8fcc49e43081b99e3e2a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.296875Z"/>
+<entry
+   committed-rev="10141"
+   name="MultiClassClassifier.java"
+   text-time="2013-11-25T03:38:41.828125Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="36a7cee8481a397c7f3cdc9647a0aaa6"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.390625Z"/>
+<entry
+   committed-rev="10141"
+   name="LogitBoost.java"
+   text-time="2013-11-25T03:38:41.812500Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="c92f8ddffd108ad32539bce5081dcd83"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.343750Z"/>
+<entry
+   committed-rev="10141"
+   name="RegressionByDiscretization.java"
+   text-time="2013-11-25T03:38:41.859375Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="e1c16506fdb0d4aed6a48d6c4575a6b0"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.468750Z"/>
+<entry
+   committed-rev="9317"
+   name="RandomCommittee.java"
+   text-time="2013-11-25T03:38:41.843750Z"
+   committed-date="2012-11-13T03:55:31.575445Z"
+   checksum="8a8f94c199cc8c4cf4ce2854e8ee3906"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.453125Z"/>
+<entry
+   committed-rev="10141"
+   name="AdditiveRegression.java"
+   text-time="2013-11-25T03:38:41.890625Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="a749f285d373f215c81e615ce127663d"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.500000Z"/>
+<entry
+   committed-rev="10141"
+   name="AdaBoostM1.java"
+   text-time="2013-11-25T03:38:41.875000Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="5b805b144ba57457b273144dcdf32884"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.484375Z"/>
+<entry
+   committed-rev="10141"
+   name="RandomizableFilteredClassifier.java"
+   text-time="2013-11-25T03:38:41.906250Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="ebf1effe7cbf8e51a15acd7f05192844"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.515625Z"/>
+<entry
+   committed-rev="8034"
+   name="ClassificationViaRegression.java"
+   text-time="2013-11-25T03:38:41.921875Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="62b16daab5d6e51d3589741181228df1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.546875Z"/>
+<entry
+   committed-rev="10141"
+   name="Bagging.java"
+   text-time="2013-11-25T03:38:41.937500Z"
+   committed-date="2013-11-12T04:08:39.640400Z"
+   checksum="035eac82a9fc883fec202ebde9beca55"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:41.562500Z"/>
+</wc-entries>

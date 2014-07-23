@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5349"
+   name=""
+   committed-date="2009-05-17T04:20:17.316077Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/graphvisualizer/icons"
+   last-author="fracpete"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:09.281250Z"
+   revision="10228"/>
+<entry
+   committed-rev="1724"
+   name="zoomin.gif"
+   text-time="2013-11-25T03:38:09.296875Z"
+   committed-date="2003-07-16T00:08:53.000000Z"
+   checksum="4fa8fd65856ac3fa6689ef084f8e533d"
+   last-author="akibriya"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.140625Z"/>
+<entry
+   committed-rev="1724"
+   name="zoomout.gif"
+   text-time="2013-11-25T03:38:09.343750Z"
+   committed-date="2003-07-16T00:08:53.000000Z"
+   checksum="af8f59a1f184316d1c0efa700f619362"
+   last-author="akibriya"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.203125Z"/>
+<entry
+   committed-rev="1724"
+   name="save.gif"
+   text-time="2013-11-25T03:38:09.343750Z"
+   committed-date="2003-07-16T00:08:53.000000Z"
+   checksum="c78e0fce6c722c3d9421a55a8ef044f0"
+   last-author="akibriya"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.250000Z"/>
+<entry
+   committed-rev="1724"
+   name="preferences.gif"
+   text-time="2013-11-25T03:38:09.375000Z"
+   committed-date="2003-07-16T00:08:53.000000Z"
+   checksum="b0e5a8548cfdfa1afb4e00778ae21f56"
+   last-author="akibriya"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.265625Z"/>
+<entry
+   committed-rev="1724"
+   name="extra.gif"
+   text-time="2013-11-25T03:38:09.390625Z"
+   committed-date="2003-07-16T00:08:53.000000Z"
+   checksum="7cb3e1352bf08a29e3cdd47b0c11c0f3"
+   last-author="akibriya"
+   kind="file"
+   prop-time="2013-11-25T03:38:09.265625Z"/>
+</wc-entries>

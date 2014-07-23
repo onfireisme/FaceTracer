@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10169"
+   name=""
+   committed-date="2013-11-14T22:05:52.302840Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/functions/supportVector"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:48.468750Z"
+   revision="10228"/>
+<entry
+   committed-rev="10169"
+   name="Puk.java"
+   text-time="2013-11-25T03:38:48.484375Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="708ae9e40dc4dd902efaa0a43faf5081"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.312500Z"/>
+<entry
+   committed-rev="10169"
+   name="Kernel.java"
+   text-time="2013-11-25T03:38:48.500000Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="149f97f29433755f9db4d555dbb4390b"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.312500Z"/>
+<entry
+   committed-rev="10169"
+   name="RegOptimizer.java"
+   text-time="2013-11-25T03:38:48.546875Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="9f3b6177ad2012586b1792e40d5fa90e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.328125Z"/>
+<entry
+   committed-rev="10169"
+   name="RegSMOImproved.java"
+   text-time="2013-11-25T03:38:48.562500Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="06633ac87ccaa2bc364e510915f92f6c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.343750Z"/>
+<entry
+   committed-rev="10169"
+   name="PolyKernel.java"
+   text-time="2013-11-25T03:38:48.578125Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="d3b060e274710e5e7c6966491ded1abf"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.359375Z"/>
+<entry
+   committed-rev="10169"
+   name="StringKernel.java"
+   text-time="2013-11-25T03:38:48.593750Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="1c33f39cc0b42aaeadaf9bb9ff4fcf3c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.375000Z"/>
+<entry
+   committed-rev="10169"
+   name="CachedKernel.java"
+   text-time="2013-11-25T03:38:48.625000Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="4eae880946302f46e94ce398564a7a74"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.375000Z"/>
+<entry
+   committed-rev="10169"
+   name="KernelEvaluation.java"
+   text-time="2013-11-25T03:38:48.640625Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="a9f166328a0de15154c29e782d93eefa"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.390625Z"/>
+<entry
+   committed-rev="8034"
+   name="NormalizedPolyKernel.java"
+   text-time="2013-11-25T03:38:48.718750Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="a400d7a45eed3784e2b1ee6b003e6485"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.406250Z"/>
+<entry
+   committed-rev="10169"
+   name="RBFKernel.java"
+   text-time="2013-11-25T03:38:48.734375Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="a609fe5a43123451b55e57e610c65284"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.406250Z"/>
+<entry
+   committed-rev="8034"
+   name="SMOset.java"
+   text-time="2013-11-25T03:38:48.750000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="33aaf7e4542616641e29643a1669cd27"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.421875Z"/>
+<entry
+   committed-rev="10169"
+   name="RegSMO.java"
+   text-time="2013-11-25T03:38:48.765625Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="8ba2ab18729f8b97c88a87bacd4ad424"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.437500Z"/>
+<entry
+   committed-rev="10169"
+   name="CheckKernel.java"
+   text-time="2013-11-25T03:38:48.781250Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="f38f8445cae0b5a476db7e41149b56f0"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.453125Z"/>
+<entry
+   committed-rev="10169"
+   name="PrecomputedKernelMatrixKernel.java"
+   text-time="2013-11-25T03:38:48.796875Z"
+   committed-date="2013-11-14T22:05:52.302840Z"
+   checksum="32a94898dd8714c1c4313e970f9a87da"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:48.468750Z"/>
+</wc-entries>

@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Evaluate the face prediction</title>
+		
+		<!-- fancy box css for browsing images-->
+		<link rel="stylesheet" type="text/css" href="./Resource/fancyBox/jquery.fancybox.css" media="screen" />
+		
+		<style type="text/css">
+			#image_list { width:300px; height:600px; overflow-y:scroll; border:1px solid; float:left; display:inline }
+			#image_content { width:300px; height:auto; float:left; display:inline; margin-left:20px }
+			#result { color:#F00; display:none;}
+		</style>
+	</head>
+	<body>
+	
+	<div id="image_list"></div>
+	<iframe name="frm_none" id="frm_none" style="display:none" onload="onIFrameLoaded(this);"></iframe>
+	<form id="evaluateForm" name="evaluateForm" target="frm_none" action="updateimageinfo" method="post">
+	<div id="image_content">
+	<p id="picName"></p>
+	<div id="result" style="display: none;">Successfully update the image information!</div>
+		<input type="hidden" id="pid" name="pid">
+		gender <select id="gender" name="gender">
+			<option id="gender_male">male</option>
+			<option id="gender_female">female</option>
+		</select>
+		<br/>
+		race
+		<select id="race" name="race">
+			<option id="race_asian">asian</option>
+			<option id="race_white">white</option>
+			<option id="race_black">black</option>
+		</select>
+		<br/>
+		age
+		<select id="age" name="age">
+			<option id="age_baby">baby</option>
+			<option id="age_child">child</option>
+			<option id="age_youth">youth</option>
+			<option id="age_middle_aged">middle_aged</option>
+			<option id="age_senior">senior</option>
+		</select>
+		<br/>
+		hair color
+		<select id="hair_color" name="hair_color">
+			<option id="hair_color_blond">blond</option>
+			<option id="hair_color_not_blond">not_blond</option>
+		</select>
+		<br/>
+		eye wear
+		<select id="eye_wear" name="eye_wear">
+			<option id="eye_wear_none">none</option>
+			<option id="eye_wear_eyeglasses">eyeglasses</option>
+			<option id="eye_wear_sunglasses">sunglasses</option>
+		</select>
+		<br/>
+		mustache
+		<select id="mustache" name="mustache">
+			<option id="mustache_true">true</option>
+			<option id="mustache_false">false</option>
+		</select>
+		<br/>
+		blurry
+		<select id="blurry" name="blurry">
+			<option id="blurry_true">true</option>
+			<option id="blurry_false">false</option>
+		</select>
+		<br/>
+		lighting
+		<select id="lighting" name="lighting">
+			<option id="lighting_flash">flash</option>
+			<option id="lighting_harsh">harsh</option>
+		</select>
+		<br/>
+		environment
+		<select id="environment" name="environment">
+			<option id="environment_outdoor">outdoor</option>
+			<option id="environment_indoor">indoor</option>
+		</select>
+		<br/>
+		smiling
+		<select id="smiling" name="smiling">
+			<option id="smiling_true">true</option>
+			<option id="smiling_false">false</option>
+		</select>
+		<button id="submit">Submit</button>
+		<button id="next">Next</button>
+		<p>Please be honest!</p>
+		<a id="fancybox" href="ximages/1.bmp" title="abc"><img id="image" src="" /></a>
+		
+	</div>
+	</form>
+	
+	<script type="text/javascript" src="./Resource/jquery-2.1.0.min.js"></script>
+
+	<!-- Add fancyBox main JS and CSS files -->
+	<script type="text/javascript" src="./Resource/fancyBox/jquery.fancybox.js"></script>
+		
+	<script type="text/javascript">
+		$(function(){
+			var images;
+			var imageIndex = 0;
+			
+			$("#fancybox").fancybox();
+			$.post("getimageslist", function(data) {
+				  images = $.parseJSON(data);
+				  for (var i = 0; i < images.length; i++) {
+				    	$("#image_list").append("<a class=\"imglist\" href=\"\">" + images[i].path + "</a><br>");
+				  }
+				  initData(imageIndex)
+				  
+				  updateBackground(imageIndex);
+				  updateIndex(imageIndex);
+				  
+				  $("a.imglist").click(function(){
+						for (var i = 0; i < images.length; i++) {
+					    	if (images[i].path == $(this).html()) {
+					    		imageIndex = i;
+					    	}
+					  	}
+					  	initData(imageIndex)
+						updateIndex(imageIndex);
+						updateBackground(imageIndex)
+						return false;
+				  });
+			});
+			
+			$("#submit").click(function(){
+				updateImages();
+				$("#evaluateForm").submit();
+			});
+			
+			$("#next").click(function(){
+				// skip to next image
+				if (imageIndex+1 >= images.length) imageIndex = -1;
+				imageIndex += 1;
+				initData(imageIndex)
+				updateIndex(imageIndex);
+				updateBackground(imageIndex);
+			});
+			
+			function updateImages() {
+				images[imageIndex].gender = $("#gender").val();
+				images[imageIndex].race = $("#race").val();
+				images[imageIndex].age = $("#age").val();
+				images[imageIndex].hair_color = $("#hair_color").val();
+				images[imageIndex].eye_wear = $("#eye_wear").val();
+				images[imageIndex].mustache = $("#mustache").val();
+				images[imageIndex].blurry = $("#blurry").val();
+				images[imageIndex].lighting = $("#lighting").val();
+				images[imageIndex].environment = $("#environment").val();
+				images[imageIndex].smiling = $("#smiling").val();
+			}
+			
+			function initData(index) {
+				$("#image").attr("src","fimages/" + images[index].path);
+				$("#fancybox").attr("href","ximages/" + images[index].path);
+				$("#fancybox").attr("title",images[index].path);
+				$("#pid").attr("value",images[index].name);
+				$("#picName").html(images[index].path);
+				$("#gender_"+images[index].gender).attr("selected","selected");
+				$("#race_"+images[index].race).attr("selected","selected");
+				$("#age_"+images[index].age).attr("selected","selected");
+				$("#hair_color_"+images[index].hair_color).attr("selected","selected");
+				$("#eye_wear_"+images[index].eye_wear).attr("selected","selected");
+				$("#mustache_"+images[index].mustache).attr("selected","selected");
+				$("#blurry_"+images[index].blurry).attr("selected","selected");
+				$("#lighting_"+images[index].lighting).attr("selected","selected");
+				$("#environment_"+images[index].environment).attr("selected","selected");
+				$("#smiling_"+images[index].smiling).attr("selected","selected");
+			}
+			
+			function updateIndex(index) {
+				$("#next").html("Next ("+ (index+1) + "/" + images.length + ")");
+			}
+			
+			function updateBackground(index) {
+				$("a.imglist").each(function(){
+					if (images[index] == $(this).html()) {
+			    		$(this).css("background-color","red");
+			    	} else {
+			    		$(this).css("background-color","white");
+			    	}
+				});
+			}
+			
+			/* No use any more
+			function updateImage(imageName, isHandsome) {
+				$.post("updateimageinfo", {name: imageName, result: isHandsome}, function(data) {
+					if (data) {
+						$("#result").fadeIn().delay(1000).fadeOut();
+					}
+				});
+			}
+			*/
+		});
+		
+		function onIFrameLoaded(iframe) {
+			var doc = iframe.contentWindow.document;
+		    var html = doc.body.innerHTML
+			var result = $.parseJSON(html);
+			if (result) {
+				$("#result").fadeIn().delay(1000).fadeOut();
+			}
+			iframe.empty();
+		}
+	</script>
+	</body>
+</html>

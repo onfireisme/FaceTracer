@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10222"
+   name=""
+   committed-date="2013-11-22T03:46:55.173449Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/test/java"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:37:41.312500Z"
+   revision="10228"/>
+<entry
+   name="weka"
+   kind="dir"/>
+</wc-entries>

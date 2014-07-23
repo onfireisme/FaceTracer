@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10154"
+   name=""
+   committed-date="2013-11-13T08:50:06.318039Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/ci"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:43.546875Z"
+   revision="10228"/>
+<entry
+   committed-rev="8034"
+   name="CISearchAlgorithm.java"
+   text-time="2013-11-25T03:38:43.562500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="02008443b4e8069f559e134b72aeb121"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:43.531250Z"/>
+<entry
+   committed-rev="10154"
+   name="ICSSearchAlgorithm.java"
+   text-time="2013-11-25T03:38:43.578125Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="acd333b1d89c59d61606031387c34870"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:43.546875Z"/>
+</wc-entries>

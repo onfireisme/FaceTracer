@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10154"
+   name=""
+   committed-date="2013-11-13T08:50:06.318039Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/bayes/net/search/fixed"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:42.703125Z"
+   revision="10228"/>
+<entry
+   committed-rev="10154"
+   name="FromFile.java"
+   text-time="2013-11-25T03:38:42.718750Z"
+   committed-date="2013-11-13T08:50:06.318039Z"
+   checksum="ffc666089a674da2a98c61b91394d111"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.687500Z"/>
+<entry
+   committed-rev="8034"
+   name="NaiveBayes.java"
+   text-time="2013-11-25T03:38:42.734375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ff3cab126cb4bff38e18217e017b1936"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:42.687500Z"/>
+</wc-entries>

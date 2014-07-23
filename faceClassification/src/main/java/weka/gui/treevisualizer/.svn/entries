@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10224"
+   name=""
+   committed-date="2013-11-24T21:12:57.370030Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/gui/treevisualizer"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:12.906250Z"
+   revision="10228"/>
+<entry
+   committed-rev="10222"
+   name="TreeBuild.java"
+   text-time="2013-11-25T03:38:12.906250Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="19870e6e11dd0f2b730d2eaa7731d876"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.781250Z"/>
+<entry
+   committed-rev="4960"
+   name="TreeVisualizer.props"
+   text-time="2013-11-25T03:38:12.921875Z"
+   committed-date="2009-01-17T00:26:25.901704Z"
+   checksum="234e228c500702b8ed3abeec34e7dfc1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.781250Z"/>
+<entry
+   committed-rev="8034"
+   name="Colors.java"
+   text-time="2013-11-25T03:38:12.937500Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="4ffa7960d76ad9e80fabb94a5242621c"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.796875Z"/>
+<entry
+   committed-rev="8034"
+   name="NamedColor.java"
+   text-time="2013-11-25T03:38:12.953125Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="2af5d3c7e08f7e32d4faec1c8acdcfe9"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.812500Z"/>
+<entry
+   committed-rev="10222"
+   name="Edge.java"
+   text-time="2013-11-25T03:38:12.968750Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="f063ab4b467c8f77d0263af7e6f1e91a"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.812500Z"/>
+<entry
+   committed-rev="10222"
+   name="Node.java"
+   text-time="2013-11-25T03:38:12.984375Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="d601f51dff4972a160f5b04bcfc83785"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.828125Z"/>
+<entry
+   committed-rev="8034"
+   name="TreeDisplayEvent.java"
+   text-time="2013-11-25T03:38:12.984375Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="cfd43664f7bb00e525a5630016aef8b1"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.843750Z"/>
+<entry
+   committed-rev="8034"
+   name="NodePlace.java"
+   text-time="2013-11-25T03:38:13.000000Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="ec667568f8cd0364dd580267d0261a48"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.843750Z"/>
+<entry
+   committed-rev="10222"
+   name="PlaceNode1.java"
+   text-time="2013-11-25T03:38:13.015625Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="ffaa0da574e95e1cce5b763b4f8a365e"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.859375Z"/>
+<entry
+   committed-rev="8034"
+   name="TreeDisplayListener.java"
+   text-time="2013-11-25T03:38:13.031250Z"
+   committed-date="2012-02-15T01:12:10.572616Z"
+   checksum="207d7ad2007386075b110e3c5c1f0be8"
+   last-author="fracpete"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.859375Z"/>
+<entry
+   committed-rev="10222"
+   name="PlaceNode2.java"
+   text-time="2013-11-25T03:38:13.046875Z"
+   committed-date="2013-11-22T03:46:55.173449Z"
+   checksum="44cdf7176827923469f0d9b29ed554a7"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.875000Z"/>
+<entry
+   committed-rev="10224"
+   name="TreeVisualizer.java"
+   text-time="2013-11-25T03:38:13.062500Z"
+   committed-date="2013-11-24T21:12:57.370030Z"
+   checksum="070c7cb049f44611b781e3ac4ef238de"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:12.890625Z"/>
+</wc-entries>

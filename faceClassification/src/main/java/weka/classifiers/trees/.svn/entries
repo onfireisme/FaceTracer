@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10169"
+   name=""
+   committed-date="2013-11-14T22:05:52.302840Z"
+   url="https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka/src/main/java/weka/classifiers/trees"
+   last-author="eibe"
+   kind="dir"
+   uuid="e0a1b77d-ad91-4216-81b1-defd5f83fa92"
+   repos="https://svn.cms.waikato.ac.nz/svn/weka"
+   prop-time="2013-11-25T03:38:40.671875Z"
+   revision="10228"/>
+<entry
+   committed-rev="10153"
+   name="RandomTree.java"
+   text-time="2013-11-25T03:38:40.687500Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="bb8a47df2acc225ee77649fa9d8f235f"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.765625Z"/>
+<entry
+   name="m5"
+   kind="dir"/>
+<entry
+   committed-rev="10153"
+   name="M5P.java"
+   text-time="2013-11-25T03:38:40.703125Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="441f249d7ddad0a8c0c74c54be74cea0"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:38.781250Z"/>
+<entry
+   committed-rev="10153"
+   name="RandomForest.java"
+   text-time="2013-11-25T03:38:40.718750Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="9795549d1af0d058d248246ad2371676"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.078125Z"/>
+<entry
+   name="j48"
+   kind="dir"/>
+<entry
+   committed-rev="10153"
+   name="J48.java"
+   text-time="2013-11-25T03:38:40.734375Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="22cc8758eb70363680dd4d46f0d17ce8"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.093750Z"/>
+<entry
+   committed-rev="9171"
+   name="DecisionStump.java"
+   text-time="2013-11-25T03:38:40.750000Z"
+   committed-date="2012-10-10T03:41:34.442749Z"
+   checksum="9f11225603aa3b914f1c05ae7724db53"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.906250Z"/>
+<entry
+   committed-rev="10153"
+   name="REPTree.java"
+   text-time="2013-11-25T03:38:40.765625Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="2f8c5f023ba22429fdf105e0bc1a3a9c"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.921875Z"/>
+<entry
+   committed-rev="9766"
+   name="HoeffdingTree.java"
+   text-time="2013-11-25T03:38:40.781250Z"
+   committed-date="2013-06-18T00:08:02.455468Z"
+   checksum="0b3b4aee61ce9824068d34eb2ec84182"
+   last-author="mhall"
+   kind="file"
+   prop-time="2013-11-25T03:38:39.937500Z"/>
+<entry
+   name="ht"
+   kind="dir"/>
+<entry
+   name="lmt"
+   kind="dir"/>
+<entry
+   committed-rev="10153"
+   name="LMT.java"
+   text-time="2013-11-25T03:38:40.781250Z"
+   committed-date="2013-11-13T04:54:56.461744Z"
+   checksum="091b82a76a59c4a5fc61ea1e7c384797"
+   last-author="eibe"
+   kind="file"
+   prop-time="2013-11-25T03:38:40.484375Z"/>
+</wc-entries>
